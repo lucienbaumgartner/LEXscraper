@@ -1,0 +1,11 @@
+SRA_id:			integer
+SRA_reg:			logical
+phone:			character
+role:			character
+email:			character
+contact_details:		character (delim: <\n>)
+gmap_link:		character
+profile_link:		character
+languages_spoken:	character (delim: <;>)
+areas_of_practice:	character (delim: <;>)
+project_registry:	characetr

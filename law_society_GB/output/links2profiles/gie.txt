@@ -6,7 +6,6 @@
 /person/112587/ieva-giedraityte
 /person/181772/suzy-giele
 /person/298719/andrea-gielow
-/person/69008/jenna-gielty
 /person/257134/daniel-leigh-giemajner
 /person/70553/piotr-roman-giemza-popowski
 /person/183145/helen-frances-gierc
@@ -18,3 +17,4 @@
 /person/105932/michael-david-giess
 /person/148384/roger-joseph-giess
 /person/39427/katherine-elizabeth-gieve
+/person/222157/hans-mark-giezen

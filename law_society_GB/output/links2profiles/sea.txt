@@ -133,8 +133,8 @@
 /person/119439/sean-spencer-james-gates
 /person/148124/seamus-patrick-gavin
 /person/150574/sean-geary
-/person/32013/sean-patrick-alfred-geraghty
 /person/59095/sean-francis-geraghty
+/person/32013/sean-patrick-alfred-geraghty
 /person/33312/sean-michael-gibbons
 /person/146853/sean-vicary-gibbs
 /person/362544/sean-michael-giles
@@ -296,8 +296,8 @@
 /person/13412/patrick-sean-oconnor
 /person/200911/sean-richard-oconnor
 /person/200732/sean-gerard-michael-oconnor
-/person/327307/sean-patrick-oconnor
 /person/5622/sean-strangways-oconnor
+/person/327307/sean-patrick-oconnor
 /person/323991/sean-odea
 /person/360990/sean-michael-ohalloran
 /person/366740/sean-christopher-ohanrahan

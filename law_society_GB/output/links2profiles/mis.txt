@@ -10,6 +10,7 @@
 /person/188592/rachel-collins-miskin
 /person/80289/ela-mistry-crighton
 /person/254674/krishna-mistry-doshi
+/person/362539/hannah-clare-fennelly-misso
 /person/402404/misbah-ganny
 /person/284413/mishali-gundecha
 /person/407039/mischa-camille-hulcom
@@ -61,7 +62,6 @@
 /person/298251/katharine-louise-missenden
 /person/327315/george-c-missick
 /person/155221/leigh-missig
-/person/362539/hannah-clare-misso
 /person/14282/jerome-jude-misso
 /person/227938/christine-diane-misson
 /person/46399/nigel-john-misson

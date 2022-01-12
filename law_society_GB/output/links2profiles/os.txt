@@ -167,8 +167,8 @@
 /person/258558/charlotte-frances-osborne
 /person/95268/charlotte-sarah-osborne
 /person/276734/christopher-osborne
-/person/318338/christopher-george-osborne
 /person/203164/christopher-patrick-osborne
+/person/318338/christopher-george-osborne
 /person/49533/claire-judith-osborne
 /person/210998/david-peter-osborne
 /person/4044/david-neil-osborne

@@ -32,8 +32,8 @@
 /person/211377/majid-iqbal
 /person/90355/chernor-maju-jalloh
 /person/276746/afsireel-majaser-khan
-/person/280260/majid-khan
 /person/101094/majid-khan
+/person/280260/majid-khan
 /person/407080/majid-zahid-khan-khattak
 /person/280303/majekodunmi-patrick-kola
 /person/323890/majella-macoscar

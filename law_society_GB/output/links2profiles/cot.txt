@@ -87,10 +87,10 @@
 /person/64068/chez-cotton
 /person/26269/daniel-ronan-cotton
 /person/89443/david-john-cotton
-/person/95947/edward-matthew-cotton
 /person/131304/edward-james-cotton
-/person/71912/elizabeth-anne-cotton
+/person/95947/edward-matthew-cotton
 /person/297307/elizabeth-helen-cotton
+/person/71912/elizabeth-anne-cotton
 /person/324793/elton-kingsley-cotton
 /person/367819/felicity-cotton
 /person/141845/georgina-elizabeth-cotton

@@ -13,8 +13,8 @@
 /person/188199/david-charles-lyon
 /person/196902/donald-charles-lyon
 /person/122540/duncan-erskine-lyon
-/person/169206/elizabeth-alice-dalton-lyon
 /person/224234/elizabeth-anne-lyon
+/person/169206/elizabeth-alice-dalton-lyon
 /person/230148/emma-elizabeth-lyon
 /person/333175/erin-hope-lyon
 /person/177625/fiona-lyon

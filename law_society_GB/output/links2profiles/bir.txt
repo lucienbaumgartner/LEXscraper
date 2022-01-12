@@ -192,7 +192,7 @@
 /person/218015/gurpreet-birdi
 /person/145479/kiran-birdi
 /person/295941/kushinder-birdi
-/person/310674/leena-pankaj-birdi
+/person/310674/leena-birdi
 /person/364330/manita-birdi
 /person/295968/nick-raj-birdi
 /person/61033/anne-marie-birdsey

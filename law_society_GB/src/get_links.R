@@ -24,7 +24,7 @@ write_out_links <- function(n, index){
   write(index, file = paste0("/Volumes/extICY/LEXscraping/law_society_GB/output/logs/indices.txt"), append=TRUE)
 }
 
-cycler <- function(f1 = 1, f2 = 1, f3 = 1){
+cycler <- function(f1 = 1, f2 = 1, f3 = 1, f4 = 1, f5 = 1){
   for(m in letters[f1:length(letters)]){
     tmp_search_page <- read_html(root_url(paste0(m)))
     current_n <- get_search_n(tmp_search_page)
@@ -56,8 +56,39 @@ cycler <- function(f1 = 1, f2 = 1, f3 = 1){
               }else{
                 next
               }
+            }else if(current_n/(30*20) <= 1){
+              write_out_links(n = current_n, index = paste0(m,k,i))
+            }else if(current_n/(30*20) >= 1){
+              for(o in letters[f4:length(letters)]){
+                tmp_search_page <- read_html(root_url(paste0(m,k,i,o)))
+                current_n <- get_search_n(tmp_search_page)
+                if(current_n == 0){
+                  if(o=="z"){
+                    f4 <- 1
+                    break
+                  }else{
+                    next
+                  }
+                }else if(current_n/(30*20) <= 1){
+                  write_out_links(n = current_n, index = paste0(m,k,i,o))
+                }else if(current_n/(30*20) >= 1){
+                  for(z in letters[f5:length(letters)]){
+                    tmp_search_page <- read_html(root_url(paste0(m,k,i,o,z)))
+                    current_n <- get_search_n(tmp_search_page)
+                    if(current_n == 0){
+                      if(z=="z"){
+                        f5 <- 1
+                        break
+                      }else{
+                        next
+                      }
+                    }else{
+                      write_out_links(n = current_n, index = paste0(m,k,i,o,z))
+                    }
+                  }
+                }
+              }
             }
-            write_out_links(n = current_n, index = paste0(m,k,i))
           }
         }
       }
@@ -66,66 +97,24 @@ cycler <- function(f1 = 1, f2 = 1, f3 = 1){
 }
 
 last_index <- readLines("/Volumes/extICY/LEXscraping/law_society_GB/output/logs/last_index.txt")
-if(last_index == ""){
+if(identical(last_index, character(0))){
   cycler()
 }else{
   vec <- setNames(1:26, letters)
-  last_index <- unlist(strsplit(last_index, ""))[1:3]
+  last_index <- unlist(strsplit(last_index, ""))[1:5]
   last_index <- vec[last_index]
   last_index[is.na(last_index)] <- 1
-  cycler(f1 = last_index[1], f2 = last_index[2], f3 = last_index[3])
+  cycler(f1 = last_index[1], f2 = last_index[2], f3 = last_index[3], f4 = last_index[4], f5 = last_index[5])
 }
 
+files2collect <- unique(list.files("/Volumes/extICY/LEXscraping/law_society_GB/output/links2profiles/", full.names = T))
+collection <- lapply(files2collect, readLines)
+cvec <- unlist(collection)
+cnames <- rep(list.files("/Volumes/extICY/LEXscraping/law_society_GB/output/links2profiles/"), times = lengths(collection))
+length(cvec) == length(cnames)
+tibble(cvec, cnames) %>% 
+  filter(!cvec == "") %>% 
+  filter(!duplicated(cvec))
 
+length(collection2)
 
-
-
-
-substrRight <- function(x, n){
-  substr(x, nchar(x)-n+1, nchar(x))
-}
-resolve_index <- function(x, .next = F){
-  if(nchar(x) == 1 | (nchar(x) == 2 & !.next)){
-    tmp_index <- paste0(x, letters[1])
-    #}else if((nchar(x) == 2 | str_sub(x, -1) == "z") & .next){
-  }else if(nchar(x) == 3 | .next){
-    if(str_sub(x, -2) == "zz"){
-      tmp_index <- letters[grep(unlist(strsplit(x, ""))[1], letters) + 1]
-    }else if(grepl("^[a-z]z*", str_sub(x, -2))){
-      tmp_index <- paste0(strtrim(x, nchar(x) - 2), letters[grep(unlist(strsplit(x, ""))[nchar(x) -1 ], letters) + 1])
-    }else{
-      tmp_index <- paste0(strtrim(x, nchar(x) - 1), letters[grep(unlist(strsplit(x, ""))[nchar(x)], letters) + 1])
-    }
-  }
-  return(tmp_index)
-}
-get_index <- function(x){
-  last_index <- readLines("../output/logs/last_index.txt")
-  return(resolve_index(last_index, .next = T))
-}
-update_index <- function(x){
-  tmp_index <- get_index()
-  tmp_search_page <- x
-  current_n <- get_search_n(x)
-  while(current_n/(30*20) >= 1 | current_n == 0){
-    tmp_index <- resolve_index(tmp_index)
-    tmp_search_page <- read_html(root_url(tmp_index))
-    current_n <- get_search_n(tmp_search_page)
-  }
-  print(tmp_index)
-  return(list(search_page = tmp_search_page, index = tmp_index))
-}
-while(check){
-  page <- 1
-  search_page <- read_html(root_url(get_index()))
-  task <- update_index(search_page)
-  for(i in 1:round(get_search_n(task$search_page)/20, 0)){
-    search_page <- read_html(root_url(task$index, page = i))
-    links <- search_page %>% html_nodes("#results > section > header > h2 > a") %>% html_attr("href")
-    write(links, file = paste0("../output/links2profiles/", task$index, ".txt"), append=TRUE)
-    page <- page + 1
-  }
-  writeLines(task$index, "../output/logs/last_index.txt")
-  write(task$index, file = paste0("../output/logs/indices.txt"), append=TRUE)
-  check <- !task$index == 'bab'
-}

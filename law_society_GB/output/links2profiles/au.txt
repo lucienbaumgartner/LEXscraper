@@ -163,8 +163,8 @@
 /person/93534/gary-william-austin
 /person/150451/gillian-austin
 /person/385481/harry-austin
-/person/177312/helen-austin
 /person/124076/helen-louise-austin
+/person/177312/helen-austin
 /person/121796/ian-douglas-austin
 /person/108393/ian-dafydd-austin
 /person/239590/james-st-john-austin
@@ -200,8 +200,8 @@
 /person/408843/paul-michael-austin
 /person/114711/paul-anthony-austin
 /person/262489/raoul-william-austin
-/person/226526/rebecca-sian-austin
 /person/153772/rebecca-austin
+/person/226526/rebecca-sian-austin
 /person/219964/rebecca-zelia-austin
 /person/173647/robert-philip-austin
 /person/49197/robert-jonathan-paul-austin

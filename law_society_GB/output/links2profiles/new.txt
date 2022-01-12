@@ -290,9 +290,9 @@
 /person/314813/rebecca-newman
 /person/26845/rex-daniel-newman
 /person/35494/rina-newman
-/person/79428/robert-david-newman
 /person/12548/robert-james-newman
 /person/101384/robert-james-newman
+/person/79428/robert-david-newman
 /person/11462/robert-john-newman
 /person/45106/sally-newman
 /person/359888/samuel-thomas-newman

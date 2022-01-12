@@ -83,8 +83,8 @@
 /person/420150/nefisa-afzal
 /person/88453/raesa-rehana-afzal
 /person/153238/rafia-afzal
-/person/9500/raja-atif-afzal
 /person/291099/raja-shoaib-afzal
+/person/9500/raja-atif-afzal
 /person/231284/roheen-afzal
 /person/15073/saima-afzal
 /person/68359/saima-afzal
@@ -108,6 +108,7 @@
 /person/104575/afzall-akram
 /person/344918/afren-aktar
 /person/1000022507/jenna-ebrahim-abdulhadi-al-afoo
+/person/323625/zarah-afsha-alam-sohail
 /person/134919/afshan-ali
 /person/130135/afshan-ali-syed
 /person/321294/mohammed-afzal-anwar

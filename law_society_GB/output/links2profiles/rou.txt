@@ -6,6 +6,7 @@
 /person/1000007800/emma-rouzane-dauriac
 /person/87647/caroline-serena-de-rougemont
 /person/196487/roumiana-mitkova-dimitrova
+/person/1000011000/maxence-gervais-de-rouville
 /person/103247/roumena-goscomb
 /person/235591/zainab-rouke-hodgson
 /person/399593/colin-le-roux

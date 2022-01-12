@@ -144,9 +144,9 @@
 /person/116015/owain-cadwaladr-jones
 /person/152128/owain-alaw-jones
 /person/241141/owen-philip-jones
-/person/296820/owen-jones
 /person/277424/owen-gerallt-jones
 /person/55157/owen-lloyd-jones
+/person/296820/owen-jones
 /person/314555/owen-richard-jones
 /person/32551/owen-roy-jones
 /person/268313/richard-owen-jones
@@ -253,8 +253,8 @@
 /person/62251/david-randal-owen
 /person/135440/david-owen
 /person/132371/david-james-owen
-/person/262306/david-mark-owen
 /person/253269/david-philip-owen
+/person/262306/david-mark-owen
 /person/110507/david-timothy-owen
 /person/225706/denise-ann-elizabeth-owen
 /person/50149/donald-charles-henshall-owen
@@ -276,8 +276,8 @@
 /person/125666/gerallt-wyn-owen
 /person/49119/gillian-owen
 /person/254028/glyn-owen
-/person/416469/gruffydd-owen
 /person/372332/gruffydd-owen
+/person/416469/gruffydd-owen
 /person/144093/gwyneth-osborne-owen
 /person/314407/hannah-owen
 /person/218654/heather-milunka-owen

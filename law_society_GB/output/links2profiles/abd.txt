@@ -77,6 +77,7 @@
 /person/345326/osman-mekki-osman-abdulrahman
 /person/168806/abdel-raouf-taoufik-achour
 /person/325733/abdul-ahad
+/person/307733/abdullahi-ahmed
 /person/266014/hamza-abdirahman-ahmed
 /person/384865/syed-abdur-razzaq-ahmed
 /person/381198/sara-abdulaziz-abdullah-al-hinai
@@ -144,8 +145,8 @@
 /person/310326/osama-hassan-abdel-rahman
 /person/307005/abdul-qadar-hayat
 /person/130084/abdul-hunnan
-/person/225685/abdul-nasser-hussain
 /person/140173/abdul-waqass-hussain
+/person/225685/abdul-nasser-hussain
 /person/1000017008/reem-khalil-abdulwahid-hussain
 /person/371570/samira-abdi-hussein
 /person/176022/salim-abdullah-ibrahim
@@ -164,9 +165,9 @@
 /person/79569/abdul-nassar-khalil
 /person/215502/abdul-hadi-khalisadar
 /person/160583/abda-bibi-khan
-/person/114556/abdul-swammad-khan
-/person/1000029111/abdul-aziz-khan
 /person/234173/abdul-salam-khan
+/person/1000029111/abdul-aziz-khan
+/person/114556/abdul-swammad-khan
 /person/402928/abdul-khan
 /person/223134/abdul-ghaffar-khan
 /person/234654/abdul-wadood-khan
@@ -195,7 +196,6 @@
 /person/202334/abdur-rauf-mohammad
 /person/315816/abdelhaleem-amir-mohammed
 /person/5241/abdul-haq-mohammed
-/person/307733/abdullahi-mohammed
 /person/271970/abdul-mojid
 /person/394070/mohammad-abdul-mojid
 /person/328923/abdul-momin
@@ -233,8 +233,8 @@
 /person/282490/abdul-salam-fadl-seid-ahmed
 /person/127662/abdel-karim-omar-senussi
 /person/200189/mohammed-abdus-subhan-shah
-/person/49448/abdul-shahid
 /person/423758/abdul-manan-shahid
+/person/49448/abdul-shahid
 /person/245751/mohammed-abdus-shahid
 /person/288974/abdul-hadi-shahul-hameed
 /person/382594/umar-abdullah-shaikh

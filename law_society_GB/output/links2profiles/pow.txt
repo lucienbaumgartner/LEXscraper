@@ -244,8 +244,8 @@
 /person/83649/sarah-louise-power
 /person/276180/sarah-catherine-power
 /person/320087/sarah-leah-power
-/person/312313/sarah-power
 /person/54489/sarah-louise-power
+/person/312313/sarah-power
 /person/198703/shona-marie-power
 /person/254223/stephanie-anne-power
 /person/191859/stephanie-anne-power

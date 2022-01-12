@@ -197,9 +197,9 @@
 /person/98375/claudia-mason
 /person/40377/colin-anthony-mason
 /person/156830/david-paul-mason
-/person/168233/david-gwyn-mason
-/person/87255/david-anthony-mason
 /person/397706/david-john-mason
+/person/87255/david-anthony-mason
+/person/168233/david-gwyn-mason
 /person/291371/david-william-mason
 /person/178454/david-rhodri-mason
 /person/246177/deborah-jane-mason
@@ -300,8 +300,8 @@
 /person/277929/paul-anthony-mason
 /person/129846/peter-john-mason
 /person/48212/peter-timothy-james-mason
-/person/101701/peter-ralph-mason
 /person/183379/peter-ben-mason
+/person/101701/peter-ralph-mason
 /person/74219/peter-robert-mason
 /person/201088/peter-richard-mason
 /person/132988/philip-john-mason

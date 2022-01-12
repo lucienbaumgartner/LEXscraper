@@ -113,8 +113,8 @@
 /person/118323/joanna-catherine-hawkins
 /person/226279/joanne-hawkins
 /person/43320/john-trenchard-hawkins
-/person/23281/john-hawkins
 /person/265379/john-hawkins
+/person/23281/john-hawkins
 /person/70375/john-rowland-hawkins
 /person/279563/john-richard-hawkins
 /person/373313/jonathan-alexander-hawkins
@@ -156,8 +156,8 @@
 /person/307549/sophie-hawkins
 /person/81147/stephen-john-hawkins
 /person/177722/suzanne-karen-hawkins
-/person/299894/victoria-hawkins
 /person/275574/victoria-judith-hawkins
+/person/299894/victoria-hawkins
 /person/145660/zhaleh-hawkins
 /person/239695/elen-mair-hawkley
 /person/209979/john-hamilton-hawkridge

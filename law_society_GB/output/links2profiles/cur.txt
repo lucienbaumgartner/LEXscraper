@@ -123,8 +123,8 @@
 /person/314891/james-david-currie
 /person/274172/james-currie
 /person/209715/julie-susan-currie
-/person/401812/katherine-currie
 /person/274948/katherine-currie
+/person/401812/katherine-currie
 /person/220014/lawrance-norman-alexander-currie
 /person/383902/lewis-currie
 /person/13452/margaret-currie
@@ -204,8 +204,8 @@
 /person/189176/claire-louise-curtis
 /person/73840/claire-louise-curtis
 /person/182325/daniel-joseph-curtis
-/person/196172/daniel-nicholas-mansfield-curtis
 /person/14966/daniel-jamie-curtis
+/person/196172/daniel-nicholas-mansfield-curtis
 /person/43018/darren-mark-curtis
 /person/11570/david-john-curtis
 /person/238993/david-matthew-curtis
@@ -261,10 +261,10 @@
 /person/310403/sarah-curtis
 /person/280038/sarah-louise-curtis
 /person/220746/scott-barry-curtis
-/person/108200/simon-john-curtis
 /person/159135/simon-andrew-charles-curtis
 /person/127578/simon-bernard-curtis
 /person/4272/simon-robert-curtis
+/person/108200/simon-john-curtis
 /person/14213/stephen-marc-curtis
 /person/337432/stephen-howard-curtis
 /person/93814/tamasin-anne-curtis

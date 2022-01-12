@@ -25,7 +25,6 @@
 /person/14912/mamta-lal
 /person/272027/manoher-lal
 /person/369257/monica-lal
-/person/338256/parmjit-lal
 /person/130261/raina-lal
 /person/212384/rakesh-lal
 /person/198042/sarnjit-lal

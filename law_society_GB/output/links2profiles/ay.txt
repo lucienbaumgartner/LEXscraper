@@ -166,6 +166,7 @@
 /person/110566/amman-ayub
 /person/100449/asha-sabrina-ayub
 /person/177555/atif-ayub
+/person/157210/azara-ayub
 /person/246994/baber-ahmed-ayub
 /person/368405/hamzah-ayub
 /person/403990/mariam-ayub
@@ -377,7 +378,6 @@
 /person/368042/ayodeji-bankole-sasegbon
 /person/220814/naomi-elizabeth-scullin-ayoub
 /person/118569/aykin-senkul
-/person/1000009973/aysegul-senoz
 /person/44031/ayesha-shafqut
 /person/309265/ayushi-sharma
 /person/402007/ayman-hassan-shehata
@@ -406,6 +406,7 @@
 /person/351440/jeff-ayrton-vinall
 /person/301259/aymeric-pierre-jean-vincens-de-tapol
 /person/146812/ayesha-khalid-waheed
+/person/1000009973/aysegul-wallis
 /person/369846/ayelen-white
 /person/223162/ayesha-jean-whitworth
 /person/1000016878/ayesha-sharmali-wijetunge

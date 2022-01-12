@@ -113,8 +113,8 @@
 /person/102108/helen-down
 /person/44875/holly-almeida-down
 /person/260170/ian-kennedy-down
-/person/14281/james-robert-down
 /person/298575/james-down
+/person/14281/james-robert-down
 /person/166574/james-leonard-down
 /person/311242/jonathan-down
 /person/306495/jonathan-down
@@ -188,8 +188,8 @@
 /person/172417/helena-karen-downing
 /person/113085/ian-downing
 /person/277537/jennifer-frances-downing
-/person/138412/john-matthew-downing
 /person/116249/john-william-wallace-downing
+/person/138412/john-matthew-downing
 /person/119576/matthew-robert-downing
 /person/153353/natalie-rose-downing
 /person/39753/nicholas-paul-downing
@@ -214,7 +214,6 @@
 /person/282056/christopher-hurst-downton
 /person/261371/david-gareth-downton
 /person/189007/kimberly-castelle-joly-downton
-/person/307862/nyree-victoria-downton
 /person/124928/peter-joseph-downy
 /person/244638/mary-dowrick
 /person/148887/hannah-louisa-dowry
@@ -238,3 +237,4 @@
 /person/210104/lesley-dowson
 /person/193251/neema-dowson-collins
 /person/64234/simon-richard-peter-dowson-collins
+/person/318032/john-charles-dowzell

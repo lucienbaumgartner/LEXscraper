@@ -134,8 +134,8 @@
 /person/405452/euan-john-mills
 /person/182014/euan-roy-milne
 /person/233205/eugene-miskelly
-/person/133646/euan-stenhouse-mitchell
 /person/89801/euan-william-mitchell
+/person/133646/euan-stenhouse-mitchell
 /person/32540/laverne-eugenie-mitchell
 /person/260877/paul-eugene-moody
 /person/382701/alexander-eugene-morris
@@ -176,6 +176,7 @@
 /person/333313/eugenia-siracusa
 /person/285505/euan-mark-folan-smith
 /person/134332/nicholas-eu-kwan-song
+/person/1000052703/mark-robin-eugene-spinney
 /person/55782/laurence-eugene-st-lyon
 /person/22991/robert-euan-stevenson
 /person/87794/charles-eugene-shackleton-strickland

@@ -106,7 +106,6 @@
 /person/376219/apolonio-senobua-bopa
 /person/1000012814/nanret-natasha-senok
 /person/39556/mohammed-senouci
-/person/1000009973/aysegul-senoz
 /person/207885/manuela-patricia-barbosa-senra
 /person/63914/anna-lois-senter
 /person/204213/brian-leslie-senter
@@ -118,3 +117,4 @@
 /person/192322/senay-talat
 /person/127269/joseph-chong-seng-tan
 /person/275715/pip-seng-hin-tan
+/person/254583/senthuran-thavaraja

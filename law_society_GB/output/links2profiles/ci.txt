@@ -200,6 +200,7 @@
 /person/111074/ciara-millar
 /person/1000025476/cimran-mohamed-dahir
 /person/88001/ciaran-james-martin-montague
+/person/1000047203/ciaran-luke-mooney
 /person/313910/ciara-moore
 /person/388073/ciaran-peter-moore
 /person/301026/paul-cian-moriarty

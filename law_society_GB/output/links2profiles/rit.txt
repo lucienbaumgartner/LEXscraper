@@ -114,8 +114,8 @@
 /person/359902/gordon-alasdair-ritchie
 /person/53787/graham-russell-ritchie
 /person/401507/isabella-antigone-caldwell-ritchie
-/person/36772/james-ritchie
 /person/11829/james-ian-ritchie
+/person/36772/james-ritchie
 /person/230294/jennifer-ritchie
 /person/244087/john-craig-ritchie
 /person/182505/jonathan-edward-ritchie

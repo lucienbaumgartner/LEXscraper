@@ -45,8 +45,8 @@
 /person/311019/benjamin-ng
 /person/297973/bernard-siew-kit-ng
 /person/279346/cassandra-cheuk-yan-ng
-/person/313352/cheuk-him-nigel-ng
 /person/398544/cheuk-yin-ng
+/person/313352/cheuk-him-nigel-ng
 /person/355261/chi-hin-wilfred-ng
 /person/253710/chi-ping-ng
 /person/196394/chin-tuen-ng

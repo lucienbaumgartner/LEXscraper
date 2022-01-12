@@ -94,8 +94,8 @@
 /person/179427/stephen-robert-betts
 /person/331433/suzanne-kathleen-betts
 /person/296651/thomas-edward-betts
-/person/261707/william-john-martin-betts
 /person/220421/william-edward-betts
+/person/261707/william-john-martin-betts
 /person/169481/zoe-sandra-betts
 /person/50193/claire-louise-betty
 /person/5050/john-betty
@@ -513,8 +513,8 @@
 /person/152776/beth-whiteoak
 /person/1353/beth-dalia-wilkins
 /person/25505/bethan-nansi-wilkins-jones
-/person/227711/bethan-mair-williams
 /person/188314/bethan-rachel-williams
+/person/227711/bethan-mair-williams
 /person/297218/bethan-williams
 /person/309199/bethan-williams
 /person/387669/bethan-celyn-williams

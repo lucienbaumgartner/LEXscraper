@@ -11,8 +11,8 @@
 /person/340026/afreen-akhtar
 /person/3245/afsana-akhtar
 /person/182025/afshan-parveen-akhtar
-/person/89765/aisha-akhtar
 /person/373510/aisha-salma-akhtar
+/person/89765/aisha-akhtar
 /person/394991/amara-akhtar
 /person/172151/ambreen-akhtar
 /person/402866/amina-akhtar

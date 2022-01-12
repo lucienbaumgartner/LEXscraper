@@ -10,6 +10,7 @@
 /person/423363/ruairi-anthony-mcauley
 /person/296362/ruari-murphy
 /person/306681/ruairi-o-donovan
+/person/1000052763/ruairi-james-okane
 /person/255503/ruairidh-michael-ross
 /person/401841/linda-ling-ruan
 /person/18741/catherine-bridget-ruane
@@ -17,4 +18,3 @@
 /person/91845/emma-louise-ruane
 /person/96682/james-anthony-ruane
 /person/311465/john-ruane
-/person/104736/natalie-ruane

@@ -222,8 +222,8 @@
 /person/206904/jennifer-louise-bowes
 /person/27926/jennifer-louise-bowes
 /person/160612/joy-bowes
-/person/15174/karen-nicole-bowes
 /person/139347/karen-elizabeth-bowes
+/person/15174/karen-nicole-bowes
 /person/48673/lisa-rebecca-bowes
 /person/194485/michael-james-bowes
 /person/247846/sarah-louise-bowes

@@ -112,9 +112,32 @@ collection <- lapply(files2collect, readLines)
 cvec <- unlist(collection)
 cnames <- rep(list.files("/Volumes/extICY/LEXscraping/law_society_GB/output/links2profiles/"), times = lengths(collection))
 length(cvec) == length(cnames)
-tibble(cvec, cnames) %>% 
+profiles <- tibble(cvec, cnames) %>% 
   filter(!cvec == "") %>% 
   filter(!duplicated(cvec))
+checks <- profiles %>% 
+  group_by(cnames) %>% 
+  summarise(n = n()) %>% 
+  mutate(p_maxed_out = n/(30*20))
+range(checks$p_maxed_out)
+hist(checks$p_maxed_out)
+checks %>% 
+  filter(p_maxed_out > 0.98)
 
 length(collection2)
 
+for(i in letters){
+  search_page <- read_html(root_url(i))
+  n_hits <- get_search_n(search_page)
+  write(n_hits, file = "/Volumes/extICY/LEXscraping/law_society_GB/output/logs/alphabet_check.txt", append=TRUE)
+}
+
+checks <- tibble(true_n = readLines("/Volumes/extICY/LEXscraping/law_society_GB/output/logs/alphabet_check.txt") %>% as.numeric(), letter = letters)
+profiles_aggr <- profiles %>% 
+  mutate(letter = str_extract(cnames, "^[a-z]")) %>% 
+  group_by(letter) %>% 
+  summarise(obs_n = n())
+checks <- left_join(profiles_aggr, checks)
+as.data.frame(checks)
+sum(checks$obs_n)
+sum(checks$true_n)

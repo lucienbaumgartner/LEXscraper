@@ -1,0 +1,7 @@
+"481924" "Anna Liza Scozzari Goddard" "07551124411" "ian.day@jet2.com" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 16/01/12" NA "English" "https://solicitors.lawsociety.org.uk/person/121940/anna-liza-scozzari-goddard"
+"481924" "Anna Liza Scozzari Goddard" "
+                        ian.day@jet2.com 
+                    " "ian.day@jet2.com" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 16/01/12" NA "English" "https://solicitors.lawsociety.org.uk/person/121940/anna-liza-scozzari-goddard"
+"339743" "James Alexander Scozzi" "01494722326" "jscozzi@elitelawsolicitors.co.uk" "SRA-approved manager - Director SRA-approved manager - Owner Compliance Officer for Legal Practice Compliance Officer for Finance and Administration" NA NA "Solicitor                                    Admitted as a solicitor: 15/07/09" "Advocacy, Litigation - general" "English, Italian" "https://solicitors.lawsociety.org.uk/person/47748/james-alexander-scozzi"
+"339743" "James Alexander Scozzi" "01494722326" "jscozzi@elitelawsolicitors.co.uk" "SRA-approved manager - Director SRA-approved manager - Owner Compliance Officer for Legal Practice Compliance Officer for Finance and Administration" NA NA "Legal Costs expert" "Advocacy, Litigation - general" "English, Italian" "https://solicitors.lawsociety.org.uk/person/47748/james-alexander-scozzi"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

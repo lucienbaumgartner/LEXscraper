@@ -1,0 +1,3 @@
+"491940" "Scyra Marie Alexander" "03442510075" "cblake@admirallaw.co.uk" "Employee Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 01/03/13" "Company and commercial, Insurance, Personal injury" "English" "https://solicitors.lawsociety.org.uk/person/93033/scyra-marie-alexander"
+"160392" "Scythia Nancy Anna Cross" NA NA "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 15/10/93" "Commercial litigation, Company and commercial, Employment, Intellectual property, Mergers and acquisitions" "English" "https://solicitors.lawsociety.org.uk/person/106175/scythia-nancy-anna-cross"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

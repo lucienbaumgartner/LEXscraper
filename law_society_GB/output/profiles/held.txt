@@ -1,0 +1,6 @@
+"195533" "Andrew John Held" "02033570727" "jill.hine@cps.gsi.gov.uk" "Crown Prosecuting Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/99" "Crime - general, Higher courts rights - criminal Accredited" "English, Russian" "https://solicitors.lawsociety.org.uk/person/274106/andrew-john-held"
+"534527" "Maria Held" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/07/13" NA "English" "https://solicitors.lawsociety.org.uk/person/290714/maria-held"
+"504118" "Christina Maria Helden" NA NA "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 02/09/13" NA "English" "https://solicitors.lawsociety.org.uk/person/89547/christina-maria-helden"
+"363781" "Nikolaas Jasper Helder" "+44(0)2070129600" "karen.morrissey@akingump.com" "SRA-approved manager - Partner" NA NA "Registered foreign lawyer" "Crime - fraud, Cross-border, European Community law" "Dutch, English, French, German" "https://solicitors.lawsociety.org.uk/person/324593/nikolaas-jasper-helder"
+"670642" "Helda Okoth" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/07/20" NA "English" "https://solicitors.lawsociety.org.uk/person/400908/helda-okoth"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

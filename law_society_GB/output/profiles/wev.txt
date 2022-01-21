@@ -1,0 +1,4 @@
+"550159" "Katherine Frances Marion Wevers" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 02/12/13" "Commercial litigation" "English" "https://solicitors.lawsociety.org.uk/person/292605/katherine-frances-marion-wevers"
+"171525" "John Tregorran Wevill" "02077258000" "rebecca.arnold@seddons.co.uk" "" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/99" "Company and commercial, Construction" "English" "https://solicitors.lawsociety.org.uk/person/26589/john-tregorran-wevill"
+"228396" "Rachel Veryan Wevill" "02072953000" "traverssmith@traverssmith.com" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/00" "Commercial property" "English" "https://solicitors.lawsociety.org.uk/person/105706/rachel-veryan-wevill"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

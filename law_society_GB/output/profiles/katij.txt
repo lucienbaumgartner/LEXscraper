@@ -1,0 +1,3 @@
+"455625" "Katijah Ahmed" "01254 263 885" "info@lancemason.co.uk" "" NA NA "Solicitor                                    Admitted as a solicitor: 01/11/10" "Commercial litigation, Company and commercial, Employment, Litigation - general, Personal injury, Travel and tourism" "English, Punjabi, Urdu" "https://solicitors.lawsociety.org.uk/person/15619/katijah-ahmed"
+"528591" "Sophie Katija Horvat" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/10/13" "Private client - Probate, Private client - trusts, Private client - Wills" "English" "https://solicitors.lawsociety.org.uk/person/184988/sophie-katija-horvat"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

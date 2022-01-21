@@ -1,0 +1,5 @@
+"81865" "Roger Hugh Louttit Liddle" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/06/81" "Advocacy, Higher courts rights - criminal Accredited" "English" "https://solicitors.lawsociety.org.uk/person/50547/roger-hugh-louttit-liddle"
+"645193" "Nikol Nikolaeva Loutchanska" "01133229222" "marie@consilialegal.co.uk" "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/07/19" NA "English" "https://solicitors.lawsociety.org.uk/person/379973/nikol-nikolaeva-loutchanska"
+"609692" "Christopher Louth" "02072425905" "helen.seaward@memerycrystal.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 03/10/16" NA "English" "https://solicitors.lawsociety.org.uk/person/309077/christopher-louth"
+"478381" "Natalie Osadciw-Louth" NA NA "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 03/09/12" "Commercial litigation" "English" "https://solicitors.lawsociety.org.uk/person/223635/natalie-osadciw-louth"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

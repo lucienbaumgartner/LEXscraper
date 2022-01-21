@@ -1,0 +1,3 @@
+"214093" "Richard Wharton Crallan" "08003029448" "info@pictons.co.uk" "" NA NA "Solicitor                                    Admitted as a solicitor: 01/02/02" "Advocacy, Higher courts rights - criminal Accredited, Children, Family - general" "English" "https://solicitors.lawsociety.org.uk/person/18228/richard-wharton-crallan"
+"533519" "Shona Mackinnon Crallan" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/12/10" "Administrative and public law, Benefits and allowances, Crime - general, European Community law, Human rights, Litigation - general" "English" "https://solicitors.lawsociety.org.uk/person/233074/shona-mackinnon-crallan"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

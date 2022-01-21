@@ -1,0 +1,4 @@
+"409177" "Fiona Louise De Watazzi" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/05/15" "Financial services" "English, French" "https://solicitors.lawsociety.org.uk/person/252819/fiona-louise-de-watazzi"
+"627017" "Wataru Kamoto" "+81351578200" NA "Partner" NA NA "Registered foreign lawyer" "Corporate finance" "English, Japanese" "https://solicitors.lawsociety.org.uk/person/315507/wataru-kamoto"
+"581100" "Wataru Kawai" "02072962000" "christina.abiri@bytedance.com" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 02/03/15" NA "English" "https://solicitors.lawsociety.org.uk/person/298868/wataru-kawai"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

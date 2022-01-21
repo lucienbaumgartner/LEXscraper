@@ -1,0 +1,4 @@
+"654519" "Allard de Waal" "02030235100" NA "SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/366186/allard-de-waal"
+"541607" "Pieter De Waal" "02072421222" NA "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 15/03/11" "Administrative and public law, Construction, Environment, Planning" "Afrikaans, English" "https://solicitors.lawsociety.org.uk/person/190468/pieter-de-waal"
+"465132" "Stella Waata" "01179302800" "SouthWest.Area@cps.gov.uk" "Crown Prosecuting Solicitor Employee" NA NA "Solicitor                                    Admitted as a solicitor: 15/07/15" "Crime - general" "English" "https://solicitors.lawsociety.org.uk/person/270457/stella-waata"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,4 @@
+"20304" "Charles Summers Linley Olver" NA NA "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 01/11/96" "Financial services" "English, French" "https://solicitors.lawsociety.org.uk/person/231821/charles-summers-linley-olver"
+"599416" "Kirsten Fiona Elizabeth Olverman" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/05/15" "Conveyancing - residential" "English" "https://solicitors.lawsociety.org.uk/person/311779/kirsten-fiona-elizabeth-olverman"
+"147284" "John Richard Olver Parkhouse" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/10/90" "Personal injury" "English" "https://solicitors.lawsociety.org.uk/person/270519/john-richard-olver-parkhouse"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

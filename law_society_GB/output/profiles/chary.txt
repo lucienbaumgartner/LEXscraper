@@ -1,0 +1,4 @@
+"549334" "Nikhil Lakshminarayan Chary" "02076068855" "shannon.wilks@addleshawgoddard.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/01/13" "Corporate finance, Mergers and acquisitions" "English, Hindi, Tamil" "https://solicitors.lawsociety.org.uk/person/288804/nikhil-lakshminarayan-chary"
+"529766" "Maria Charyshkina" "01483408780" "csetford@setfords.co.uk" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 03/05/16" NA "English, Russian" "https://solicitors.lawsociety.org.uk/person/195244/maria-charyshkina"
+"642420" "Rebekah Charys Jones" "02078765000" NA "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 02/09/19" NA "English" "https://solicitors.lawsociety.org.uk/person/383724/rebekah-charys-jones"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

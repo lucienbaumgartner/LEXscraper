@@ -1,0 +1,3 @@
+"625360" "Isobel Hope Foenander" "01279755200" "hello@teeslaw.com" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/17" NA "English" "https://solicitors.lawsociety.org.uk/person/336127/isobel-hope-foenander"
+"572724" "Florian Jan Foerster" NA NA "" NA NA NA "Commercial litigation, Intellectual property" "English, French, German" "https://solicitors.lawsociety.org.uk/person/297425/florian-jan-foerster"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,3 @@
+"134249" "Beroze Bana" NA NA "SRA-approved manager - Director SRA-approved manager - Owner Compliance Officer for Legal Practice Compliance Officer for Finance and Administration" NA NA "Solicitor                                    Admitted as a solicitor: 15/10/86" "Conveyancing - residential, Private client - Probate, Private client - trusts, Private client - Wills" "Creole, English, French" "https://solicitors.lawsociety.org.uk/person/30949/beroze-bana"
+"811098" "Nadya Hristova Berova" NA NA "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 18/01/21" NA "English" "https://solicitors.lawsociety.org.uk/person/418731/nadya-hristova-berova"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

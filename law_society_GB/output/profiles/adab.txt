@@ -1,0 +1,4 @@
+"579208" "Jennifer Alice Adab" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/15" "Mergers and acquisitions" "English, French, Italian" "https://solicitors.lawsociety.org.uk/person/298483/jennifer-alice-adab"
+"516906" "Magdi Fawzi Adab" "02073490296" "Andrew.Darwin@dlapiper.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 03/08/15" NA "English" "https://solicitors.lawsociety.org.uk/person/135247/magdi-fawzi-adab"
+"292330" "Steven Adabadze" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/04/04" "Charities, Commercial litigation, Debt and bankruptcy - personal, Debt recovery, Family - general, Landlord and tenant - residential, Litigation - general" "English, French, German, Ghanian, Twi" "https://solicitors.lawsociety.org.uk/person/176677/steven-adabadze"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

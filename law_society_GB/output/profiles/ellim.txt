@@ -1,0 +1,3 @@
+"650481" "GEORGE RICHARD ELLIMAN" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/20" NA "English" "https://solicitors.lawsociety.org.uk/person/401846/george-richard-elliman"
+"156165" "Simon Elliman" "01225730100" "enquiries@roydswithyking.com" "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 15/10/92" "Clinical negligence, Clinical Negligence Accredited" "English" "https://solicitors.lawsociety.org.uk/person/211804/simon-elliman"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,5 @@
+"659494" "ALI AHMED ALI ALMEEL ALZAABI" "02076555000" "nicola.liddle-peters@shearman.com" "" NA NA "Solicitor                                    Admitted as a solicitor: 25/08/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000010415/ali-ahmed-ali-almeel-alzaabi"
+"812410" "Khaled Alzaeem" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 25/03/21" NA "English" "https://solicitors.lawsociety.org.uk/person/421617/khaled-alzaeem"
+"608405" "Nur AlZubeydi" NA "enquiries@dwf.law" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 01/11/18" "Tax" "Arabic, English" "https://solicitors.lawsociety.org.uk/person/323802/nur-alzubeydi"
+"810648" "Fahad Ali Alzumai" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 22/12/20" NA "English" "https://solicitors.lawsociety.org.uk/person/417839/fahad-ali-alzumai"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

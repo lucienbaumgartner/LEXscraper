@@ -1,0 +1,3 @@
+"641259" "Thomas Andreas Stofer" "02074156000" "nking@wedlakebell.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 16/09/19" NA "English" "https://solicitors.lawsociety.org.uk/person/382839/thomas-andreas-stofer"
+"647528" "Anne Helena Stoffels" "02073294422" "hannah.beagles@shlegal.com" "Employee Associate" NA NA "Solicitor                                    Admitted as a solicitor: 25/01/21" "Intellectual property" "English" "https://solicitors.lawsociety.org.uk/person/353262/anne-helena-stoffels"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

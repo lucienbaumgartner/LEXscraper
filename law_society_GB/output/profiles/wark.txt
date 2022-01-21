@@ -1,0 +1,4 @@
+"490385" "Holly Marie Wark" "0870 414 7000" "enquiries@suffolklife.co.uk" "Employee Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/07/13" "Landlord and tenant - residential, Litigation - general, Neighbour disputes" "English" "https://solicitors.lawsociety.org.uk/person/219341/holly-marie-wark"
+"528930" "Tristan J Wark" "02074217902" "helen.seaward@memerycrystal.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 16/09/13" "Commercial property" "English" "https://solicitors.lawsociety.org.uk/person/246223/tristan-j-wark"
+"640276" "Rebekah Mary Warke" "02070395959" "jrphillips@jonesday.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 02/09/19" NA "English" "https://solicitors.lawsociety.org.uk/person/382432/rebekah-mary-warke"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,6 @@
+"639421" "Gennaro Giuseppe Baffa" "02083638341" "dritchie@shepherd-harris.co.uk" "SRA-approved manager - Director" NA NA NA "Clinical negligence, Crime - fraud, Crime - general, Personal injury" "English, Italian" "https://solicitors.lawsociety.org.uk/person/332219/gennaro-giuseppe-baffa"
+"451276" "Gennaro Baffa" NA NA "" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/286899/gennaro-baffa"
+"344647" "Alex S Bafi" NA NA "Member - CLIFFORD CHANCE LLP, Non-member Partner" NA NA "Registered foreign lawyer" "Corporate finance" "English" "https://solicitors.lawsociety.org.uk/person/195642/alex-s-bafi"
+"652796" "Leonardo Bafunno" NA NA "" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/362152/leonardo-bafunno"
+"637464" "Joshua Nii Bafo Quarcoopome" "+97 1 4 709 8484" "jrphillips@jonesday.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 17/06/19" "Banking, Energy and natural resources" "English" "https://solicitors.lawsociety.org.uk/person/373804/joshua-nii-bafo-quarcoopome"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

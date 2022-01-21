@@ -1,0 +1,3 @@
+"654633" "Sheyma Ali Alwail" "01617853500" "enquiries@pearsonlegal.co.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 15/10/20" NA "English" "https://solicitors.lawsociety.org.uk/person/408363/sheyma-ali-alwail"
+"358886" "Sheyanne Belinda Lee" "02920803800" "nicholas.ahern@cps.gov.uk" "" NA NA "Solicitor                                    Admitted as a solicitor: 01/03/06" "Commercial property, Consumer, Employment, Immigration - nationality and citizenship, Litigation - general, Private client - Probate, Private client - Wills" "English, German" "https://solicitors.lawsociety.org.uk/person/75592/sheyanne-belinda-lee"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

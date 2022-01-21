@@ -1,0 +1,6 @@
+"666105" "ZEEN Sagvan AL-ATROSHI" "02089654266" "lc@gillhams.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/05/21" NA "English" "https://solicitors.lawsociety.org.uk/person/410162/zeen-sagvan-al-atroshi"
+"29321" "Melonie Esther Atraghji" "02079364000" "legalenquiries@freshfields.com" "Professional Support Lawyer" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/97" "Intellectual property" "Arabic, English, French, German" "https://solicitors.lawsociety.org.uk/person/9832/melonie-esther-atraghji"
+"433463" "Neelanjana Atreya" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/10" "Banking, Energy and natural resources" "English" "https://solicitors.lawsociety.org.uk/person/77573/neelanjana-atreya"
+"571616" "Atrayee Basu" "02072962000" "nancy.dobson@hoganlovells.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/14" NA "English" "https://solicitors.lawsociety.org.uk/person/295664/atrayee-basu"
+"655646" "ATRIN BEHSETA" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 28/07/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000011385/atrin-behseta"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

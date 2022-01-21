@@ -1,0 +1,3 @@
+"453957" "Rachel Marie Wos" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 03/09/12" NA "English" "https://solicitors.lawsociety.org.uk/person/177532/rachel-marie-wos"
+"105639" "Michael Wosskow" "01142561560" "ian@wosskowbrown.co.uk" "SRA-approved manager - Member Compliance Officer for Legal Practice Compliance Officer for Finance and Administration" NA NA "Solicitor                                    Admitted as a solicitor: 15/03/72" "Company and commercial, Employment, Insolvency and restructuring - business, Licensing gaming and betting" "English" "https://solicitors.lawsociety.org.uk/person/113614/michael-wosskow"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

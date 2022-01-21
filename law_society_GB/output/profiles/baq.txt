@@ -1,0 +1,5 @@
+"391435" "Felipe Alviar-Baquero" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/08" "Banking, Corporate finance, Energy and natural resources, Insurance, Mergers and acquisitions" "English, Spanish" "https://solicitors.lawsociety.org.uk/person/31389/felipe-alviar-baquero"
+"19025" "Zahra Baqri" NA NA "" NA NA NA "Crime - general, Higher courts rights - criminal Accredited" "English" "https://solicitors.lawsociety.org.uk/person/47145/zahra-baqri"
+"575215" "Maria Baqueriza" "+55 21 2217 7700" NA "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/15" NA "English" "https://solicitors.lawsociety.org.uk/person/295659/maria-baqueriza"
+"665432" "Ali Baquar Kazmi" "08453009410" "enquires@lowellgroup.co.uk" "Inhouse Solicitor - LOWELL FINANCIAL LIMITED, Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/04/21" NA "English" "https://solicitors.lawsociety.org.uk/person/423066/ali-baquar-kazmi"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

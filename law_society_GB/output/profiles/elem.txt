@@ -1,0 +1,3 @@
+"578040" "Shurooq Elemara" "02085888000" "nishy.ramdenee@canon-europe.com" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 21/03/21" NA "English" "https://solicitors.lawsociety.org.uk/person/405458/shurooq-elemara"
+"358909" "Jessica Grace Element" "02071663000" "david.emery@policeconduct.gov.uk" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/06" "Administrative and public law, Advocacy, Crime - general" "English, French" "https://solicitors.lawsociety.org.uk/person/83518/jessica-grace-element"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

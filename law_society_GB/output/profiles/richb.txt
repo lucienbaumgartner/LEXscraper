@@ -1,0 +1,3 @@
+"348741" "Oliver James Richbell" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 02/04/07" "Commercial litigation, Dispute resolution - civil mediation, Dispute resolution - commercial mediation" "English" "https://solicitors.lawsociety.org.uk/person/168702/oliver-james-richbell"
+"139649" "Peter Leonard Richbell" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/10/88" "Personal injury" "English" "https://solicitors.lawsociety.org.uk/person/220185/peter-leonard-richbell"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

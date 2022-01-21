@@ -1,0 +1,4 @@
+"643282" "Kristine Zmicerevska" "02076382811" "paula.jefferson@blmlaw.com" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 15/07/19" NA "English, Latvian, Russian" "https://solicitors.lawsociety.org.uk/person/380229/kristine-zmicerevska"
+"367103" "Richard Zmuda" NA NA "Employee Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 15/04/13" "Company and commercial, Mergers and acquisitions, Pensions" "English" "https://solicitors.lawsociety.org.uk/person/268646/richard-zmuda"
+"263819" "Donna Zmuidzinas Sewell" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/08/97" "Company and commercial, Information Technology" "English, Lithuanian" "https://solicitors.lawsociety.org.uk/person/241808/donna-zmuidzinas-sewell"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

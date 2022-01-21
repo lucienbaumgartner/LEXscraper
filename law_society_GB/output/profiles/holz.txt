@@ -1,0 +1,4 @@
+"616739" "Maria Magdalena Tamara Holzhammer" "02077101063" "becks.norman@lw.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/03/17" "Banking" "English, German" "https://solicitors.lawsociety.org.uk/person/310878/maria-magdalena-tamara-holzhammer"
+"599546" "Michael Holzhauser" "00 49 69 97 11 26" NA "SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/291258/michael-holzhauser"
+"656571" "ANDREW LEE HOLZMAN" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 12/02/21" NA "English" "https://solicitors.lawsociety.org.uk/person/422587/andrew-lee-holzman"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

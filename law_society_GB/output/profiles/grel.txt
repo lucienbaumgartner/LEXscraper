@@ -1,0 +1,3 @@
+"321904" "Nicola Louise De-Grellier Payne" "02083702800" "k.winterflood@barnesandpartners.com" "" NA NA "Solicitor                                    Admitted as a solicitor: 01/07/03" "Commercial property, Conveyancing - residential, Private client - Probate, Private client - Wills" "English" "https://solicitors.lawsociety.org.uk/person/95471/nicola-louise-de-grellier-payne"
+"529961" "Matthew Grellier" "01619693131" "intouch@slaterheelis.co.uk" "Designated Partner" NA NA "Solicitor                                    Admitted as a solicitor: 16/09/13" "Construction" "English" "https://solicitors.lawsociety.org.uk/person/201183/matthew-grellier"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

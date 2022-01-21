@@ -1,0 +1,5 @@
+"206118" "Carsten Grau" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/06/06" "Advocacy, Aviation, Commercial litigation, Insurance, Maritime and shipping" "English, German" "https://solicitors.lawsociety.org.uk/person/129046/carsten-grau"
+"613773" "Timon Grau" "004921122977-0" NA "SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English, German" "https://solicitors.lawsociety.org.uk/person/295164/timon-grau"
+"558781" "Joseph Grau Carrasco" "02034781420" "info@solicitorsinspain.com" "SRA-approved manager - Director" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/230422/joseph-grau-carrasco"
+"112808" "Frances Joan Meta Graupner" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 16/01/78" "Company and commercial, European Community law, Intellectual property, Mergers and acquisitions" "English, German" "https://solicitors.lawsociety.org.uk/person/28476/frances-joan-meta-graupner"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

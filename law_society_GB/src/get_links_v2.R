@@ -114,7 +114,7 @@ collection <- lapply(files2collect, readLines)
 cvec <- unlist(collection)
 cnames <- rep(list.files("/Volumes/extICY/LEXscraping/law_society_GB/output/links2profiles_v2/"), times = lengths(collection))
 length(cvec) == length(cnames)
-profiles <- tibble(cvec, cnames) %>% 
+profiles2 <- tibble(cvec, cnames) %>% 
   filter(!cvec == "") %>% 
   filter(!duplicated(cvec))
 checks <- profiles %>% 
@@ -127,4 +127,8 @@ checks %>%
   filter(p_maxed_out > 0.98)
 
 nrow(profiles)/196148
+
+
+table(profiles2$cvec %in% profiles$cvec)
+profiles2[!profiles2$cvec %in% profiles$cvec,]
 

@@ -1,0 +1,3 @@
+"612510" "Shejuti Jenkins" "01132845000" "mail@isonharrison.co.uk" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 01/02/16" "Commercial property" "Bengali, English" "https://solicitors.lawsociety.org.uk/person/306358/shejuti-jenkins"
+"297461" "Shejal Kumar Patel" "02035404444" "info@taylor-rose.co.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 17/11/03" "Administrative and public law, Children, Construction, Debt and bankruptcy - personal, Education, Employment, Litigation - general" "English, Gujarati, Hindi, Punjabi, Spanish" "https://solicitors.lawsociety.org.uk/person/31178/shejal-kumar-patel"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

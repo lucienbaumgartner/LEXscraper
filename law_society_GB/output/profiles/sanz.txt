@@ -1,0 +1,4 @@
+"331951" "Ana Isabel Sanz" "07725557315" "nicholaskissen@lease-advice.org" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 02/01/01" "Landlord and tenant - residential" "English, French, Spanish" "https://solicitors.lawsociety.org.uk/person/235688/ana-isabel-sanz"
+"644627" "Marco Antonio Sanz Pérez" NA NA "Role not specified" NA NA "Registered foreign lawyer" "Mergers and acquisitions" "English, Spanish" "https://solicitors.lawsociety.org.uk/person/345905/marco-antonio-sanz-perez"
+"486407" "Pierre-Nicolas Sanzey" "33144158191" "Laurence.Hanley@shlegal.com" "Member - DWF LAW LLP, Partner" NA NA NA "Commercial property, Construction" "English, French" "https://solicitors.lawsociety.org.uk/person/126978/pierre-nicolas-sanzey"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

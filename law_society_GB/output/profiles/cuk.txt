@@ -1,0 +1,3 @@
+"119625" "Gerard Cukier" "02033193700" "enquiries@keystonelaw.co.uk" "Consultant" "Keystone Law Limited, 48 Chancery Lane, London, WC2A 1JF, England, DX 193 Chancery Ln" "https://maps.google.co.uk/maps?q=WC2A 1JF" "Solicitor                                    Admitted as a solicitor: 01/10/80" "Defamation, Intellectual property, Litigation - general, Media, entertainment and sport" "English, French" "https://solicitors.lawsociety.org.uk/person/160017/gerard-cukier"
+"623768" "Martyn Cukier" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/17" NA "English" "https://solicitors.lawsociety.org.uk/person/335074/martyn-cukier"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

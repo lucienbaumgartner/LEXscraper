@@ -1,0 +1,4 @@
+"332928" "Kehinde Olufunmilayo Ajose-Alatishe" "02033570570" "stanislas.bernard@cps.gov.uk" "" NA NA "Solicitor                                    Admitted as a solicitor: 01/02/01" "Crime - general" "English" "https://solicitors.lawsociety.org.uk/person/121722/kehinde-olufunmilayo-ajose-alatishe"
+"450360" "Aderounmubo Idowu Alatishe" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 02/01/15" "Children, Employment" "English, Yoruba" "https://solicitors.lawsociety.org.uk/person/278267/aderounmubo-idowu-alatishe"
+"650692" "HABIBAT ADEOLA ADETOKE OLATOKUNBO ALATISHE" "02073673000" "Communications@cms-cmno.com" "" NA NA "Solicitor                                    Admitted as a solicitor: 08/03/21" NA "English, Yoruba" "https://solicitors.lawsociety.org.uk/person/407052/habibat-adeola-adetoke-olatokunbo-alatishe"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

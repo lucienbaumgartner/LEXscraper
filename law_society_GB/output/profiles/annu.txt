@@ -1,0 +1,4 @@
+"571067" "Georg Walter Annuss" "00 49 89 418 080" NA "" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/286492/georg-walter-annuss"
+"502835" "Annum Beg" "02070661000" "susan.shakespeare@fsa.gov.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 03/06/19" "Administrative and public law, Financial services, Litigation - general" "English" "https://solicitors.lawsociety.org.uk/person/165517/annum-beg"
+"648437" "Teenu Annu James" NA "daniel.simister@cartwrightking.co.uk" "" NA NA "Solicitor                                    Admitted as a solicitor: 01/05/20" NA "English" "https://solicitors.lawsociety.org.uk/person/397731/teenu-annu-james"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,3 @@
+"319588" "Barbara Simula" "01582544370" "info@noblesolicitors.co.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 01/07/04" "Advocacy, Criminal Litigation Accredited, Crime - general, Criminal Litigation Accredited, Mental health, Mental Health Accredited" "English, Italian" "https://solicitors.lawsociety.org.uk/person/105889/barbara-simula"
+"670589" "Lupiya Simusokwe" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/07/20" NA "English" "https://solicitors.lawsociety.org.uk/person/400895/lupiya-simusokwe"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

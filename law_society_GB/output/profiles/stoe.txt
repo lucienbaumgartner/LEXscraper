@@ -1,0 +1,7 @@
+"638998" "Joseph Sebastian Stoehr" "01775842500" "enquiries@roythornes.co.uk" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 01/02/19" NA "English" "https://solicitors.lawsociety.org.uk/person/371038/joseph-sebastian-stoehr"
+"596954" "Maren Stoelting" "+49 (0) 89 2121 480" NA "SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/289685/maren-stoelting"
+"664809" "SLAVEYA STOENCHEVA" "01483302264" "mail@stevens-bolton.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/03/21" NA "English" "https://solicitors.lawsociety.org.uk/person/424427/slaveya-stoencheva"
+"655747" "William Stoeri" "6123402600" "london@dorsey.com" "Partner" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/369200/william-stoeri"
+"661612" "Pavlin Stefanov Stoev" NA NA "" NA NA "Registered foreign lawyer" "Corporate finance, Debt and bankruptcy - personal, Immigration - nationality and citizenship" "Bulgarian, English, French" "https://solicitors.lawsociety.org.uk/person/381455/pavlin-stefanov-stoev"
+"623787" "Maurane Van Der Stoep" "02073294422" "hannah.beagles@shlegal.com" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/17" NA "English" "https://solicitors.lawsociety.org.uk/person/336073/maurane-van-der-stoep"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

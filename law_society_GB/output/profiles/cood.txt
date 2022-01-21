@@ -1,0 +1,4 @@
+"429225" "Edward Robert Coode" "01726874700" NA "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/09" "Agriculture, Charities, Private client - Probate, Private client - trusts, Private client - Wills, Tax" "English" "https://solicitors.lawsociety.org.uk/person/638/edward-robert-coode"
+"503793" "Thomas Patrick Coode-Bate" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 03/09/12" "Banking" "English" "https://solicitors.lawsociety.org.uk/person/60146/thomas-patrick-coode-bate"
+"96735" "David Duncan Coode Monro" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/12/69" "Charities, Private client - Probate, Private client - trusts, Private client - Wills" "English" "https://solicitors.lawsociety.org.uk/person/77013/david-duncan-coode-monro"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

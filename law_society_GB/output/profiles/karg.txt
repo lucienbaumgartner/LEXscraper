@@ -1,0 +1,4 @@
+"817290" "Nazli Cansin Karga" "03302220050" NA "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 06/04/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000009915/nazli-cansin-karga"
+"526638" "Hina Kargar" "02078704870" "tsk@lawlanesolicitors.com" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 17/09/18" "Immigration - asylum, Immigration - general, Immigration - nationality and citizenship" "English, Persian (Same as Farsi), Pushtu, Urdu" "https://solicitors.lawsociety.org.uk/person/89201/hina-kargar"
+"581012" "Shreya Kargathra" "020 7478 9010" "law@sherrards.com" "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/11/16" NA "English" "https://solicitors.lawsociety.org.uk/person/310282/shreya-kargathra"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

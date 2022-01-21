@@ -1,0 +1,3 @@
+"619577" "Fernando de la Hoz" NA NA "Partner" NA NA "Registered foreign lawyer" "Banking, Corporate finance" "English, Portuguese, Spanish" "https://solicitors.lawsociety.org.uk/person/305986/fernando-de-la-hoz"
+"373131" "Emma Maria Hoza Ngoga" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 16/04/07" "European Community law" "English, French, German, Malayalam, Welsh" "https://solicitors.lawsociety.org.uk/person/156722/emma-maria-hoza-ngoga"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

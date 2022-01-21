@@ -1,0 +1,4 @@
+"577569" "Huzaifah Dedat" "01772250605" NA "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 01/10/18" NA "English, Gujarati, Hindi, Urdu" "https://solicitors.lawsociety.org.uk/person/322678/huzaifah-dedat"
+"162544" "Christopher Huzzard Hunt" "03709031000" NA "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 04/01/94" "Commercial property, Company and commercial" "English" "https://solicitors.lawsociety.org.uk/person/112056/christopher-huzzard-hunt"
+"580313" "Gavyn Huzzey" "01633654060" "legal@gocompare.com" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/04/15" "Company and commercial, Contract, Financial services" "English" "https://solicitors.lawsociety.org.uk/person/299155/gavyn-huzzey"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

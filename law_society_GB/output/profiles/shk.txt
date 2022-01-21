@@ -1,0 +1,4 @@
+"529438" "Shkar Kider" "02081813100" "contact@kesarco.co.uk" "Role not specified" NA NA "Solicitor                                    Admitted as a solicitor: 03/02/20" NA "English" "https://solicitors.lawsociety.org.uk/person/392975/shkar-kider"
+"264771" "Shkelqim Shakohoxha" NA "info@capsticks.com" "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 15/07/02" "Commercial property" "Albanian, English, Italian" "https://solicitors.lawsociety.org.uk/person/164126/shkelqim-shakohoxha"
+"498652" "Talitha Ann Shkopiak" "02074474200" "DG-GeneralCounselsOfficeEuropeandAsia@goodwinlaw.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/12/09" "Intellectual property" "English" "https://solicitors.lawsociety.org.uk/person/284408/talitha-ann-shkopiak"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,3 @@
+"578920" "Victoria Gilvear" "02920210846" "info@lucaslaw.co.uk" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 02/01/19" NA "English" "https://solicitors.lawsociety.org.uk/person/327018/victoria-gilvear"
+"142885" "Gilva Dagmar Jane Tisshaw" "01444472700" "gilva.tisshaw@tisshawssolicitors.co.uk" "Member SRA-approved manager - Director Compliance Officer for Legal Practice Compliance Officer for Finance and Administration" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/89" "Children, Family - general, Family - Advanced Accredited" "English" "https://solicitors.lawsociety.org.uk/person/69174/gilva-dagmar-jane-tisshaw"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

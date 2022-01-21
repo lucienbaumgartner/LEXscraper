@@ -1,0 +1,4 @@
+"439349" "Nisha Ruvini Berugoda" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 02/01/07" "Commercial property, Conveyancing - residential, Landlord and tenant - residential" "English" "https://solicitors.lawsociety.org.uk/person/71387/nisha-ruvini-berugoda"
+"645416" "Ruvimbo Kandi" "0207 264 4444" NA "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 01/03/18" "Advocacy, Insolvency and restructuring - business, Litigation - general" "English" "https://solicitors.lawsociety.org.uk/person/351250/ruvimbo-kandi"
+"456560" "Shanaka Ruvan Wijetunge" "0117 918 2000" NA "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/15" "Litigation - general" "English" "https://solicitors.lawsociety.org.uk/person/273234/shanaka-ruvan-wijetunge"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

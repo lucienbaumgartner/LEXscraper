@@ -1,0 +1,3 @@
+"652830" "Jessica Chek Yan Lee" NA NA "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 28/09/20" NA "English" "https://solicitors.lawsociety.org.uk/person/407745/jessica-chek-yan-lee"
+"466596" "Joel Kian Chek Seow" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/04/10" "Company and commercial, Financial services" "Chinese, English, Mandarin" "https://solicitors.lawsociety.org.uk/person/35752/joel-kian-chek-seow"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,4 @@
+"572027" "Namita Matkar" NA NA "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/14" "Commercial property" "English" "https://solicitors.lawsociety.org.uk/person/299405/namita-matkar"
+"135740" "Christine Matkin" "03000260000" "sam.thompson@durham.gov.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 02/03/87" "Commercial property" "English" "https://solicitors.lawsociety.org.uk/person/194154/christine-matkin"
+"582666" "Samuel Matkin" "01142298600" NA "" NA NA "Solicitor                                    Admitted as a solicitor: 03/10/16" NA "English" "https://solicitors.lawsociety.org.uk/person/312535/samuel-matkin"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

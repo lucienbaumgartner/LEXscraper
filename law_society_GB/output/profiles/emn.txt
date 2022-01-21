@@ -1,0 +1,3 @@
+"480110" "Emna Blili" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/08/11" "Banking, Corporate finance" "Arabic, English, French" "https://solicitors.lawsociety.org.uk/person/223674/emna-blili"
+"259137" "Emna Sfar-Gandoura" "01159369369" "postmaster@freeths.co.uk" "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 15/10/01" "Commercial property" "English" "https://solicitors.lawsociety.org.uk/person/285336/emna-sfar-gandoura"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

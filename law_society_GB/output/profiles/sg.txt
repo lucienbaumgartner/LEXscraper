@@ -1,0 +1,4 @@
+"660001" "ISABEL SGAMBELLONE" "02073673000" "Communications@cms-cmno.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 05/08/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000009802/isabel-sgambellone"
+"223555" "Sebastian Sgoluppi" "01462 892221" NA "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 16/10/00" "Conveyancing - residential" "English" "https://solicitors.lawsociety.org.uk/person/33107/sebastian-sgoluppi"
+"365082" "Joshua Thomas Sgro" NA "gmclean@whitecase.com" "Partner" NA NA "Solicitor                                    Admitted as a solicitor: 15/07/02" "Banking, Corporate finance, Energy and natural resources" "English" "https://solicitors.lawsociety.org.uk/person/149673/joshua-thomas-sgro"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

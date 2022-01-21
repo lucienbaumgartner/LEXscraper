@@ -1,0 +1,4 @@
+"411090" "Ben Mark Stepney" "01892510000" "info@ts-p.co.uk" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/09" "Employment" "English" "https://solicitors.lawsociety.org.uk/person/38454/ben-mark-stepney"
+"433117" "Nima Stepney" "02082900440" "info@thackraywilliams.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/10/10" "Private client - Probate, Private client - trusts, Private client - Wills, Tax" "Bengali, English" "https://solicitors.lawsociety.org.uk/person/19191/nima-stepney"
+"661735" "MICHAL STEPNIAK" "01753889995" "matthew.brandis@bpcollins.co.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 18/09/21" NA "English, Polish" "https://solicitors.lawsociety.org.uk/person/1000024901/michal-stepniak"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

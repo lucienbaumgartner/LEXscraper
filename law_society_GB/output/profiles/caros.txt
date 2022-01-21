@@ -1,0 +1,3 @@
+"397591" "Kathryn Elizabeth Carosi" "020 8080 6522" NA "" NA NA "Solicitor                                    Admitted as a solicitor: 17/09/07" "Administrative and public law, Company and commercial, European Community law, Intellectual property" "English" "https://solicitors.lawsociety.org.uk/person/148176/kathryn-elizabeth-carosi"
+"650487" "MARCO CAROSSA" "02079194500" "HROperations@eversheds.com" "" NA NA "Solicitor                                    Admitted as a solicitor: 04/09/20" NA "English" "https://solicitors.lawsociety.org.uk/person/407260/marco-carossa"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

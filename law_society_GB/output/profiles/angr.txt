@@ -1,0 +1,4 @@
+"459475" "Catherine Elizabeth Angrave" "01162548871" "info@braybray.co.uk" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/11/11" "Commercial property, Conveyancing - residential" "English" "https://solicitors.lawsociety.org.uk/person/107790/catherine-elizabeth-angrave"
+"662684" "JOSHUA FRANK ANGRAVE" "02074474200" "DG-GeneralCounselsOfficeEuropeandAsia@goodwinlaw.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 02/09/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000001380/joshua-frank-angrave"
+"595410" "PRIYA ANGRIS" NA "clare.thomas@britvic.com" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/03/21" NA "English" "https://solicitors.lawsociety.org.uk/person/381006/priya-angris"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

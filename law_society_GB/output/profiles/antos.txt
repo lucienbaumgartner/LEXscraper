@@ -1,0 +1,3 @@
+"588888" "Martina Antosova" "02075517500" "tsprange@kslaw.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/03/18" NA "English" "https://solicitors.lawsociety.org.uk/person/316925/martina-antosova"
+"418785" "Adam Robert Antoszkiw" "01244344299" NA "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 01/10/10" "Crime - fraud, Criminal Litigation Accredited, Higher courts rights - criminal Accredited, Crime - general, Criminal Litigation Accredited, Higher courts rights - criminal Accredited" "English" "https://solicitors.lawsociety.org.uk/person/239963/adam-robert-antoszkiw"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

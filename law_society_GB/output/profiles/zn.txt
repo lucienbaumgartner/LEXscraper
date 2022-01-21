@@ -1,0 +1,3 @@
+"588791" "Edward Zneimer" "02077258000" "rebecca.arnold@seddons.co.uk" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/15" "Commercial property, Landlord and tenant - commercial" "English" "https://solicitors.lawsociety.org.uk/person/299266/edward-zneimer"
+"588791" "Edward Zneimer" "02077258000" "rebecca.arnold@seddons.co.uk" "Associate" NA NA "Property lawyer with extensive commercial experience." "Commercial property, Landlord and tenant - commercial" "English" "https://solicitors.lawsociety.org.uk/person/299266/edward-zneimer"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

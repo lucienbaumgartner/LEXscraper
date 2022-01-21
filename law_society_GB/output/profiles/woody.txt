@@ -1,0 +1,8 @@
+"299540" "Marcus Jay Woody" "01422393063" NA "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 02/04/07" "Environment, Planning" "English" "https://solicitors.lawsociety.org.uk/person/115118/marcus-jay-woody"
+"163931" "Jennifer Woodyard" "01785211411" "pfarr1@hmo.co.uk" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/07/94" NA "English, French" "https://solicitors.lawsociety.org.uk/person/254836/jennifer-woodyard"
+"163931" "Jennifer Woodyard" "
+                        pfarr1@hmo.co.uk 
+                    " "pfarr1@hmo.co.uk" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/07/94" NA "English, French" "https://solicitors.lawsociety.org.uk/person/254836/jennifer-woodyard"
+"588533" "Joseph Woodyatt" "01512396400" "jonathan.milne@cps.gsi.gov.uk" "Crown Prosecuting Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/06/18" NA "English" "https://solicitors.lawsociety.org.uk/person/325655/joseph-woodyatt"
+"381330" "Emma Jane Woodyet" "03700 865000" "peter.duff@shoosmiths.co.uk" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/02/07" "Commercial property" "English" "https://solicitors.lawsociety.org.uk/person/243084/emma-jane-woodyet"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

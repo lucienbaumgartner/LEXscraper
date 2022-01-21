@@ -1,0 +1,4 @@
+"418173" "Lydia Amanuel" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/04/09" "Crime - fraud, Crime - general" "Amharic, English" "https://solicitors.lawsociety.org.uk/person/214589/lydia-amanuel"
+"478725" "Sarah Amanullah" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/11/17" NA "English" "https://solicitors.lawsociety.org.uk/person/200936/sarah-amanullah"
+"669174" "Amanullah Kanrani Baloch" "02035000913" "saad@clydesolicitors.co.uk" "Associate" NA NA "Registered foreign lawyer" NA "English, Urdu" "https://solicitors.lawsociety.org.uk/person/395939/amanullah-kanrani-baloch"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

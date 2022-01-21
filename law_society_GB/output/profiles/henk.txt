@@ -1,0 +1,7 @@
+"409917" "Warren Henk Gilbert" "07890053519" "nuala@nualaw.co.uk" "SRA-approved manager - Director" NA NA "Solicitor                                    Admitted as a solicitor: 03/12/12" NA "English" "https://solicitors.lawsociety.org.uk/person/243647/warren-henk-gilbert"
+"596962" "Frank Henkel" "+49 (0) 89 2121 480" NA "SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/289620/frank-henkel"
+"621351" "Stefan Michael Henkelmann" NA NA "Member - ALLEN & OVERY (BELGIUM) LLP, SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/311201/stefan-michael-henkelmann"
+"579735" "Maximilian Henkensiefken" "0049 8122 434112" "will.vett@amadeus.com" "" NA NA "Solicitor                                    Admitted as a solicitor: 03/04/17" "Contract, European Community law, Financial services, Information Technology, Intellectual property" "English, German" "https://solicitors.lawsociety.org.uk/person/314783/maximilian-henkensiefken"
+"658919" "Henk Arnold Sijnja" NA "Andrew.Darwin@dlapiper.com" "Member - DLA PIPER INTERNATIONAL LLP, Partner Employee" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/376994/henk-arnold-sijnja"
+"352637" "Henk Vanhulle" "0032-25019411" NA "SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/109393/henk-vanhulle"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,4 @@
+"627454" "Rustin Sarhadi" "02079194500" "HROperations@eversheds.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/01/18" NA "English" "https://solicitors.lawsociety.org.uk/person/348969/rustin-sarhadi"
+"514856" "Alan Sarhan" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 17/08/09" "Employment, European Community law, Litigation - general" "English" "https://solicitors.lawsociety.org.uk/person/13675/alan-sarhan"
+"665244" "Radwa Hany Ibrahim Sarhan" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 02/12/19" NA "English" "https://solicitors.lawsociety.org.uk/person/390205/radwa-hany-ibrahim-sarhan"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

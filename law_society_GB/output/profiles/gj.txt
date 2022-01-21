@@ -1,0 +1,4 @@
+"578934" "Ervin Gjoleka" "01962678300" NA "Employee Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 03/09/18" NA "English" "https://solicitors.lawsociety.org.uk/person/321842/ervin-gjoleka"
+"631040" "Anxhela Gjalpi Leskaj" "02035404444" "info@taylor-rose.co.uk" "Assistant Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 02/01/18" NA "Albanian, English" "https://solicitors.lawsociety.org.uk/person/347915/anxhela-gjalpi-leskaj"
+"687390" "Gjon Lika" "02077130700" "enquiries@harrisdasilva.com" "Compliance Officer for Finance and Administration Employee" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/62228/gjon-lika"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

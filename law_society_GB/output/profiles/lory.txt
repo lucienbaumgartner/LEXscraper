@@ -1,0 +1,3 @@
+"665098" "LORYN VICTORIA BRIDGEN" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 03/03/21" NA "English" "https://solicitors.lawsociety.org.uk/person/414970/loryn-victoria-bridgen"
+"394452" "Daniel Lory Kaufman" "02079484000" "katie.soyer@uk.bp.com" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/02/08" "Banking, Construction, Energy and natural resources" "English, French" "https://solicitors.lawsociety.org.uk/person/104755/daniel-lory-kaufman"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

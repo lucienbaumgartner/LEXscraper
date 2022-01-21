@@ -1,0 +1,3 @@
+"398471" "Caryn Angela Scotford" "03004560100" "legalservices@wiltshire.gov.uk" "Role not specified" NA NA "Solicitor                                    Admitted as a solicitor: 16/03/09" "Children, Family - general" "English" "https://solicitors.lawsociety.org.uk/person/249389/caryn-angela-scotford"
+"229" "Grazyna Malgorzata Scotford" "02088640722" "richard.hornby@lynch-hall.co.uk" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 15/12/98" "Mental health, Private client - Probate, Private client - trusts, Private client - Wills, Tax" "English, Polish" "https://solicitors.lawsociety.org.uk/person/153396/grazyna-malgorzata-scotford"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

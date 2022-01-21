@@ -1,0 +1,3 @@
+"339032" "Mark Roben Pegler" "01902556556" "tracey.christie@wolverhampton.gov.uk" "Locum" NA NA "Solicitor                                    Admitted as a solicitor: 01/06/05" "Commercial property, Conveyancing - residential" "English" "https://solicitors.lawsociety.org.uk/person/164708/mark-roben-pegler"
+"669929" "James Robenalt" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/07/20" NA "English" "https://solicitors.lawsociety.org.uk/person/400916/james-robenalt"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

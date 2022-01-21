@@ -1,0 +1,6 @@
+"443484" "Ashna Chada" "0161 234 8234" NA "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 01/10/13" "Pensions" "English" "https://solicitors.lawsociety.org.uk/person/120603/ashna-chada"
+"516268" "Ashna Pancholi" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/03/18" NA "English" "https://solicitors.lawsociety.org.uk/person/169546/ashna-pancholi"
+"507041" "Ashni Ashok Shah" "+85237581507" NA "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/03/13" "Financial services" "English" "https://solicitors.lawsociety.org.uk/person/241524/ashni-ashok-shah"
+"667111" "ASHNA SHARMA" "02079312174" "legal@telegraph.co.uk" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 14/07/21" NA "English" "https://solicitors.lawsociety.org.uk/person/416501/ashna-sharma"
+"801793" "Jantien Ashni Van Renterghem" "02030880000" "annette.fritze-shanks@allenovery.com" "Professional Support Lawyer - FRAGOMEN LLP, Professional Support Lawyer" NA NA "Solicitor                                    Admitted as a solicitor: 07/08/20" NA "English" "https://solicitors.lawsociety.org.uk/person/403471/jantien-ashni-van-renterghem"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

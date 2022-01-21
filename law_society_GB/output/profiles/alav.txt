@@ -1,0 +1,3 @@
+"476536" "Julia Alaverdashvili" "02075976000" "lucy.brooker@withersworldwide.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/06/16" "Commercial litigation, Crime - fraud" "English, Russian" "https://solicitors.lawsociety.org.uk/person/271008/julia-alaverdashvili"
+"301512" "Susanne Alavi" "02033570570" "stanislas.bernard@cps.gov.uk" "" NA NA "Solicitor                                    Admitted as a solicitor: 01/10/07" "Crime - general, Criminal Litigation Accredited, Higher courts rights - criminal Accredited" "English, Farsi (Persian)" "https://solicitors.lawsociety.org.uk/person/48690/susanne-alavi"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

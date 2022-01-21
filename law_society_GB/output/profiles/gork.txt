@@ -1,0 +1,3 @@
+"551042" "Tatiana Gorkaya" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/07/16" NA "English, Italian, Russian, Spanish" "https://solicitors.lawsociety.org.uk/person/313916/tatiana-gorkaya"
+"584291" "Gorkem Ozsoy" "02076131402" "info@rfblegal.co.uk" "Non-member Partner" NA NA "Solicitor                                    Admitted as a solicitor: 02/07/18" "Children, Family - divorce and separation, Family - general, Immigration - general, Immigration and Asylum - Level 2 Accredited" "English, Turkish" "https://solicitors.lawsociety.org.uk/person/320438/gorkem-ozsoy"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

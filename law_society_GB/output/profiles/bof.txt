@@ -1,0 +1,4 @@
+"825556" "Lavinia Bofan" "02088817777" "info@levenes.co.uk" "Employee" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/1000028899/lavinia-bofan"
+"575778" "Alison Boffey" "01472262626" "grimsby.reception@wilkinchapman.co.uk" "Employee - WILKIN CHAPMAN GROUP LTD, Employee" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/15" "Commercial litigation, Crime - general, Litigation - general" "English" "https://solicitors.lawsociety.org.uk/person/297540/alison-boffey"
+"433063" "Martin Boffey" "02070661000" "susan.shakespeare@fsa.gov.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 15/10/09" "Administrative and public law, Banking, Financial services" "English" "https://solicitors.lawsociety.org.uk/person/152670/martin-boffey"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

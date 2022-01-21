@@ -1,0 +1,3 @@
+"649470" "Andzelika Agnieszka Godek" NA NA "Role not specified" NA NA "Solicitor                                    Admitted as a solicitor: 02/09/19" "Company and commercial, Information Technology" "English, French, Polish" "https://solicitors.lawsociety.org.uk/person/358269/andzelika-agnieszka-godek"
+"604738" "Andzelika Maria Kozakiewicz" "01372861285" "chelsea.walters@wates.co.uk" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/17" "Construction" "English, Polish" "https://solicitors.lawsociety.org.uk/person/317119/andzelika-maria-kozakiewicz"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

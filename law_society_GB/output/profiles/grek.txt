@@ -1,0 +1,3 @@
+"373350" "Thomas Alexander Grek" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 16/10/06" "Intellectual property" "English" "https://solicitors.lawsociety.org.uk/person/205462/thomas-alexander-grek"
+"639116" "Sergii Grekov" "020 7936 7007" NA "" NA NA "Solicitor                                    Admitted as a solicitor: 03/07/17" "Commercial litigation, Litigation - general" "English, Russian, Ukrainian" "https://solicitors.lawsociety.org.uk/person/333285/sergii-grekov"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

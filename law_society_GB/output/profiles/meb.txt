@@ -1,0 +1,4 @@
+"602566" "Miriam Mebarek" "02073673000" "Communications@cms-cmno.com" "" NA NA "Solicitor                                    Admitted as a solicitor: 15/08/19" "Energy and natural resources" "Arabic, English, French" "https://solicitors.lawsociety.org.uk/person/381212/miriam-mebarek"
+"19944" "Aida Mebrahtu" "08454979797" NA "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/10/97" "Pensions" "English" "https://solicitors.lawsociety.org.uk/person/117045/aida-mebrahtu"
+"646647" "Barbara Mebtouche" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 03/04/18" NA "English" "https://solicitors.lawsociety.org.uk/person/353650/barbara-mebtouche"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

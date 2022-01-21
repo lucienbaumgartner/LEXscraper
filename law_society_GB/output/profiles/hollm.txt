@@ -1,0 +1,3 @@
+"635555" "Lois Hollman" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 17/09/18" "Litigation - general" "English" "https://solicitors.lawsociety.org.uk/person/363979/lois-hollman"
+"375768" "Hilka Hollmann" "02079353522" "nh@freemanssolicitors.net" "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 15/11/07" "Children, Children - Childrens' Representative Accredited, Family - general" "English, French, German, Russian" "https://solicitors.lawsociety.org.uk/person/210232/hilka-hollmann"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

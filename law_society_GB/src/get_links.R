@@ -126,6 +126,8 @@ checks %>%
 
 length(collection2)
 
+nrow(profiles)/196148
+
 for(i in letters){
   search_page <- read_html(root_url(i))
   n_hits <- get_search_n(search_page)

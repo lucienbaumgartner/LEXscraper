@@ -1,0 +1,4 @@
+"436607" "Raymond Amoakwa-Buadu" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 16/06/14" NA "English" "https://solicitors.lawsociety.org.uk/person/108880/raymond-amoakwa-buadu"
+"470933" "Lakhi Bual" "01943461414" "lakhi.bual@newsteadwalker.co.uk" "Compliance Officer for Finance and Administration Employee" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/106659/lakhi-bual"
+"481414" "Faisal Buali" "0097126422129" "Annette.fritze-shanks@allenovery.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 17/09/12" NA "English" "https://solicitors.lawsociety.org.uk/person/68495/faisal-buali"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

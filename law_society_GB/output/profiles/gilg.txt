@@ -1,0 +1,3 @@
+"419812" "Carrie Gilgun" "01772220022" "Steven.dawson@forbessolicitors.co.uk" "" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/09" "Advocacy, Criminal Litigation Accredited, Crime - general, Criminal Litigation Accredited" "English" "https://solicitors.lawsociety.org.uk/person/271880/carrie-gilgun"
+"458534" "Rachel Louise Gilgun" "0161 817 7200" "info@hilldickinson.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/10" "Clinical negligence" "English" "https://solicitors.lawsociety.org.uk/person/84025/rachel-louise-gilgun"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,4 @@
+"436857" "John Mike Brawley" "01483408780" "csetford@setfords.co.uk" "SRA-approved manager - Director" NA NA "Solicitor                                    Admitted as a solicitor: 01/08/11" NA "English" "https://solicitors.lawsociety.org.uk/person/47446/john-mike-brawley"
+"347705" "Daniel Hugh Brawn" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 03/09/01" "Commercial litigation, Commercial property, Company and commercial, Construction" "English" "https://solicitors.lawsociety.org.uk/person/209058/daniel-hugh-brawn"
+"378049" "James Brawn" "01727837161" "lawyers@debenhamsottaway.co.uk" "Non-member Partner" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/08" "Company and commercial, Corporate finance, Information Technology, Mergers and acquisitions" "English" "https://solicitors.lawsociety.org.uk/person/216745/james-brawn"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

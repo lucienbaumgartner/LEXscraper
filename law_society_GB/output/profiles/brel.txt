@@ -1,0 +1,5 @@
+"600250" "Hannah Brellisford" "02074562000" "rbrooker@linklaters.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 17/09/18" NA "English" "https://solicitors.lawsociety.org.uk/person/322195/hannah-brellisford"
+"600251" "Eve Brelsford" "01282792808" NA "SRA-approved manager - Director Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 17/06/19" "Family - general" "English" "https://solicitors.lawsociety.org.uk/person/346990/eve-brelsford"
+"458602" "Natasha Madeline Brelsford" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/04/11" "Children, Family - general" "English" "https://solicitors.lawsociety.org.uk/person/120340/natasha-madeline-brelsford"
+"611147" "Isabela Martins Brelaz De Castro" "020 7408 4090" "allison.fletcher@shorecap.co.uk" "Employee Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/16" NA "English" "https://solicitors.lawsociety.org.uk/person/306454/isabela-martins-brelaz-de-castro"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

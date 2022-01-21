@@ -1,0 +1,4 @@
+"646382" "Mikko Kalervo Ahonen" NA NA "Member - BIRD & BIRD LLP, Partner" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/350423/mikko-kalervo-ahonen"
+"646676" "Stephanie Attouho Ahouman" "02086763449" "info@rsosolicitors.com" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 16/03/20" "Conveyancing - residential, Family - general, Immigration - nationality and citizenship, Landlord and tenant - residential" "English, French" "https://solicitors.lawsociety.org.uk/person/395741/stephanie-attouho-ahouman"
+"631446" "Laura Ahoulomala Kacoutié" "02070790100" "enquiries@sheridans.co.uk" "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/08/18" "Employment" "English, French" "https://solicitors.lawsociety.org.uk/person/360079/laura-ahoulomala-kacoutie"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

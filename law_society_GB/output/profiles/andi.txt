@@ -1,0 +1,6 @@
+"432927" "Andin Elizabeth Fonyonga" NA NA "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 17/08/09" "Corporate finance, Intellectual property, Mergers and acquisitions" "English" "https://solicitors.lawsociety.org.uk/person/37566/andin-elizabeth-fonyonga"
+"659929" "ANDI JAMES GREWCOCK" "01915118222" "aashcroft@mortons-solicitors.com" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 05/07/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000020640/andi-james-grewcock"
+"492762" "Andinee Perry" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/08/12" "Employment, Tax" "English, French, Hindi" "https://solicitors.lawsociety.org.uk/person/64263/andinee-perry"
+"595305" "Andi Terziu" "02073007000" "m.robson@taylorwessing.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 02/03/20" "Defamation, Information Technology, Intellectual property" "Albanian, English" "https://solicitors.lawsociety.org.uk/person/361136/andi-terziu"
+NA "Andikan Umoh" "01582424234" "reception@rodmanpearce.com" "Role not specified" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/357992/andikan-umoh"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

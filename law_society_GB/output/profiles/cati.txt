@@ -1,0 +1,3 @@
+"433608" "Catijah Bibi Cooraban Dhunna" NA NA "Employee" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/09/09" "Conveyancing - residential, Family - general, Litigation - general" "Creole, English" "https://solicitors.lawsociety.org.uk/person/278275/catijah-bibi-cooraban-dhunna"
+"804894" "Catie Wang" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 21/12/20" NA "English" "https://solicitors.lawsociety.org.uk/person/408910/catie-wang"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

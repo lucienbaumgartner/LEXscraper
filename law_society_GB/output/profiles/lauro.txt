@@ -1,0 +1,4 @@
+"436915" "Christian Burns-Di Lauro" NA "HROperations@ogier.com" "Partner" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/10" "Banking, Financial services" "English" "https://solicitors.lawsociety.org.uk/person/36031/christian-burns-di-lauro"
+"335782" "Giusj Di Lauro" "01243 785166" "ngolding@chichester.gov.uk" "Employee Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/12/05" "Crime - general, Litigation - general" "English, Italian" "https://solicitors.lawsociety.org.uk/person/91186/giusj-di-lauro"
+"643374" "Lauro Fava" "02074187000" "sandra.ward@pinsentmasons.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/01/21" NA "English, Italian, Maltese" "https://solicitors.lawsociety.org.uk/person/339314/lauro-fava"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

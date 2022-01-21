@@ -1,0 +1,4 @@
+"131123" "Thotahewage Ananda Amaranath" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/10/85" "Crime - general, Immigration - general" "English, Sinhalese" "https://solicitors.lawsociety.org.uk/person/70929/thotahewage-ananda-amaranath"
+"441295" "Norman Benjamin Thot" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 03/07/06" "Company and commercial, Information Technology, Intellectual property, Mergers and acquisitions" "English, German" "https://solicitors.lawsociety.org.uk/person/63331/norman-benjamin-thot"
+"437586" "Cecile Thote" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/10" "Company and commercial" "English, French" "https://solicitors.lawsociety.org.uk/person/97076/cecile-thote"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

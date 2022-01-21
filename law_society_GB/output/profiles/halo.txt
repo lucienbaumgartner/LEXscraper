@@ -1,0 +1,5 @@
+"109576" "Gerald Michael Halon" "0161 832 4781" "enquiries@antonyhodari.co.uk" "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/04/76" "Personal injury" "English" "https://solicitors.lawsociety.org.uk/person/262065/gerald-michael-halon"
+"336669" "Laura Halonen" NA NA "Consultant" "WAGNER ARBITRATION, Hegelplatz 1, 10117 Berlin, Germany" "https://maps.google.co.uk/maps?q=" "Solicitor                                    Admitted as a solicitor: 15/02/05" "Advocacy, Cross-border" "English, Finnish, French" "https://solicitors.lawsociety.org.uk/person/253601/laura-halonen"
+"628892" "Sakari Halonen" NA NA "Member - BIRD & BIRD LLP, Partner" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/318161/sakari-halonen"
+"474094" "Abigail Miriam Halon Rosenberg" "02070061000" "LegalEnquiries@CliffordChance.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/08/11" NA "English" "https://solicitors.lawsociety.org.uk/person/251316/abigail-miriam-halon-rosenberg"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

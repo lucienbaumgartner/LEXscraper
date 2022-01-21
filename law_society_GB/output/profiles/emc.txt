@@ -1,0 +1,3 @@
+"687515" "Adrian Emch" "02072962000" "nancy.dobson@hoganlovells.com" "Non-member Partner" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/424422/adrian-emch"
+"653587" "Nicole Sandra Emch Uff" "02070661000" "susan.shakespeare@fsa.gov.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 15/01/19" NA "English" "https://solicitors.lawsociety.org.uk/person/370353/nicole-sandra-emch-uff"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

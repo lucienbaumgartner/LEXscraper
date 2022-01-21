@@ -1,0 +1,3 @@
+"522656" "Benoit Charot" "0176704000" NA "Partner - REED SMITH LLP, SRA-approved manager - Member" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/140989/benoit-charot"
+"632312" "Charoula Makrygianni" "02076153000" "london@milbank.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/10/19" NA "English, French, Greek" "https://solicitors.lawsociety.org.uk/person/321302/charoula-makrygianni"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

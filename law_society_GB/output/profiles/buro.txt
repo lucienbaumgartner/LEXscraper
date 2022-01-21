@@ -1,0 +1,3 @@
+"815228" "Isabel Buron" "34917934500" NA "SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/1000003998/isabel-buron"
+"279845" "Louise Obeng Buroni" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/03/02" "Administrative and public law, Advocacy, Criminal Litigation Accredited, Children, Crime - fraud, Criminal Litigation Accredited, Crime - general, Criminal Litigation Accredited" "English" "https://solicitors.lawsociety.org.uk/person/279476/louise-obeng-buroni"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

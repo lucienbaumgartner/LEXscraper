@@ -1,0 +1,3 @@
+"195665" "Sharyn Elizabeth Dodson" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/03/02" "Employment, Information Technology, Intellectual property, Media, entertainment and sport" "English" "https://solicitors.lawsociety.org.uk/person/165342/sharyn-elizabeth-dodson"
+"614086" "Sharyn Lesley Ryburn" "+852 2108 5107" NA "Inhouse Solicitor" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/05/15" "Financial services" "English" "https://solicitors.lawsociety.org.uk/person/311719/sharyn-lesley-ryburn"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

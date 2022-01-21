@@ -1,0 +1,3 @@
+"423417" "Katherine Conklin Ashdown" "02079961230" "kate.linnell@baml.com" "Role not specified" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/05" "Banking, Corporate finance, Maritime and shipping" "English" "https://solicitors.lawsociety.org.uk/person/187496/katherine-conklin-ashdown"
+"662500" "SAMANTHA JANE CONKLING" "02074187000" "sandra.ward@pinsentmasons.com" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 02/09/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000020323/samantha-jane-conkling"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

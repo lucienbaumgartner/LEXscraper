@@ -1,0 +1,4 @@
+"644719" "Luca Stecca" "02076536888" "elisabetta.angeleri@belex.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/02/21" NA "English" "https://solicitors.lawsociety.org.uk/person/344441/luca-stecca"
+"360921" "Andreas Klaus Jurgen Steck" "00 4969 7100 30" NA "SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/148080/andreas-klaus-jurgen-steck"
+"500994" "Magdalena Rozalia Stecka" "01179256257" "nancy.rollason@bristol.gov.uk" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 03/05/16" "Commercial property, Intellectual property" "English, Polish" "https://solicitors.lawsociety.org.uk/person/189132/magdalena-rozalia-stecka"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

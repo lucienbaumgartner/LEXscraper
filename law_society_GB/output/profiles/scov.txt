@@ -1,0 +1,4 @@
+"636646" "Linda Carole Scovell" "01225755656" NA "Compliance Officer for Finance and Administration Employee" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/77645/linda-carole-scovell"
+"264979" "James C Scoville" "02077869000" "jcpickworth@debevoise.com" "SRA-approved manager - Partner" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/55006/james-c-scoville"
+"446012" "Tom Sancho Scoville" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/12/10" "Company and commercial, Education, European Community law, Information Technology, Intellectual property" "English, Russian" "https://solicitors.lawsociety.org.uk/person/43093/tom-sancho-scoville"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

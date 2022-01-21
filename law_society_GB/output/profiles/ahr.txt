@@ -1,0 +1,4 @@
+"630614" "Boerries Ahrens" "00 49 4082 221 20" NA "Member - ALLEN & OVERY (BELGIUM) LLP, SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/320326/boerries-ahrens"
+"405715" "Joerg Peter Ahrens" NA NA "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 01/11/04" "Commercial litigation, Insurance, Professional negligence" "English, German, Russian" "https://solicitors.lawsociety.org.uk/person/125017/joerg-peter-ahrens"
+"578832" "Ahrika Ghalib" "01216851234" "Edgbaston@QSDavisons.com" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 01/11/16" "Conveyancing - residential, Family - general, Immigration - general" "English, Hindi, Mirpuri, Punjabi, Urdu" "https://solicitors.lawsociety.org.uk/person/311583/ahrika-ghalib"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

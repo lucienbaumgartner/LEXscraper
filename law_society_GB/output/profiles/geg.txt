@@ -1,0 +1,3 @@
+"594723" "Ludivine Isabelle Nathalie Gegaden" "0207 074 8000" NA "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 03/06/19" "Employment" "English, French" "https://solicitors.lawsociety.org.uk/person/378228/ludivine-isabelle-nathalie-gegaden"
+"147765" "Brian Gerard Anthony Gegg" "03452229222" "Enquiries@bdbpitmans.com" "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 01/11/90" "Employment" "English" "https://solicitors.lawsociety.org.uk/person/121908/brian-gerard-anthony-gegg"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

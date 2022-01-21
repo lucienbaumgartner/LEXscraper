@@ -1,0 +1,4 @@
+"616582" "OLIVIA LWENDO G KALENGA" "02078369555" "rsinfo@rs-law.co.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 26/05/21" NA "English" "https://solicitors.lawsociety.org.uk/person/399467/olivia-lwendo-g-kalenga"
+"663899" "ZILA LWANDA" "03454020001" "enquiries@jmw.co.uk" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 10/09/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000006987/zila-lwanda"
+"646255" "Ye Lwin Maung" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 02/03/20" NA "English" "https://solicitors.lawsociety.org.uk/person/394194/ye-lwin-maung"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

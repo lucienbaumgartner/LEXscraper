@@ -1,0 +1,5 @@
+"653071" "Sandra Blaxall" "02084233525" "Raymond.Barda@goodwinsfamilylaw.co.uk" "" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/291797/sandra-blaxall"
+"162576" "Stuart May Blaxell" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 04/01/94" "Commercial litigation, Cross-border, Insurance, Litigation - general, Maritime and shipping" "English" "https://solicitors.lawsociety.org.uk/person/60325/stuart-may-blaxell"
+"476043" "Dominic John Blaxill" "02077869000" "jcpickworth@debevoise.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/11" "Corporate finance, Mergers and acquisitions" "English" "https://solicitors.lawsociety.org.uk/person/156247/dominic-john-blaxill"
+"657515" "MEGAN LOUISE BLAXILL-JONES" "03330060700" "info@TLTsolicitors.com" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 01/10/20" NA "English" "https://solicitors.lawsociety.org.uk/person/407806/megan-louise-blaxill-jones"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

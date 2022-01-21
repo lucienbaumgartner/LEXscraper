@@ -1,0 +1,5 @@
+"407540" "Antti Sakari De Ruano-Keskisaari" NA NA "" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/289353/antti-sakari-de-ruano-keskisaari"
+"571004" "Antti Olavi Leppanen" NA NA "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 03/02/14" NA "English" "https://solicitors.lawsociety.org.uk/person/293267/antti-olavi-leppanen"
+"277548" "Antti Iiro Pesonen" "02072756500" "jfitzgerald@stblaw.com" "Partner - SIMPSON THACHER & BARTLETT LLP, SRA-approved manager - Partner" NA NA "Solicitor                                    Admitted as a solicitor: 17/09/01" "Banking, Mergers and acquisitions" "English" "https://solicitors.lawsociety.org.uk/person/185514/antti-iiro-pesonen"
+"448913" "Antti Tuomo Seppala" NA NA "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 01/04/08" "Company and commercial, Information Technology, Intellectual property" "English, Finnish" "https://solicitors.lawsociety.org.uk/person/8245/antti-tuomo-seppala"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

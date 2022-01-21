@@ -1,0 +1,4 @@
+"574472" "Ahmed Alani" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/09/16" NA "English" "https://solicitors.lawsociety.org.uk/person/308100/ahmed-alani"
+"298097" "Rehana Alani" "02072836000" "louise.higginbottom@nortonrosefulbright.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/06" "Banking, Maritime and shipping" "English" "https://solicitors.lawsociety.org.uk/person/193012/rehana-alani"
+"574473" "Jasem Alanizy" "2074484250" "jennifer.weston@bracewell.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/16" "Mergers and acquisitions" "Arabic, English" "https://solicitors.lawsociety.org.uk/person/308078/jasem-alanizy"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

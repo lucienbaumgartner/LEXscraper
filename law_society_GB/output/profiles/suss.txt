@@ -1,0 +1,4 @@
+"630374" "Lauren Sussudio Coleman" "03450739900" "james.holman@weightmans.com" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 15/11/17" "Commercial property" "English" "https://solicitors.lawsociety.org.uk/person/346861/lauren-sussudio-coleman"
+"374934" "Angela Sussens" "01132240580" "chiefexecutive@stowefamilylaw.co.uk" "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 01/12/06" "Family - general" "English" "https://solicitors.lawsociety.org.uk/person/193931/angela-sussens"
+"624033" "Alexander Sussman" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/09/17" NA "English" "https://solicitors.lawsociety.org.uk/person/336227/alexander-sussman"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

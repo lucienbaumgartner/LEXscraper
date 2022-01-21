@@ -1,0 +1,3 @@
+"89101" "Peter Lawie Townsend Jacks" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/11/66" "Commercial property, Company and commercial, Conveyancing - residential" "English, French" "https://solicitors.lawsociety.org.uk/person/96774/peter-lawie-townsend-jacks"
+"398195" "Tristram Nicholas William Van Lawick" "01242 221122" NA "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/04/08" "Agriculture" "English, French, Spanish" "https://solicitors.lawsociety.org.uk/person/34154/tristram-nicholas-william-van-lawick"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

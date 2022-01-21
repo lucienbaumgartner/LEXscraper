@@ -1,0 +1,4 @@
+"124232" "Kenneth Frank Stawell" "01634 575464" "info.gill@bassettssolicitors.co.uk" "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 16/03/81" "Children, Crime - general, Criminal Litigation Accredited, Family - general, Neighbour disputes" "English" "https://solicitors.lawsociety.org.uk/person/12210/kenneth-frank-stawell"
+"414547" "Amelia Frances Stawpert" "02072962000" "nancy.dobson@hoganlovells.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/08/08" "Financial services" "English" "https://solicitors.lawsociety.org.uk/person/76089/amelia-frances-stawpert"
+"605740" "John Paul Stawyskyj" "02078592957" "Karleen.Rainey@ashurst.com" "Member - ASHURST LLP, Partner" NA NA "Registered foreign lawyer" "Commercial property" "English" "https://solicitors.lawsociety.org.uk/person/291623/john-paul-stawyskyj"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

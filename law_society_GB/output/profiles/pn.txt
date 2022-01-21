@@ -1,0 +1,4 @@
+"547242" "Satveer Pnaiser" "01618296400" NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/06/12" "Crime - general, Criminal Litigation Accredited" "English" "https://solicitors.lawsociety.org.uk/person/3481/satveer-pnaiser"
+"229641" "Mary Png" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/01/03" NA "English" "https://solicitors.lawsociety.org.uk/person/5554/mary-png"
+"417552" "Yin Chia Png" "02076261500" "claudia.chiatto@lloydsbanking.com" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/04/05" "Banking" "Cantonese, Chinese, English" "https://solicitors.lawsociety.org.uk/person/259534/yin-chia-png"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,4 @@
+"597440" "Jutta Aichele" "+4969719901" "LegalEnquiries@CliffordChance.com" "Member - CLIFFORD CHANCE LLP, Partner" NA NA "Registered foreign lawyer" "Tax" "English, German" "https://solicitors.lawsociety.org.uk/person/290018/jutta-aichele"
+"659407" "AICHA AIDI" "02031330000" "info@rajlaw.co.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 10/05/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000008088/aicha-aidi"
+"616672" "Lidia Fili Aicardi" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/11/18" NA "English, Italian" "https://solicitors.lawsociety.org.uk/person/326244/lidia-fili-aicardi"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

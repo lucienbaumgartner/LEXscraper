@@ -1,0 +1,5 @@
+"654247" "Christopher Farouk Kardahji" "03701500100" "customersupport@irwinmitchell.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/08/19" NA "English" "https://solicitors.lawsociety.org.uk/person/382154/christopher-farouk-kardahji"
+"656042" "ASYA KARDILEEVA" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/02/21" NA "English" "https://solicitors.lawsociety.org.uk/person/405040/asya-kardileeva"
+"664785" "KARDIA KING SUM LEUNG" "02077866100" "sandra.felmingham@arnoldporter.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 02/09/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000013384/kardia-king-sum-leung"
+"503067" "Kardine Colette Williams" NA NA "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 15/03/17" NA "English" "https://solicitors.lawsociety.org.uk/person/284545/kardine-colette-williams"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

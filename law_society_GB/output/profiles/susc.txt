@@ -1,0 +1,3 @@
+"410080" "Gemma Louise Susca-Lyons" "03456006980" "compliance@minsterlaw.co.uk" "Employee Locum" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/10" "Litigation - general, Personal injury" "English" "https://solicitors.lawsociety.org.uk/person/594/gemma-louise-susca-lyons"
+"563918" "Manjinder Singh Susch" "0121 514 7111" "info@asrsolicitors.co.uk" "SRA-approved manager - Director Associate" NA NA NA "Commercial property, Conveyancing - residential, Licensing gaming and betting" "English, Hindi, Punjabi, Urdu" "https://solicitors.lawsociety.org.uk/person/374405/manjinder-singh-susch"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

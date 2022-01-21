@@ -1,0 +1,6 @@
+"654529" "Pierre Kirch" "02030235100" NA "SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/366165/pierre-kirch"
+"326203" "Achim Kirchfeld" "004921122977-0" NA "Non-member Partner" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/71811/achim-kirchfeld"
+"637524" "David Michael Kirchin" "01312282400" "kirsty.nicholson@addleshawgoddard.com" "Member - Addleshaw Goddard Llp, Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/326670/david-michael-kirchin"
+"517500" "Jens Kirchner" "+49(0)6927133-0" "Andrew.Darwin@dlapiper.com" "Member - DLA PIPER INTERNATIONAL LLP, SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/16791/jens-kirchner"
+"621963" "Max Kirchner" "02030235100" "rgaut@proskauer.com" "Non-member Partner" NA NA "Registered foreign lawyer" "Corporate finance" "English, German" "https://solicitors.lawsociety.org.uk/person/286086/max-kirchner"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

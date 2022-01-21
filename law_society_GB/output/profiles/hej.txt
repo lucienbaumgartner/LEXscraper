@@ -1,0 +1,4 @@
+"435380" "Kadri Abu-Hejleh" "02039503538" "info@alstonasquith.com" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 15/11/16" NA "English" "https://solicitors.lawsociety.org.uk/person/113724/kadri-abu-hejleh"
+"348045" "Fares Salah Al-Hejailan" "+971 4 5099 100" "legalenquires@freshfields.com" "Non-member Partner" NA NA "Solicitor                                    Admitted as a solicitor: 01/10/09" "Banking, Corporate finance, Mergers and acquisitions" "Arabic, English" "https://solicitors.lawsociety.org.uk/person/221763/fares-salah-al-hejailan"
+"481677" "Natasha Hejabizadeha" "02084922290" "ag@gnlaw.co.uk" "Associate Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 01/08/13" NA "English, Italian" "https://solicitors.lawsociety.org.uk/person/211537/natasha-hejabizadeha"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

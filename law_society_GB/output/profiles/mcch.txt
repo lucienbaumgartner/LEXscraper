@@ -1,0 +1,4 @@
+"408937" "Jacques McChesney" "02076381111" "myhrservices@ashurst.com" "Non-member Partner SRA-approved manager - Member" NA NA "Registered foreign lawyer" "Corporate finance" "English" "https://solicitors.lawsociety.org.uk/person/261631/jacques-mcchesney"
+"226575" "Emma Louise McCheyne" "01483791800" "info@penningtons.co.uk" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 16/09/02" "Clinical negligence, Personal injury" "English" "https://solicitors.lawsociety.org.uk/person/181909/emma-louise-mccheyne"
+"159792" "Yvonne McChlery" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/10/93" "Administrative and public law, Advocacy, Children, Family - general" "English" "https://solicitors.lawsociety.org.uk/person/4024/yvonne-mcchlery"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

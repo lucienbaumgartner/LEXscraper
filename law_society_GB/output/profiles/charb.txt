@@ -1,0 +1,5 @@
+"591825" "Charbel Abou Charaf" "02075321000" "gmclean@whitecase.com" "SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/390175/charbel-abou-charaf"
+"341012" "Chloe Rachelle Charbit" "0207 3996500" NA "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 15/10/04" "Information Technology, Intellectual property" "English, French" "https://solicitors.lawsociety.org.uk/person/230070/chloe-rachelle-charbit"
+"607089" "Simon Charbit" "33140152400" "Andrew.Darwin@dlapiper.com" "Member - DLA PIPER INTERNATIONAL LLP Member - DLA PIPER UK LLP, SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/293096/simon-charbit"
+"389252" "Marine Charbonnier" "02077955196" "eulegal@visa.com" "Employee Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/03/05" "Financial services, Information Technology" "English, French" "https://solicitors.lawsociety.org.uk/person/55002/marine-charbonnier"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

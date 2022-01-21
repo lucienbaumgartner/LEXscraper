@@ -1,0 +1,4 @@
+"332438" "Michaela Sopp" "02076282020" "tracey.morgan@simmons-simmons.com" "SRA-approved manager - Member Employee" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/181690/michaela-sopp"
+"287368" "Alan Henry Soppitt" "01314736000" "hranddevlopment@burnesspaull.com" "Partner" NA NA "Solicitor                                    Admitted as a solicitor: 02/11/98" "Banking, Mergers and acquisitions" "English" "https://solicitors.lawsociety.org.uk/person/16727/alan-henry-soppitt"
+"359270" "Christina Soppitt" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/06" "Construction, Information Technology" "English" "https://solicitors.lawsociety.org.uk/person/116976/christina-soppitt"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

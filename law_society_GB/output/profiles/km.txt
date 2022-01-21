@@ -1,0 +1,4 @@
+"507239" "Olga Maria Kmiec" "03442493844" "mro@carpentersgroup.co.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 01/07/19" NA "English" "https://solicitors.lawsociety.org.uk/person/133898/olga-maria-kmiec"
+"143914" "Andrzej Wincenty John Kmiecik" "003226477350" "brussels@vbb.com" "Partner" NA NA "Solicitor                                    Admitted as a solicitor: 01/11/89" "European Community law" "English, French" "https://solicitors.lawsociety.org.uk/person/56978/andrzej-wincenty-john-kmiecik"
+"349122" "Hana Kmotrasova" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 17/03/08" "Commercial property, Conveyancing - residential, Landlord and tenant - residential, Mergers and acquisitions" "Czech, English, Russian" "https://solicitors.lawsociety.org.uk/person/172243/hana-kmotrasova"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

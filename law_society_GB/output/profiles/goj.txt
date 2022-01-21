@@ -1,0 +1,3 @@
+"665182" "Philip Goj" NA NA "SRA-approved manager - Partner" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/387817/philip-goj"
+"669957" "Ema Vidak Gojkovic" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/06/20" NA "English" "https://solicitors.lawsociety.org.uk/person/400216/ema-vidak-gojkovic"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,4 @@
+"183309" "John Brindsley Lindner" "02081664324" "admin@tlrp.co.uk" "Compliance Officer for Legal Practice Employee" NA NA "Solicitor                                    Admitted as a solicitor: 15/06/78" "Crime - general, Employment, Family - general, Immigration - asylum, Landlord and tenant - residential, Litigation - general" "English" "https://solicitors.lawsociety.org.uk/person/67207/john-brindsley-lindner"
+NA "Phoebe Lindner" "02072846510" "saher@cclc.org.uk" "Role not specified" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/351584/phoebe-lindner"
+"817257" "Robert Edmund Lindner" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 07/05/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000009911/robert-edmund-lindner"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

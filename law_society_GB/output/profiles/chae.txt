@@ -1,0 +1,4 @@
+"630562" "Eunjee Chae" "02076555000" "nicola.liddle-peters@shearman.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 03/09/18" "Tax" "English" "https://solicitors.lawsociety.org.uk/person/361577/eunjee-chae"
+"476669" "Juhae Chae" NA "suzannechong@hsbc.com.hk" "Employee Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/11" "Banking, Construction, Energy and natural resources" "English" "https://solicitors.lawsociety.org.uk/person/131462/juhae-chae"
+"636941" "Chae Rin Hwang" "02073748000" "pamela.fletcher@hsf.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/03/19" NA "English, Korean" "https://solicitors.lawsociety.org.uk/person/372736/chae-rin-hwang"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

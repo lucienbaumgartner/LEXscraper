@@ -1,0 +1,4 @@
+"637944" "Michael Lanza Fantozzi" NA "adminlondon@mintz.com" "SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/327577/michael-lanza-fantozzi"
+"636089" "Alessandro Lanzi" "08700111111" "andrew.darwin@dlapiper.com" "Member - DLA PIPER INTERNATIONAL LLP, Partner" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/325656/alessandro-lanzi"
+"1563" "Damon Rosamond-Lanzetta" "02076068855" "shannon.wilks@addleshawgoddard.com" "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 01/11/95" "Company and commercial, Information Technology" "English" "https://solicitors.lawsociety.org.uk/person/264185/damon-rosamond-lanzetta"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

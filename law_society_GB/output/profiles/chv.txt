@@ -1,0 +1,5 @@
+"667532" "Eran Chvika" "02074187000" "sandra.ward@pinsentmasons.com" "Member - Pinsent Masons France LLP, SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/392629/eran-chvika"
+"465718" "Margarita Chvorostova" "02078748300" "hja@hja.net" "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/08/17" "Advocacy, Criminal Litigation Accredited" "English" "https://solicitors.lawsociety.org.uk/person/95250/margarita-chvorostova"
+"643358" "Ludek Chvosta" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 16/10/17" NA "Czech, English" "https://solicitors.lawsociety.org.uk/person/343979/ludek-chvosta"
+"620282" "Ondrej Chvosta" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/08/16" NA "Czech, English" "https://solicitors.lawsociety.org.uk/person/321446/ondrej-chvosta"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

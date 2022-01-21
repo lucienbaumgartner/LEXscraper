@@ -1,0 +1,3 @@
+"586528" "Sinem Hikmet" NA "maximillian.prien@mufgsecurities.com" "" NA NA "Solicitor                                    Admitted as a solicitor: 16/02/15" NA "English" "https://solicitors.lawsociety.org.uk/person/296081/sinem-hikmet"
+"348798" "Hikmet Ozkutan" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/04/04" "Commercial property, Conveyancing - residential, Crime - general, Immigration - nationality and citizenship, Litigation - general, Planning" "English, Turkish" "https://solicitors.lawsociety.org.uk/person/47835/hikmet-ozkutan"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

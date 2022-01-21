@@ -1,0 +1,7 @@
+"84104" "Morys Lloyd Davies" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 02/12/63" "Administrative and public law" "English" "https://solicitors.lawsociety.org.uk/person/96925/morys-lloyd-davies"
+"632897" "Elliw Morys Jones" "01248723312" "admin1@rgrl.co.uk" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 03/09/18" NA "English" "https://solicitors.lawsociety.org.uk/person/361636/elliw-morys-jones"
+"632897" "Elliw Morys Jones" "
+                        admin1@rgrl.co.uk 
+                    " "admin1@rgrl.co.uk" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 03/09/18" NA "English" "https://solicitors.lawsociety.org.uk/person/361636/elliw-morys-jones"
+"198575" "Arwyn Morys Reed" "02921675962" "advisor@agriadvisor.co.uk" "Consultant - MORGAN & RICHARDSON CYF LIMITED, Associate Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/06/00" "Agriculture, Commercial property, Conveyancing - residential, Family - general, Landlord and tenant - residential, Litigation - general, Private client - Probate, Private client - Wills" "English, Welsh" "https://solicitors.lawsociety.org.uk/person/198461/arwyn-morys-reed"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

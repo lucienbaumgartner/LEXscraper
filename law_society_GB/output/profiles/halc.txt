@@ -1,0 +1,3 @@
+"374054" "Keir Halcomb" NA "howard.sharkett@kpmg.co.uk" "Employee - KPMG LLP, Employee" NA NA "Solicitor                                    Admitted as a solicitor: 03/09/07" "Employment" "English" "https://solicitors.lawsociety.org.uk/person/21277/keir-halcomb"
+"647250" "Frazer William John Halcrow" "07500952452" "kate.dunwoodie@canalrivertrust.org.uk" "" NA NA "Solicitor                                    Admitted as a solicitor: 01/10/19" "Administrative and public law, Commercial litigation, Employment" "English" "https://solicitors.lawsociety.org.uk/person/386089/frazer-william-john-halcrow"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

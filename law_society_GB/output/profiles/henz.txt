@@ -1,0 +1,4 @@
+"648550" "Marc Henzelin" "02038801540" NA "SRA-approved manager - Member" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/355922/marc-henzelin"
+"579754" "Caroline Henzell" "02074187000" "sandra.ward@pinsentmasons.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/15" NA "English" "https://solicitors.lawsociety.org.uk/person/299650/caroline-henzell"
+"459794" "Katherine Anne Henzell" "+852 2971 8888" NA "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 01/02/08" "Banking, Corporate finance, Financial services" "English, Japanese" "https://solicitors.lawsociety.org.uk/person/102169/katherine-anne-henzell"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

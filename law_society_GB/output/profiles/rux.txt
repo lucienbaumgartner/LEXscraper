@@ -1,0 +1,5 @@
+"648931" "Ruxandra Emilia Ionescu" "02076381111" "myhrservices@ashurst.com" "Associate" NA NA "Registered foreign lawyer" "Banking, Financial services, Insolvency and restructuring - business" "English, Romanian" "https://solicitors.lawsociety.org.uk/person/356494/ruxandra-emilia-ionescu"
+"642150" "Ruxandra Murariu Boatca" "02070254450" "info@shearmanbowen.co.uk" "" NA NA "Solicitor                                    Admitted as a solicitor: 02/09/19" "Crime - general" "English, French, Romanian, Spanish" "https://solicitors.lawsociety.org.uk/person/383795/ruxandra-murariu-boatca"
+"30261" "Alastair Hamish Ruxton" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/05/98" "Company and commercial, Intellectual property" "English" "https://solicitors.lawsociety.org.uk/person/10001/alastair-hamish-ruxton"
+"615868" "Erin Ruxton" "02078355277" "marcella.tweedy@umusic.com" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 15/03/17" NA "English" "https://solicitors.lawsociety.org.uk/person/310865/erin-ruxton"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

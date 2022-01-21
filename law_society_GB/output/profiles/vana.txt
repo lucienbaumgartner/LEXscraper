@@ -1,0 +1,6 @@
+"823595" "Evija Vanaga" "01534888900" "info@careyolsen.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 13/08/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000025810/evija-vanaga"
+"587724" "Michael Adam Vanaselja" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 16/03/15" NA "English" "https://solicitors.lawsociety.org.uk/person/297492/michael-adam-vanaselja"
+"332683" "Martine Vanasse" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/02/01" "Banking, Corporate finance, Financial services, Insolvency and restructuring - business" "English, French, Spanish" "https://solicitors.lawsociety.org.uk/person/147845/martine-vanasse"
+"411957" "Sakina Vanat" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/08/08" "Employment" "English, Gujarati" "https://solicitors.lawsociety.org.uk/person/151372/sakina-vanat"
+"352678" "Luc Vanaverbeke" "0032-25019411" NA "Non-member Partner" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/33699/luc-vanaverbeke"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

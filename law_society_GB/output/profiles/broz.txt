@@ -1,0 +1,3 @@
+"634578" "Joshua Matt Broza" "02076916182" "josh.broza@fremantle.com" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/10/18" "Intellectual property, Media, entertainment and sport" "English" "https://solicitors.lawsociety.org.uk/person/363943/joshua-matt-broza"
+"293246" "Edyta Brozyniak" "02072035000" "mailings@crsblaw.com" "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 16/09/02" "Corporate finance, Financial services" "English, German, Polish" "https://solicitors.lawsociety.org.uk/person/55631/edyta-brozyniak"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,5 @@
+"670289" "ADARSH APPU GIRIJADEVI" NA NA "Associate - ARAMM LEGAL LTD, Director" NA NA "Solicitor                                    Admitted as a solicitor: 01/12/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000012639/adarsh-appu-girijadevi"
+"589083" "Adarsh Chhabria" "02030880000" "annette.fritze-shanks@allenovery.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/03/16" NA "English" "https://solicitors.lawsociety.org.uk/person/307876/adarsh-chhabria"
+"650515" "ADARSH NARESHKUMAR TRIVEDI" "08454979797" NA "" NA NA "Solicitor                                    Admitted as a solicitor: 03/09/20" NA "English" "https://solicitors.lawsociety.org.uk/person/407275/adarsh-nareshkumar-trivedi"
+"649676" "ZOE ADARA WEDDERBURN-DAY" "02079031000" "kirsty.russell@weil.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/08/20" NA "English" "https://solicitors.lawsociety.org.uk/person/401946/zoe-adara-wedderburn-day"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

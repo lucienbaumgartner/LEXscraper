@@ -1,0 +1,3 @@
+"652637" "NIKITA RUSAKOV-HARRISON" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 12/10/20" NA "English" "https://solicitors.lawsociety.org.uk/person/401529/nikita-rusakov-harrison"
+"663969" "ALEXANDRA RUSAKOVA" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 05/11/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000009814/alexandra-rusakova"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

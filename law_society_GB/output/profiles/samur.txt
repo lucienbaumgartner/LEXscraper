@@ -1,0 +1,3 @@
+"436124" "Hazel Samuriwo" "02089371321" "debra.norman@brent.gov.uk" "Employee Inhouse Solicitor" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/06/16" "Children, Family - legal aid, Family public law - legal aid, Mental health - legal aid" "English" "https://solicitors.lawsociety.org.uk/person/120655/hazel-samuriwo"
+"436124" "Hazel Samuriwo" "02089371321" "debra.norman@brent.gov.uk" "Employee Inhouse Solicitor" NA NA "Solicitor Advocate (Higher Courts Rights -Civil)" "Children, Family - legal aid, Family public law - legal aid, Mental health - legal aid" "English" "https://solicitors.lawsociety.org.uk/person/120655/hazel-samuriwo"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

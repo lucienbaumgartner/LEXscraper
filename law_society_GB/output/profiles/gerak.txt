@@ -1,0 +1,3 @@
+"807210" "John Gerak" NA NA "" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/412339/john-gerak"
+"29197" "Maria Vasso Aspasia Gerakaris" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 03/11/97" "Commercial litigation, Insurance, Litigation - general, Maritime and shipping" "English, Greek" "https://solicitors.lawsociety.org.uk/person/271788/maria-vasso-aspasia-gerakaris"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

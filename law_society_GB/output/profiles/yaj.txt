@@ -1,0 +1,3 @@
+"413892" "Tadahiko Yajima" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 16/03/15" "European Community law, Immigration - asylum, Immigration and Asylum - Level 2 Accredited, Immigration - nationality and citizenship, Immigration and Asylum - Level 2 Accredited" "English, Japanese" "https://solicitors.lawsociety.org.uk/person/55225/tadahiko-yajima"
+"395243" "Pranav Dave Yajnik" "02087438000" NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/03/11" "Employment" "English, Spanish" "https://solicitors.lawsociety.org.uk/person/277647/pranav-dave-yajnik"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,5 @@
+"669937" "Chanisar Bangkomnet" NA NA "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 01/06/20" "Intellectual property" "English, German, Thai" "https://solicitors.lawsociety.org.uk/person/399579/chanisar-bangkomnet"
+"273624" "Unkar Singh Chanian" "+97317515600" "doneil@trowers.com" "Associate Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 01/02/06" "Commercial property" "English, Hindi, Punjabi" "https://solicitors.lawsociety.org.uk/person/4491/unkar-singh-chanian"
+"652394" "Sithira Dayal Chanishta Pathberiya" "0207 495 4337" NA "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 17/09/18" NA "English" "https://solicitors.lawsociety.org.uk/person/363815/sithira-dayal-chanishta-pathberiya"
+"588390" "Chanielle Wilson" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/09/17" NA "English" "https://solicitors.lawsociety.org.uk/person/314591/chanielle-wilson"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,4 @@
+"169130" "Charles Eric Paul Gerada" "02073796080" "jnethercot@clintons.co.uk" "SRA-approved manager - Partner" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/99" "Banking, Company and commercial, Corporate finance, Employment, Intellectual property, Mergers and acquisitions" "English" "https://solicitors.lawsociety.org.uk/person/254512/charles-eric-paul-gerada"
+"660100" "SASHA GERADA" "01912501864" "infor@mayborngroup.co.uk" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 15/01/21" NA "English" "https://solicitors.lawsociety.org.uk/person/408156/sasha-gerada"
+"637104" "Damien Geradin" NA NA "SRA-approved manager - Director Owner" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/326664/damien-geradin"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

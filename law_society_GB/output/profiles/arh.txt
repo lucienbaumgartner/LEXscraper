@@ -1,0 +1,3 @@
+"503540" "Ayatah Akua Arhin" "02074862908" NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/08/16" "Commercial property, Conveyancing - residential" "English, Fanti, Swedish" "https://solicitors.lawsociety.org.uk/person/56030/ayatah-akua-arhin"
+"640067" "Arhamna Abbas Jafri" "01462474576" "jeanette.thompson@north-herts.gov.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 03/06/19" "Planning" "English" "https://solicitors.lawsociety.org.uk/person/377314/arhamna-abbas-jafri"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

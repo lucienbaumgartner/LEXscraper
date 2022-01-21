@@ -1,0 +1,3 @@
+"332920" "Andrew James Zajac" "01613833500" "law@slatergordon.uk" "SRA-approved manager - Partner Employee" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/06" "Personal injury" "English, French, Polish" "https://solicitors.lawsociety.org.uk/person/212187/andrew-james-zajac"
+"332916" "Melissa Jane Zajac" NA "mark.morrell@northgateps.com" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/07/13" NA "English" "https://solicitors.lawsociety.org.uk/person/290579/melissa-jane-zajac"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

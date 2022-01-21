@@ -1,0 +1,3 @@
+"196686" "Faten Yafai" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 02/10/00" "Children, Education, Family - general, Mental health" "English" "https://solicitors.lawsociety.org.uk/person/33873/faten-yafai"
+"343225" "Marc Simon Yaffe" "03454020001" "enquiries@jmw.co.uk" "SRA-approved manager - Member SRA-approved manager - Owner" NA NA "Solicitor                                    Admitted as a solicitor: 01/04/04" "Commercial litigation, Crime - fraud, Information Technology, Intellectual property, Litigation - general, Neighbour disputes" "English" "https://solicitors.lawsociety.org.uk/person/274969/marc-simon-yaffe"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

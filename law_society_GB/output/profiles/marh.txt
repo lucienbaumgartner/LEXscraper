@@ -1,0 +1,4 @@
+"317636" "Adam Thomas Marham" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/09/03" "Commercial litigation, Company and commercial, Debt and bankruptcy - personal, Debt recovery, Insolvency and restructuring - business" "English" "https://solicitors.lawsociety.org.uk/person/71600/adam-thomas-marham"
+"621061" "Daniel Kendall Marhewka" "02078614000" "info@fieldfisher.com" "SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/310945/daniel-kendall-marhewka"
+"373507" "Manjit Marhia" "02075678000" "bert.suer@ubs.com" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 03/12/07" "Banking, Corporate finance, Financial services" "English, Hindi, Punjabi" "https://solicitors.lawsociety.org.uk/person/276136/manjit-marhia"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

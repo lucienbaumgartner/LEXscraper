@@ -1,0 +1,11 @@
+"651903" "JOSEPH AKWABOA" "02030606000" "rpc@rpc.co.uk" "Associate" NA NA "Solicitor" NA "English" "https://solicitors.lawsociety.org.uk/person/404938/joseph-akwaboa"
+"653232" "ANDREA AKUA ADOBEA AKWEI" "02073111000" "Amanda.Brown2@KPMG.co.uk" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/10/20" NA "English" "https://solicitors.lawsociety.org.uk/person/407033/andrea-akua-adobea-akwei"
+"653232" "ANDREA AKUA ADOBEA AKWEI" "
+                        Amanda.Brown2@KPMG.co.uk 
+                    " "Amanda.Brown2@KPMG.co.uk" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/10/20" NA "English" "https://solicitors.lawsociety.org.uk/person/407033/andrea-akua-adobea-akwei"
+"808216" "Samuel Promise Akwu" "01902906737" "info@aequussolicitors.co.uk" "Associate" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/414930/samuel-promise-akwu"
+"636873" "Florence Anie-Akwetey" "02078888888" "myhrservices@ashurst.com" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 15/03/19" NA "English" "https://solicitors.lawsociety.org.uk/person/373374/florence-anie-akwetey"
+"608433" "Emmanuel Akwasi Apraku Wiafe" "02074238000" "enquiries@trowers.com" "" NA NA "Solicitor                                    Admitted as a solicitor: 16/09/19" NA "English" "https://solicitors.lawsociety.org.uk/person/339215/emmanuel-akwasi-apraku-wiafe"
+"819346" "Emma Akweley Brew-Riverson" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 16/12/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000016610/emma-akweley-brew-riverson"
+NA "Akwal Ryatt" "0113 258 6888" "postbox@lawoffice.co.uk" "Role not specified" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/300713/akwal-ryatt"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,5 @@
+"356612" "Alice Elizabeth Wilne" "02072035000" "mailings@crsblaw.com" "Director - ST ANDREW TRUSTEES LIMITED, SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 02/10/06" "Private client - Probate, Private client - trusts, Private client - Wills, Tax" "English" "https://solicitors.lawsociety.org.uk/person/94667/alice-elizabeth-wilne"
+"549774" "Richard James Wilne" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/08/14" NA "English" "https://solicitors.lawsociety.org.uk/person/300345/richard-james-wilne"
+"588384" "Blake Wilner" "02073796080" "jnethercot@clintons.co.uk" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 02/10/17" NA "English" "https://solicitors.lawsociety.org.uk/person/314504/blake-wilner"
+"807878" "Tana Wilner" "02074692000" "melanie.johnson@kirkland.com" "" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/413417/tana-wilner"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

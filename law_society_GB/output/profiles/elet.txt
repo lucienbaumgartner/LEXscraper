@@ -1,0 +1,4 @@
+"615490" "Elettra Bietti" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/07/16" "Commercial litigation, Intellectual property" "English, French, Italian" "https://solicitors.lawsociety.org.uk/person/320794/elettra-bietti"
+"696523" "Andrea Eletto" "02038849226" "elliott.wiseman@paysafe.com" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 16/02/21" "Company and commercial, European Community law, Financial services, Licensing gaming and betting" "English, Italian" "https://solicitors.lawsociety.org.uk/person/422116/andrea-eletto"
+NA "Eleta Manarkiene" "02073776600" "london@elderrahimi.co.uk" "Role not specified" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/1000019835/eleta-manarkiene"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

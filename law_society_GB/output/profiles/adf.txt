@@ -1,0 +1,3 @@
+"292361" "Steffan Adfeldt Still" NA "legal@deloitte.co.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 02/09/02" "Banking, Company and commercial, Cross-border, European Community law, Tax" "English, Swedish" "https://solicitors.lawsociety.org.uk/person/74937/steffan-adfeldt-still"
+"295193" "Evelyn Adfield" "01823 625800" NA "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 16/09/02" "Company and commercial, Corporate finance, Mergers and acquisitions" "English" "https://solicitors.lawsociety.org.uk/person/277955/evelyn-adfield"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

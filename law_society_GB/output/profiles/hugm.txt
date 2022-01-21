@@ -1,0 +1,3 @@
+"580144" "Charlotte Hugman" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 02/03/15" NA "English, German" "https://solicitors.lawsociety.org.uk/person/299981/charlotte-hugman"
+"116707" "John Melvin Hugman" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 02/04/79" "Family - general" "English" "https://solicitors.lawsociety.org.uk/person/19974/john-melvin-hugman"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,3 @@
+"394013" "Rami Cheblak" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/08/08" "Commercial litigation, Company and commercial, Construction, Cross-border, Energy and natural resources, Litigation - general" "Arabic, English, French, Portuguese, Spanish" "https://solicitors.lawsociety.org.uk/person/189938/rami-cheblak"
+"696002" "Marcelle Cheble Bahia Braga" "02079380500" "iulia.kiraly@bbenergy.com" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 25/01/21" NA "English" "https://solicitors.lawsociety.org.uk/person/421063/marcelle-cheble-bahia-braga"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

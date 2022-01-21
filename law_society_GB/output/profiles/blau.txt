@@ -1,0 +1,3 @@
+"480297" "Michael Blau" "02079364000" "legalenquiries@freshfields.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 03/09/12" "Banking, Corporate finance" "English" "https://solicitors.lawsociety.org.uk/person/219053/michael-blau"
+"639384" "Theo Alexander Blauciak" NA NA "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 03/06/19" NA "English" "https://solicitors.lawsociety.org.uk/person/378240/theo-alexander-blauciak"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,3 @@
+"570910" "Marc Antoni Allepuz Rico" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/08/17" "Construction, Cross-border, European Community law, Litigation - general" "Catalan, English, Spanish" "https://solicitors.lawsociety.org.uk/person/232686/marc-antoni-allepuz-rico"
+"376067" "Maria-luisa Ricottini" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 02/04/12" "Crime - general, Criminal Litigation Accredited" "English" "https://solicitors.lawsociety.org.uk/person/188706/maria-luisa-ricottini"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

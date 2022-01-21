@@ -1,0 +1,3 @@
+"390889" "Rebecca Jane Lesniak" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/09/08" "Intellectual property" "English" "https://solicitors.lawsociety.org.uk/person/19926/rebecca-jane-lesniak"
+"296205" "Monica Marie Lesny" "02073673000" "Communications@cms-cmno.com" "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 17/02/03" "Construction, Litigation - general, Professional negligence" "English" "https://solicitors.lawsociety.org.uk/person/167089/monica-marie-lesny"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

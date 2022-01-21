@@ -1,0 +1,3 @@
+"299243" "Colin James Watret" "01782619225" "mail@knightsplc.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/04/04" "Private client - Probate, Private client - trusts, Private client - Wills, Tax" "English" "https://solicitors.lawsociety.org.uk/person/44226/colin-james-watret"
+"640164" "Thomas Oscar Watret" "02077101063" "becks.norman@lw.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 02/09/19" NA "English" "https://solicitors.lawsociety.org.uk/person/384268/thomas-oscar-watret"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

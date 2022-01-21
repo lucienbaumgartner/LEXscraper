@@ -1,0 +1,3 @@
+"601240" "Callum Giliker" "08006891700" "toby.harper@hjsolicitors.co.uk" "" NA NA "Solicitor                                    Admitted as a solicitor: 02/07/18" "Company and commercial, Corporate finance, Mergers and acquisitions" "English" "https://solicitors.lawsociety.org.uk/person/325344/callum-giliker"
+"391549" "David Louis Gilinsky" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/02/08" "Banking, Corporate finance, Financial services, Pensions" "Arabic, English, Farsi (Persian), French, Hebrew, Spanish" "https://solicitors.lawsociety.org.uk/person/42146/david-louis-gilinsky"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

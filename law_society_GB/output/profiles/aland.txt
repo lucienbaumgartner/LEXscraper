@@ -1,0 +1,3 @@
+"662954" "Nicolette Philippa Alanda Benedicta Lennox" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/11/19" NA "English" "https://solicitors.lawsociety.org.uk/person/388478/nicolette-philippa-alanda-benedicta-lennox"
+"402053" "Andrew Aland Vickery" "02074562000" "rbrooker@linklaters.com" "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 01/07/04" "Financial services" "English" "https://solicitors.lawsociety.org.uk/person/251999/andrew-aland-vickery"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

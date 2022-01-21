@@ -1,0 +1,3 @@
+"636874" "Husin Azhar Hadrian Beckett" "02076381111" "myhrservices@ashurst.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/03/19" "Financial services" "English" "https://solicitors.lawsociety.org.uk/person/373375/husin-azhar-hadrian-beckett"
+"227789" "Husinara Jones" NA "nancy.rollason@bristol.gov.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 15/05/01" "Administrative and public law, Employment, Litigation - general" "English" "https://solicitors.lawsociety.org.uk/person/37583/husinara-jones"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

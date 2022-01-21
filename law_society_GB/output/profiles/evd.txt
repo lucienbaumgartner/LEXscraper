@@ -1,0 +1,4 @@
+"432555" "Daria Evdokimova" "02079330000" "jacqui.caretto@uk.lockton.com" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 03/09/12" NA "English" "https://solicitors.lawsociety.org.uk/person/214067/daria-evdokimova"
+"504415" "Evdokia Maslennikova" "02072467000" "Officeof.GeneralCounselUKME@dentons.com" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 16/09/13" NA "English" "https://solicitors.lawsociety.org.uk/person/206756/evdokia-maslennikova"
+"596394" "Evdokia Moustaka" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 16/11/15" "Company and commercial, Consumer, Employment, Intellectual property, Media, entertainment and sport" "English, French, Greek, Russian" "https://solicitors.lawsociety.org.uk/person/315573/evdokia-moustaka"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

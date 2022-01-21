@@ -1,0 +1,7 @@
+"7599" "Vanketaramana Appalakondiah" "02079234020" "admin@duncanlewis.com" "SRA-approved manager - Director" NA NA "Solicitor                                    Admitted as a solicitor: 01/02/96" "Administrative and public law, Advocacy, Children, Family - general, Family - Advanced Accredited, Litigation - general" "English, Malay, Tamil, Telugu" "https://solicitors.lawsociety.org.uk/person/122968/vanketaramana-appalakondiah"
+"460939" "Farah Vankalwala" "0207 283 2000" "caroline.brown1@aviva.com" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 15/04/16" "Financial services" "English, Gujarati" "https://solicitors.lawsociety.org.uk/person/66731/farah-vankalwala"
+"460939" "Farah Vankalwala" "
+                        caroline.brown1@aviva.com 
+                    " "caroline.brown1@aviva.com" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 15/04/16" "Financial services" "English, Gujarati" "https://solicitors.lawsociety.org.uk/person/66731/farah-vankalwala"
+"642855" "Rayhaan Vankalwala" "02075517777" "mail@bateswells.co.uk" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/11/19" NA "English" "https://solicitors.lawsociety.org.uk/person/388077/rayhaan-vankalwala"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

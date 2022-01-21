@@ -1,0 +1,3 @@
+"507883" "Douglas Henry Leapman" "01892510000" "info@ts-p.co.uk" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/15" NA "English, French" "https://solicitors.lawsociety.org.uk/person/153186/douglas-henry-leapman"
+"122381" "Karina Rose Leapman" "02077947741" "kl@karina-leapman.co.uk" "SRA-approved manager - Sole Practitioner Compliance Officer for Legal Practice Compliance Officer for Finance and Administration" NA NA "Solicitor                                    Admitted as a solicitor: 01/12/80" "Children, Family - general, Family Accredited" "English, French" "https://solicitors.lawsociety.org.uk/person/258857/karina-rose-leapman"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

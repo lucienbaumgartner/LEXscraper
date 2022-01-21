@@ -1,0 +1,4 @@
+"635273" "Ewa Lisiak" "07584151530" "peter.fehler@islington.gov.uk" "Locum" NA NA "Solicitor                                    Admitted as a solicitor: 15/01/19" "Children, Family - general" "English, Polish" "https://solicitors.lawsociety.org.uk/person/369242/ewa-lisiak"
+"375006" "Gianna Lisiecki" "01457761320" "rebecca@odonnellsolicitors.co.uk" "SRA-approved manager - Director" NA NA "Solicitor                                    Admitted as a solicitor: 15/05/08" "Children, Family - general" "English" "https://solicitors.lawsociety.org.uk/person/264606/gianna-lisiecki"
+"343077" "Alex Ndive Lisinge" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/07/09" "Advocacy, Crime - general, Human rights, Immigration - asylum, Immigration - general" "English" "https://solicitors.lawsociety.org.uk/person/48105/alex-ndive-lisinge"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

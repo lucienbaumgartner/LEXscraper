@@ -1,0 +1,4 @@
+"165007" "Victoria Louise Ptarmigan Kitcatt" "01304 616161" NA "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 17/10/94" "Company and commercial, European Community law, Intellectual property" "English, French" "https://solicitors.lawsociety.org.uk/person/175633/victoria-louise-ptarmigan-kitcatt"
+"603225" "Jamie Ptaszynski" "01908-279484" "jamie.singer@onsidelaw.co.uk" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/17" NA "English, French" "https://solicitors.lawsociety.org.uk/person/313524/jamie-ptaszynski"
+"637620" "Michael Ptolemy Walsh" "02070672000" "pkendix@cov.com" "" NA NA "Solicitor                                    Admitted as a solicitor: 01/03/19" NA "English" "https://solicitors.lawsociety.org.uk/person/372003/michael-ptolemy-walsh"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

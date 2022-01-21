@@ -1,0 +1,4 @@
+"549014" "Kevin Eteki Sangnyoh Nfonsam" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 02/12/13" "Banking, Commercial litigation, Employment, Financial services, Insolvency and restructuring - business, Litigation - general" "English, French, German" "https://solicitors.lawsociety.org.uk/person/292598/kevin-eteki-sangnyoh-nfonsam"
+"624813" "Valery Nformba" "02078319222" "jo.douty@macfarlanes.com" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/17" NA "English" "https://solicitors.lawsociety.org.uk/person/336792/valery-nformba"
+"810698" "Sheila Nsue Nfono" NA NA "" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/417958/sheila-nsue-nfono"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

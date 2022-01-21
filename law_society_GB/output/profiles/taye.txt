@@ -1,0 +1,5 @@
+"833408" "Bushra Akef Mohammed Abu Tayeh" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 06/01/22" NA "English" "https://solicitors.lawsociety.org.uk/person/1000052784/bushra-akef-mohammed-abu-tayeh"
+"642218" "Taye Joy Le Monnier" "01534 888900" "info@careyolsen.com" "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 16/09/19" "Private client - trusts, Tax" "English" "https://solicitors.lawsociety.org.uk/person/382687/taye-joy-le-monnier"
+"661891" "ALI-ASGAR TAYEB" "02076282020" "tracey.morgan@simmons-simmons.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 02/09/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000001248/ali-asgar-tayeb"
+"510151" "Julien Tayeg" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/09/11" "Employment" "Arabic, English, French" "https://solicitors.lawsociety.org.uk/person/171980/julien-tayeg"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

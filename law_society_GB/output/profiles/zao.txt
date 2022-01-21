@@ -1,0 +1,3 @@
+"271797" "Nigel Zaoskoufis" "02032062700" "razi.mireskandari@smab.co.uk" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 01/10/99" "Commercial property, Conveyancing - residential" "English" "https://solicitors.lawsociety.org.uk/person/117992/nigel-zaoskoufis"
+"549042" "Samantha Jane Zaozirny" NA "stephen.carter@cpblaw.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/03/13" "Financial services, Insurance" "English" "https://solicitors.lawsociety.org.uk/person/289278/samantha-jane-zaozirny"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

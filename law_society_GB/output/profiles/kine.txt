@@ -1,0 +1,3 @@
+"399111" "Jane Ellen Kineke" "00 33 1 42144633" NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/04/04" "Banking, Company and commercial, Corporate finance, European Community law, Financial services, Tax" "English, French" "https://solicitors.lawsociety.org.uk/person/102527/jane-ellen-kineke"
+"333439" "Stephen Thomas Kines" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/04/13" "Company and commercial, Information Technology, Intellectual property, Media, entertainment and sport, Mergers and acquisitions" "English" "https://solicitors.lawsociety.org.uk/person/109439/stephen-thomas-kines"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

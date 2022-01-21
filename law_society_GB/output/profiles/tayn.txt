@@ -1,0 +1,3 @@
+"400326" "Taynia Pemberton" "02086695145" "paulv@carpenterssolicitors.co.uk" "Role not specified" NA NA "Solicitor                                    Admitted as a solicitor: 04/05/04" "Private client - Probate, Private client - trusts, Private client - Wills" "English" "https://solicitors.lawsociety.org.uk/person/126149/taynia-pemberton"
+"637229" "Tayne Rankine" "02032015000" "info@morganlewis.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 02/05/17" "Financial services, Mergers and acquisitions" "English" "https://solicitors.lawsociety.org.uk/person/329140/tayne-rankine"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

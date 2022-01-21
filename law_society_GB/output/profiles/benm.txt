@@ -1,0 +1,3 @@
+"663381" "AIMEE BENMAYOR" "01512819040" "JOANNEDALTON@MSBSOLICITORS.CO.UK" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 07/09/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000016960/aimee-benmayor"
+"292911" "Elizabeth Benmayor" "01753217800" "kpower@crabtree-evelyn.co.uk" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/05" "Commercial litigation, Company and commercial, Consumer, Intellectual property, Litigation - general, Media, entertainment and sport, Mergers and acquisitions" "Catalan, English, French, Spanish" "https://solicitors.lawsociety.org.uk/person/198114/elizabeth-benmayor"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

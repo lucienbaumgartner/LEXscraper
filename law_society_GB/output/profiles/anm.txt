@@ -1,0 +1,5 @@
+"653278" "ANMOL AHLUWALIA" "02392505500" "compliance@metamorphlaw.co.uk" "Employee Employee" NA NA "Solicitor                                    Admitted as a solicitor: 03/09/20" NA "English" "https://solicitors.lawsociety.org.uk/person/406256/anmol-ahluwalia"
+"289370" "Ghazala Anmbreen Arif" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/11/12" "Conveyancing - residential, Family - general" "English, Urdu" "https://solicitors.lawsociety.org.uk/person/255938/ghazala-anmbreen-arif"
+"637695" "Anmol Singh Bamrah" "02075935000" "info@wslaw.co.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 01/03/19" NA "English" "https://solicitors.lawsociety.org.uk/person/327311/anmol-singh-bamrah"
+"619125" "Anmol Rattan Pamar" "02071001313" "info@millbanklaw.com" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 01/06/16" NA "English" "https://solicitors.lawsociety.org.uk/person/306526/anmol-rattan-pamar"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,4 @@
+"661519" "PETER JOHN SEQUEIRA" "02073490296" NA "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 28/08/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000027899/peter-john-sequeira"
+"167163" "Shalini Sequeira" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/12/94" "Company and commercial, Financial services, Intellectual property" "English" "https://solicitors.lawsociety.org.uk/person/105856/shalini-sequeira"
+"34332" "Vanessa Suzanne Sequeira" "01782201234" NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/10/99" "Employment" "English" "https://solicitors.lawsociety.org.uk/person/121630/vanessa-suzanne-sequeira"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

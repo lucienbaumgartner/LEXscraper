@@ -1,0 +1,3 @@
+"598517" "Elitsa Bogomilova Ivanova" "+35929219910" "iveta.manalova@cms-cmck.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/05/15" "Banking" "Bulgarian, English" "https://solicitors.lawsociety.org.uk/person/311722/elitsa-bogomilova-ivanova"
+"817110" "Batsho Elite Nthoi" "02078858888" NA "Role not specified" NA NA "Solicitor                                    Admitted as a solicitor: 10/06/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000008767/batsho-elite-nthoi"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

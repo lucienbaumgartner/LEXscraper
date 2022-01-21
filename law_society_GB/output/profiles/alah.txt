@@ -1,0 +1,3 @@
+"398456" "Namel Julian Alahakoon" "01747854244" "info@farnfields.com" "SRA-approved manager - Member Compliance Officer for Legal Practice" NA NA "Solicitor                                    Admitted as a solicitor: 02/07/07" "Commercial property, Company and commercial, Conveyancing - residential" "English" "https://solicitors.lawsociety.org.uk/person/200760/namel-julian-alahakoon"
+"644194" "Ali Walid Najib Alahmad" "02074562000" "rbrooker@linklaters.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 16/09/19" NA "Arabic, English" "https://solicitors.lawsociety.org.uk/person/383841/ali-walid-najib-alahmad"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

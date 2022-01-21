@@ -1,0 +1,4 @@
+"14672" "Karen Tukiyar Peart" "01908690260" NA "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 16/10/95" "Commercial property" "English" "https://solicitors.lawsociety.org.uk/person/6583/karen-tukiyar-peart"
+"632794" "Maryana Tuka" "02085467969" "info@crispandco.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 17/09/18" NA "English" "https://solicitors.lawsociety.org.uk/person/363286/maryana-tuka"
+"413277" "Harry Tuke" "01273056720" "info@elitelawsolicitors.co.uk" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/09" "Commercial property, Conveyancing - residential" "English" "https://solicitors.lawsociety.org.uk/person/89234/harry-tuke"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

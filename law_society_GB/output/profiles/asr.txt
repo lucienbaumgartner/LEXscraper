@@ -1,0 +1,5 @@
+"469229" "Sheetal B. Asrani" "020 7545 8000" "jo.warway@db.com" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/05/09" "Corporate finance" "English, French, German, Hindi, Sindhi, Tamil" "https://solicitors.lawsociety.org.uk/person/14449/sheetal-b-asrani"
+"667100" "ASRAR AHMAD BASHIR" "01615040084" "faret@axis.lawyer" "Consultant - MWG Solicitors Limited, Employee" NA NA "Solicitor                                    Admitted as a solicitor: 17/08/20" NA "English" "https://solicitors.lawsociety.org.uk/person/403460/asrar-ahmad-bashir"
+"646885" "Asra Mansoor" "02073490296" "Andrew.Darwin@dlapiper.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 17/02/20" NA "English" "https://solicitors.lawsociety.org.uk/person/393234/asra-mansoor"
+"643655" "Syeda Asraa Hassaan Noor" "02032062700" "razi.mireskandari@smab.co.uk" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 01/12/17" NA "English" "https://solicitors.lawsociety.org.uk/person/346978/syeda-asraa-hassaan-noor"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

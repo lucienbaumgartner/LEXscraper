@@ -1,0 +1,4 @@
+"653293" "MARIE CORINNE GENEVIEVE CLAM" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 11/03/21" NA "English" "https://solicitors.lawsociety.org.uk/person/404976/marie-corinne-genevieve-clam"
+"434883" "James Stephen Clamp" "01159369369" "postmaster@freeths.co.uk" "" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/10" "Commercial property" "English" "https://solicitors.lawsociety.org.uk/person/53378/james-stephen-clamp"
+"314723" "Jasmine Joanna Clamp" "01803 213 251" "info@wollens.co.uk" "" NA NA "Solicitor                                    Admitted as a solicitor: 01/08/07" "Commercial litigation, Company and commercial, Employment, Litigation - general, Maritime and shipping" "English" "https://solicitors.lawsociety.org.uk/person/257644/jasmine-joanna-clamp"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

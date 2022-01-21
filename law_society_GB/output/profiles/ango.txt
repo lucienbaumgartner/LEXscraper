@@ -1,0 +1,5 @@
+"539946" "Shao-ling Angoh" "02074562000" "rbrooker@linklaters.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 16/03/15" NA "English" "https://solicitors.lawsociety.org.uk/person/129870/shao-ling-angoh"
+"265142" "Florence Akello Angole" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/09/97" "Clinical negligence, Personal injury" "English, Luganda, Swahili" "https://solicitors.lawsociety.org.uk/person/188244/florence-akello-angole"
+"357682" "Bernard Angopa" NA NA "Role not specified" NA NA "Solicitor                                    Admitted as a solicitor: 18/04/06" "Banking, Corporate finance" "English" "https://solicitors.lawsociety.org.uk/person/17198/bernard-angopa"
+"623197" "Stephen Ronald Angove" "02078559669" "office@cjclaw.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/11/19" NA "English" "https://solicitors.lawsociety.org.uk/person/388127/stephen-ronald-angove"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

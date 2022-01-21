@@ -1,0 +1,4 @@
+"539859" "Severin Robillard" "02075321000" "gmclean@whitecase.com" "Partner - White & Case Llp (Us), SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/114135/severin-robillard"
+"373095" "Stephen Andrew Mark Robillard" "01566772375" "blakelyg@parnalls.com" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 03/05/16" "Employment" "English" "https://solicitors.lawsociety.org.uk/person/55259/stephen-andrew-mark-robillard"
+"630103" "Julia Grace Robilliard-Smith" "02072953000" "traverssmith@traverssmith.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 17/09/18" NA "English" "https://solicitors.lawsociety.org.uk/person/361550/julia-grace-robilliard-smith"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

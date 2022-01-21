@@ -1,0 +1,7 @@
+"491676" "Abhishek Pashupati Advani" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/10/12" "Corporate finance, Financial services" "English" "https://solicitors.lawsociety.org.uk/person/201736/abhishek-pashupati-advani"
+"670443" "Bhavish Tulsidas Advani" "+6626657800" "naulak@wfw.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/07/20" NA "English" "https://solicitors.lawsociety.org.uk/person/400892/bhavish-tulsidas-advani"
+"549420" "Joanne Rita Advani" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 02/02/15" NA "English" "https://solicitors.lawsociety.org.uk/person/310104/joanne-rita-advani"
+"588827" "Keya Advani" "02075517777" "mail@bateswells.co.uk" "" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/15" NA "English, Hindi" "https://solicitors.lawsociety.org.uk/person/299385/keya-advani"
+"635883" "Mark Surev Advani" "01423532600" "chiefexecutive@stowefamilylaw.co.uk" "SRA-approved manager - Member" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/325304/mark-surev-advani"
+"656706" "Pritika Advani" "02073748000" "pamela.fletcher@hsf.com" "Role not specified" NA NA "Solicitor                                    Admitted as a solicitor: 15/04/19" NA "English" "https://solicitors.lawsociety.org.uk/person/376161/pritika-advani"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

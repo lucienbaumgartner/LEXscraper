@@ -1,0 +1,3 @@
+"129342" "Jennifer Mary Lycett" "01323449552" NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/10/84" "Commercial property, Conveyancing - residential" "English" "https://solicitors.lawsociety.org.uk/person/250696/jennifer-mary-lycett"
+"582237" "Martin Lycka" "02039380659" "Gillian.ord@entaingroup.com" "Director" NA NA "Solicitor                                    Admitted as a solicitor: 01/08/14" NA "English" "https://solicitors.lawsociety.org.uk/person/295997/martin-lycka"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

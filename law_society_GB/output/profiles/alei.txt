@@ -1,0 +1,4 @@
+"655196" "ALEIGHA ADAMS" "01212621565" "Lorraine.Higgs@cps.gsi.gov.uk" "Employee - CPS West Midlands Employee - cps, Crown Prosecuting Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 16/11/20" NA "English" "https://solicitors.lawsociety.org.uk/person/410429/aleigha-adams"
+"634391" "Aleisha Kaur" "01214643096" "trisha.jervis@birmingham.gov.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 15/11/18" "Planning" "English" "https://solicitors.lawsociety.org.uk/person/366960/aleisha-kaur"
+"668065" "ALEIX SERRA MARTI" "02039250394" "i.herak@lbw.com.es" "Role not specified" NA NA "Registered foreign lawyer" "Crime - general, Personal injury" "Catalan, English, Spanish" "https://solicitors.lawsociety.org.uk/person/393764/aleix-serra-marti"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

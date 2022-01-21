@@ -1,0 +1,3 @@
+"466591" "Conan Daniel Lauterpacht" NA NA "Employee" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/08/08" "Company and commercial, Corporate finance, Energy and natural resources, Information Technology, Mergers and acquisitions" "English, French" "https://solicitors.lawsociety.org.uk/person/85113/conan-daniel-lauterpacht"
+"696990" "Thierry Lautier" "0176704000" NA "Non-member Partner Non-member Partner" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/410092/thierry-lautier"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

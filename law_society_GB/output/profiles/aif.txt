@@ -1,0 +1,3 @@
+"619924" "Aifric Corkery" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/04/15" "Financial services" "English" "https://solicitors.lawsociety.org.uk/person/311847/aifric-corkery"
+"813269" "Aifric Patricia O'Reilly" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 26/03/21" NA "English" "https://solicitors.lawsociety.org.uk/person/423780/aifric-patricia-oreilly"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

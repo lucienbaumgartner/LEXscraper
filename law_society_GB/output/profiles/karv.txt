@@ -1,0 +1,4 @@
+"30663" "Chitra Karve" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/97" "Administrative and public law, Crime - general, Human rights" "English, Marathi" "https://solicitors.lawsociety.org.uk/person/250947/chitra-karve"
+"656624" "DESPOINA KARVOUNI" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 26/02/21" NA "English" "https://solicitors.lawsociety.org.uk/person/423805/despoina-karvouni"
+"667476" "KARVAL RIYAT" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 14/12/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000029789/karval-riyat"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

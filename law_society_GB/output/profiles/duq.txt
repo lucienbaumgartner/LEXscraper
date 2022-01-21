@@ -1,0 +1,5 @@
+"669385" "Ruth Duque Santamaria" NA "enquiries@dwf.law" "SRA-approved manager - Member" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/396539/ruth-duque-santamaria"
+"624417" "Melissa Jane Duquemin" "02030880000" "annette.fritze-shanks@allenovery.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/17" "Intellectual property" "English, French" "https://solicitors.lawsociety.org.uk/person/336320/melissa-jane-duquemin"
+"442351" "Francois Duquette" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/07/15" "Aviation, Banking, Company and commercial, Financial services" "English, French" "https://solicitors.lawsociety.org.uk/person/74378/francois-duquette"
+"692707" "Elizabeth Prole (nee Bernal Duque)" "01895 553500" NA "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 03/01/21" NA "English" "https://solicitors.lawsociety.org.uk/person/421650/elizabeth-prole-nee-bernal-duque-"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

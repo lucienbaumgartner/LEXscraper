@@ -1,0 +1,4 @@
+"493925" "Sai Hup Fong" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/07/10" "Company and commercial" "Chinese, English, Malay" "https://solicitors.lawsociety.org.uk/person/152107/sai-hup-fong"
+"423605" "Michaela Waltraut Johanna Hupe" "01227862011" "shabnam.bashir@Canterbury.gov.uk" "Employee Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/05" "Administrative and public law" "English, German" "https://solicitors.lawsociety.org.uk/person/178875/michaela-waltraut-johanna-hupe"
+"150238" "Lynda May Huppatz" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 17/06/91" "Crime - general" "English" "https://solicitors.lawsociety.org.uk/person/118774/lynda-may-huppatz"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

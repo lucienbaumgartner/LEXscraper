@@ -1,0 +1,4 @@
+"378414" "David Mkhitarian" "0161 817 7200" "info@hilldickinson.com" "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 17/03/08" "Banking, Company and commercial, Corporate finance, Mergers and acquisitions" "Armenian, English" "https://solicitors.lawsociety.org.uk/person/23202/david-mkhitarian"
+"583207" "Arshak Mkrtchyan" "02031303000" "tbutcher@mayerbrown.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 02/07/18" "Banking" "Armenian, English, Polish, Russian" "https://solicitors.lawsociety.org.uk/person/325135/arshak-mkrtchyan"
+"639906" "Amoetsoe Mkwena" "02072962000" "nancy.dobson@hoganlovells.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/08/19" NA "English" "https://solicitors.lawsociety.org.uk/person/382218/amoetsoe-mkwena"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

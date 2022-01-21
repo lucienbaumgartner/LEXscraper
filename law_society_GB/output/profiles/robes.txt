@@ -1,0 +1,3 @@
+"137424" "Simon Paul Toby Robeson" "020 7925 0303" "ptaylor@kiddrapinet.co.uk" "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/10/87" "Commercial litigation, Landlord and tenant - residential, Litigation - general" "English" "https://solicitors.lawsociety.org.uk/person/61123/simon-paul-toby-robeson"
+"133345" "Suzanne Nicolle Robeson" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/04/86" "Commercial property, Conveyancing - residential, Private client - Probate, Private client - Wills" "English" "https://solicitors.lawsociety.org.uk/person/44673/suzanne-nicolle-robeson"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

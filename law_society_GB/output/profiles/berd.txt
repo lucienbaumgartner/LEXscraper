@@ -1,0 +1,5 @@
+"560832" "Daphne Berdina Richarda Bens" NA "Andrew.Darwin@dlapiper.com" "Member - DLA PIPER INTERNATIONAL LLP, Partner" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/120455/daphne-berdina-richarda-bens"
+"649203" "Hannah Louise Berdal" "02077101063" "becks.norman@lw.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 17/09/18" NA "English" "https://solicitors.lawsociety.org.uk/person/363804/hannah-louise-berdal"
+"598001" "Anne-Laure Fanny Berdugo" "02075331500" "jacqui_marshall@spe.sony.com" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 03/11/14" "Intellectual property" "English" "https://solicitors.lawsociety.org.uk/person/301269/anne-laure-fanny-berdugo"
+"669620" "Jia Mei Berdine Geh" NA "gmclean@whitecase.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/04/20" NA "English" "https://solicitors.lawsociety.org.uk/person/397743/jia-mei-berdine-geh"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

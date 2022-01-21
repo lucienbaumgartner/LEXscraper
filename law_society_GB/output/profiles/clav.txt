@@ -1,0 +1,3 @@
+"147025" "Michael Frederick Clavell-Bate" "08454979797" NA "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 15/10/90" "Commercial litigation" "English" "https://solicitors.lawsociety.org.uk/person/23379/michael-frederick-clavell-bate"
+"660252" "MARTINE DONNA CLAVERY" "01916435339" "louise.watson@northtyneside.gov.uk" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 09/07/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000023387/martine-donna-clavery"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

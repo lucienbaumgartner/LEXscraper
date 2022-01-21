@@ -1,0 +1,7 @@
+"554291" "Walter Uebelhoer" "+49 89 71043 3000" NA "Member - ALLEN & OVERY (BELGIUM) LLP, SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/2170/walter-uebelhoer"
+"595387" "Naoko Uehara" "02079191000" NA "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/16" "Tax" "English" "https://solicitors.lawsociety.org.uk/person/307474/naoko-uehara"
+"657641" "Hakan Uendemir" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/04/19" NA "English, German" "https://solicitors.lawsociety.org.uk/person/376191/hakan-uendemir"
+"631265" "Mami Ueno" "81362719900" "Gavin.Raftery@bakermckenzie.com" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 15/11/19" "Company and commercial, Corporate finance, Energy and natural resources" "English, Japanese" "https://solicitors.lawsociety.org.uk/person/387757/mami-ueno"
+"526243" "Shohta Ueno" NA NA "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 16/09/13" "Intellectual property" "English, Japanese" "https://solicitors.lawsociety.org.uk/person/89707/shohta-ueno"
+"657138" "Naoki Ueyama" "02075976000" "lucy.brooker@withersworldwide.com" "SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/372468/naoki-ueyama"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

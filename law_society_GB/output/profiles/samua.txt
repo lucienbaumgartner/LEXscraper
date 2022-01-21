@@ -1,0 +1,3 @@
+"576885" "Samual Cobley" "0207 329 4422" "lauren.carter@shlegal.com" "" NA NA "Solicitor                                    Admitted as a solicitor: 01/10/15" NA "English" "https://solicitors.lawsociety.org.uk/person/297054/samual-cobley"
+"438604" "Samual John Dighton" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 03/04/06" "Commercial property" "English" "https://solicitors.lawsociety.org.uk/person/254109/samual-john-dighton"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

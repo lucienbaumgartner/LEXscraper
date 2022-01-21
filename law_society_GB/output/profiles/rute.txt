@@ -1,0 +1,4 @@
+"665857" "RUTENDO ROBIN CHIGAGURE" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 02/09/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000018550/rutendo-robin-chigagure"
+"618372" "Barbara Rutendo Chinamasa" NA NA "Employee Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/07/16" NA "English" "https://solicitors.lawsociety.org.uk/person/320499/barbara-rutendo-chinamasa"
+"450077" "Stephen Andrew Rutenberg" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 16/04/07" "Company and commercial, Corporate finance" "English" "https://solicitors.lawsociety.org.uk/person/259418/stephen-andrew-rutenberg"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

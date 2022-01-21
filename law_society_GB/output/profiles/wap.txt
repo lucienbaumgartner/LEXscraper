@@ -1,0 +1,5 @@
+"625358" "Alexander Louis Scott Waples" "01279755200" "hello@teeslaw.com" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/17" NA "English" "https://solicitors.lawsociety.org.uk/person/337385/alexander-louis-scott-waples"
+"602684" "Fiona Waples" "02078614000" "info@fieldfisher.com" "Employee Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/16" "Intellectual property" "English" "https://solicitors.lawsociety.org.uk/person/307080/fiona-waples"
+"457123" "Emily Elizabeth Wapples" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/09/10" "Commercial litigation, Litigation - general" "English" "https://solicitors.lawsociety.org.uk/person/110193/emily-elizabeth-wapples"
+"660215" "THEODORE JAMES WAPSHARE" "01179392000" "enquiries@burges-salmon.com" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 23/08/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000008872/theodore-james-wapshare"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,4 @@
+"478077" "Fabienne Dony" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/14" "Banking, European Community law, Intellectual property, Litigation - general, Mergers and acquisitions" "Dutch, English, French, German, Swiss-German" "https://solicitors.lawsociety.org.uk/person/187592/fabienne-dony"
+"571848" "Donya Fredj" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/10/14" "Corporate finance" "English" "https://solicitors.lawsociety.org.uk/person/298532/donya-fredj"
+"394440" "Donya Kalantari-Nazari" "02084964763" "fayeka.chowdhury@walthamforest.gov.uk" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 15/04/09" "Commercial property, Planning" "English" "https://solicitors.lawsociety.org.uk/person/24092/donya-kalantari-nazari"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,3 @@
+"371951" "Michelle Louise Crorie" "02078765000" NA "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 03/03/03" "Advocacy, Higher courts rights - criminal Accredited" "English" "https://solicitors.lawsociety.org.uk/person/206435/michelle-louise-crorie"
+"549127" "Nyssa Jacqueline Crorie" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/06/12" NA "English" "https://solicitors.lawsociety.org.uk/person/198583/nyssa-jacqueline-crorie"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,4 @@
+"337339" "Helen Rachel Lindup" NA "marie.halila@rpc.co.uk" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/04" "Commercial litigation, Litigation - general" "English" "https://solicitors.lawsociety.org.uk/person/14207/helen-rachel-lindup"
+"142494" "Richard Paul Lindup" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/06/89" "Administrative and public law, Children, Education, Family - general, Mental health" "English" "https://solicitors.lawsociety.org.uk/person/56408/richard-paul-lindup"
+"296255" "Thomas Edward Lindup" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/10/03" "Banking, Corporate finance, Financial services" "English" "https://solicitors.lawsociety.org.uk/person/246029/thomas-edward-lindup"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

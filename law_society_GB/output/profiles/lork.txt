@@ -1,0 +1,3 @@
+"582155" "Caroline Lorkin" "02072839033" "info@hilldickinson.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 03/04/18" NA "English" "https://solicitors.lawsociety.org.uk/person/353616/caroline-lorkin"
+"146403" "Geoffrey Alan Lorkins" "01132326530" "crossgates@isonharrison.co.uk" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 03/09/90" "Family - general" "English" "https://solicitors.lawsociety.org.uk/person/58099/geoffrey-alan-lorkins"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

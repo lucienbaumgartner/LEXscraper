@@ -1,0 +1,3 @@
+"478806" "Samantha Ann Malbon" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/06/12" "Advocacy, Crime - fraud, Crime - general" "English" "https://solicitors.lawsociety.org.uk/person/114430/samantha-ann-malbon"
+"414215" "Andrew Charles Malby Mottram" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 03/11/08" "Company and commercial, Corporate finance, Mergers and acquisitions" "English" "https://solicitors.lawsociety.org.uk/person/85236/andrew-charles-malby-mottram"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

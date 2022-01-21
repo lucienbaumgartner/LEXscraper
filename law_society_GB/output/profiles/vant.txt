@@ -1,0 +1,4 @@
+"605010" "KYRON VANTERPOOL" "0161 234 8234" NA "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 02/09/21" NA "English" "https://solicitors.lawsociety.org.uk/person/384127/kyron-vanterpool"
+"637522" "Emma Kate Vantine" "02075805721" "jane.k@joelsonlaw.com" "Employee Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 15/02/19" "Company and commercial" "English" "https://solicitors.lawsociety.org.uk/person/370583/emma-kate-vantine"
+"114585" "Jonnie Eugene Vantyghem" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 16/10/78" "Company and commercial, European Community law, Financial services, Information Technology, Intellectual property, Mergers and acquisitions" "English, French, German" "https://solicitors.lawsociety.org.uk/person/145003/jonnie-eugene-vantyghem"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

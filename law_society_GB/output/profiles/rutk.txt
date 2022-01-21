@@ -1,0 +1,3 @@
+"585790" "Bartlomiej Rutkowski" "02031163000" "rshrhelpdesk@reedsmith.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 16/02/15" "Commercial litigation, Energy and natural resources, Maritime and shipping" "English, Polish" "https://solicitors.lawsociety.org.uk/person/296957/bartlomiej-rutkowski"
+"653085" "Sigourney Rutkowski" "01245504904" "legal@leonardgray.co.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 02/03/20" NA "English" "https://solicitors.lawsociety.org.uk/person/395029/sigourney-rutkowski"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

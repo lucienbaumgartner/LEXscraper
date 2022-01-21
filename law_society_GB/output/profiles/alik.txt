@@ -1,0 +1,6 @@
+"425262" "Erion Alikaj" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/10/13" "Commercial litigation, Employment, Litigation - general" "English" "https://solicitors.lawsociety.org.uk/person/234269/erion-alikaj"
+"599819" "LEYLA AMIR-ALIKHANI" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 31/12/21" NA "English" "https://solicitors.lawsociety.org.uk/person/391865/leyla-amir-alikhani"
+"820593" "Aliki Athina (Alina) Papanastasiou" "02035307950" "jennifer.merrick@threecrownsllp.com" "Employee" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/1000019795/aliki-athina-alina-papanastasiou"
+"574146" "Nicola Amy Alika Wadsworth" "01204677000" "jheath@keoghs.co.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 16/03/15" "Crime - fraud" "English" "https://solicitors.lawsociety.org.uk/person/297066/nicola-amy-alika-wadsworth"
+"614501" "Aliki Zeri" NA NA "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 16/04/18" "Commercial property, Energy and natural resources" "English, Greek" "https://solicitors.lawsociety.org.uk/person/354469/aliki-zeri"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

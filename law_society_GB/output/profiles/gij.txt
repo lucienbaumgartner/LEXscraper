@@ -1,0 +1,5 @@
+"669403" "Gijs Linse" "0203 088 0000" "annette.fritze-shanks@allenovery.com" "Partner - ALLEN & OVERY SOCIÉTÉ EN COMMANDITE SIMPLE (SCS) Member - ALLEN & OVERY (BELGIUM) LLP, SRA-approved manager - Member Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/396805/gijs-linse"
+"657806" "Gijs ter Braak" "+31 207 22 25 00" NA "SRA-approved manager - Member Employee" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/374033/gijs-ter-braak"
+"622881" "Alexander Gijsbert Daniel van der Wolk" NA NA "Partner - MORRISON & FOERSTER (UK) LLP, Partner" NA NA "Registered foreign lawyer" "Company and commercial, Information Technology, Litigation - general" "Dutch, English" "https://solicitors.lawsociety.org.uk/person/312446/alexander-gijsbert-daniel-van-der-wolk"
+"817500" "Max Maximiliaan Gijsbertus Bernardus van Drunen" NA NA "SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/1000009996/max-maximiliaan-gijsbertus-bernardus-van-drunen"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,3 @@
+"408263" "Jose Miguel Saras" "02073325640" "ronnie@preiskel.com" "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 03/10/05" "Information Technology, Intellectual property" "English, Portuguese, Spanish" "https://solicitors.lawsociety.org.uk/person/99796/jose-miguel-saras"
+"423700" "Maria Therese Ruth Saras Stanley" "07917040074" "jane.rash@cafcass.gov.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/10" "Administrative and public law, Children, Family - general, Mental health" "English" "https://solicitors.lawsociety.org.uk/person/241807/maria-therese-ruth-saras-stanley"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

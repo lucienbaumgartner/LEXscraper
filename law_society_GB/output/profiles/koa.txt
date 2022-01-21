@@ -1,0 +1,4 @@
+"581516" "Jasmin Koasha" "01926414296" "simon.villanueva@volvo.com" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/17" "Mergers and acquisitions" "English" "https://solicitors.lawsociety.org.uk/person/314925/jasmin-koasha"
+"633919" "Christopher Koay" "006566925700" "rbrooker@linklaters.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 17/09/18" "Mergers and acquisitions" "English" "https://solicitors.lawsociety.org.uk/person/361337/christopher-koay"
+"663606" "YI PING STEPHANIE KOAY" "02070061000" "LegalEnquiries@CliffordChance.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 23/08/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000010202/yi-ping-stephanie-koay"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

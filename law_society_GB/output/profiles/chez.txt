@@ -1,0 +1,4 @@
+"449277" "Chezard Ameer" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/10/07" "Corporate finance" "English" "https://solicitors.lawsociety.org.uk/person/193601/chezard-ameer"
+"205095" "Chez Cotton" "02084459268" "matthew@goldjennings.co.uk" "Consultant" "Gold Jennings Ltd, 11 Jerusalem Passage, London, EC1V 4JP, England" "https://maps.google.co.uk/maps?q=EC1V 4JP" "Solicitor                                    Admitted as a solicitor: 15/05/00" "Administrative and public law, Human rights" "English" "https://solicitors.lawsociety.org.uk/person/64068/chez-cotton"
+"355267" "Karl Chee Chez Mah" "02077101063" "becks.norman@lw.com" "SRA-approved manager - Partner Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/02/06" "Tax" "English, French, German" "https://solicitors.lawsociety.org.uk/person/128427/karl-chee-chez-mah"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,3 @@
+"653776" "Juliet Evanthia Caragianis" "02070349000" NA "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 01/05/20" NA "English" "https://solicitors.lawsociety.org.uk/person/396680/juliet-evanthia-caragianis"
+"483834" "Deidre Evanthe Garcia" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/07/14" "Administrative and public law, Advocacy, Benefits and allowances, Debt and bankruptcy - personal, Debt recovery, Landlord and tenant - residential, Litigation - general" "English" "https://solicitors.lawsociety.org.uk/person/73627/deidre-evanthe-garcia"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,3 @@
+"650439" "ALEXANDER NICHOLAS ADAM GEWANTER" "02073673000" "Communications@cms-cmno.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/08/20" NA "English" "https://solicitors.lawsociety.org.uk/person/402934/alexander-nicholas-adam-gewanter"
+"152958" "Jeremy Benjamin Gewirtz" "02074562000" "rbrooker@linklaters.com" "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 02/12/91" "Corporate finance, Financial services" "English" "https://solicitors.lawsociety.org.uk/person/120245/jeremy-benjamin-gewirtz"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

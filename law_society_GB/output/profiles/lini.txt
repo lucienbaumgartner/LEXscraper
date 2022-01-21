@@ -1,0 +1,3 @@
+"660276" "Guido Liniado" "+12128788000" NA "" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/379788/guido-liniado"
+"410796" "Lucy Annabelle Childs Linington" "023 9285 6210" NA "Crown Prosecuting Solicitor Employee" NA NA "Solicitor                                    Admitted as a solicitor: 17/11/08" "Crime - general, Criminal Litigation Accredited, Personal injury" "English" "https://solicitors.lawsociety.org.uk/person/265283/lucy-annabelle-childs-linington"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,3 @@
+"374321" "James John Willn" "0097144073900" "info.dubai@shlegal.com" "" NA NA "Solicitor                                    Admitted as a solicitor: 15/11/07" "Construction, Maritime and shipping" "English" "https://solicitors.lawsociety.org.uk/person/201474/james-john-willn"
+"650176" "LOUISE WILLNEFF" "97143301800" NA "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/20" NA "English" "https://solicitors.lawsociety.org.uk/person/403437/louise-willneff"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

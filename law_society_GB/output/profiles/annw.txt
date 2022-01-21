@@ -1,0 +1,3 @@
+"157499" "Annwen Mair Jones" "01970625566" "rjmorris@morrisbates.co.uk" "Member SRA-approved manager - Director Compliance Officer for Legal Practice Employee" NA NA "Solicitor                                    Admitted as a solicitor: 01/12/92" "Children, Commercial litigation, Conveyancing - residential, Family - general, Family Accredited, Litigation - general" "English, Welsh" "https://solicitors.lawsociety.org.uk/person/255562/annwen-mair-jones"
+"658936" "Saran Annwyl Richards" "02088113000" NA "Role not specified" NA NA "Solicitor                                    Admitted as a solicitor: 02/11/20" NA "English" "https://solicitors.lawsociety.org.uk/person/407834/saran-annwyl-richards"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

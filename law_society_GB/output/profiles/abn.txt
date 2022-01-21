@@ -1,0 +1,3 @@
+"354794" "Lucy Abnett" "02070661000" "susan.shakespeare@fsa.gov.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 03/10/05" "Commercial litigation, Crime - fraud, Crime - general, Financial services" "English" "https://solicitors.lawsociety.org.uk/person/171654/lucy-abnett"
+"123946" "Peter Wilfred Abney Garsden" "01618257323" "contact@simpsonmillar.co.uk" "Non-member Partner" NA NA "Solicitor                                    Admitted as a solicitor: 15/04/81" "Administrative and public law, Human rights, Personal injury, Professional negligence" "English, French" "https://solicitors.lawsociety.org.uk/person/135606/peter-wilfred-abney-garsden"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

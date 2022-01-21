@@ -1,0 +1,3 @@
+"612770" "Heimon Lennart Smits" "+31 (0) 20 462 9300" NA "SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/294217/heimon-lennart-smits"
+"649593" "KATIE MARIE SMITS" "01707329333" NA "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 30/07/20" NA "English" "https://solicitors.lawsociety.org.uk/person/402925/katie-marie-smits"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

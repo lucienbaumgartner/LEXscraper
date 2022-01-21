@@ -1,0 +1,3 @@
+"550260" "Karen Sarau" NA "suzannechong@hsbc.com.hk" "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/09/11" "Banking, Maritime and shipping" "Cantonese, Chinese, English" "https://solicitors.lawsociety.org.uk/person/182090/karen-sarau"
+"311797" "Barry James Saraullo" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 17/01/00" "Energy and natural resources, European Community law, Financial services, Insolvency and restructuring - business, Maritime and shipping, Mergers and acquisitions" "English" "https://solicitors.lawsociety.org.uk/person/165085/barry-james-saraullo"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

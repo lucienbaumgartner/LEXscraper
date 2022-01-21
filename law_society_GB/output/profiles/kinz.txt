@@ -1,0 +1,4 @@
+"583631" "Kinza Kiren Majid" NA "enquiries@muve.me.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 03/07/17" "Commercial property, Conveyancing - residential, Family - general, Immigration - general, Landlord and tenant - commercial, Landlord and tenant - residential" "English, Hindi, Urdu" "https://solicitors.lawsociety.org.uk/person/311196/kinza-kiren-majid"
+NA "Kinza Malik" "01615079900" "info@iasuk.org" "Role not specified" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/1000021603/kinza-malik"
+"413520" "Kinza Rana" "02072103000" NA "Inhouse Solicitor" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 17/09/12" "Human rights, Insurance, Litigation - general, Personal injury" "English, Hindi, Punjabi, Urdu" "https://solicitors.lawsociety.org.uk/person/153244/kinza-rana"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,4 @@
+"302069" "Gareth Terence Juul" "02037535600" "caitriona.mccrohan@vanguard.co.uk" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 17/05/99" "Financial services" "Afrikaans, English" "https://solicitors.lawsociety.org.uk/person/131104/gareth-terence-juul"
+"667130" "JENNA JUULIA KOPONEN" "02074275970" "enquiries@taylorhampton.co.uk" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 10/09/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000001654/jenna-juulia-koponen"
+"583832" "Sara Juul Nielsen-Dzumhur" "02070748000" "tom.crease@lewissilkin.com" "" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/15" "Commercial litigation, Intellectual property" "Danish, English" "https://solicitors.lawsociety.org.uk/person/299409/sara-juul-nielsen-dzumhur"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

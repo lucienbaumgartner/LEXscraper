@@ -1,0 +1,4 @@
+"641169" "Nkeiru Chioma Scotcher" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/08/19" "Commercial property, Energy and natural resources, European Community law, Maritime and shipping" "Creole, English, Ibo" "https://solicitors.lawsociety.org.uk/person/380249/nkeiru-chioma-scotcher"
+"586068" "Sophie Scotcher" "01905612001" "lawyers@hcrlaw.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/04/15" NA "English" "https://solicitors.lawsociety.org.uk/person/298498/sophie-scotcher"
+"610357" "Graeme Scotchmer" "020 7260 1000" "fyang@scorpiogroup.net" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/17" NA "English" "https://solicitors.lawsociety.org.uk/person/313986/graeme-scotchmer"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

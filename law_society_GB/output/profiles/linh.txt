@@ -1,0 +1,3 @@
+"658265" "Linh Quynh Doan" "02078148000" "naulak@wfw.com" "Member - Watson Farley & Williams LVN, SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/375415/linh-quynh-doan"
+"637619" "Natalie Linhart" "02070061000" "LegalEnquiries@CliffordChance.com" "" NA NA "Solicitor                                    Admitted as a solicitor: 01/03/19" NA "English" "https://solicitors.lawsociety.org.uk/person/372315/natalie-linhart"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

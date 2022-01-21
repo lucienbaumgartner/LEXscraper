@@ -1,0 +1,7 @@
+"623536" "Karin Gertrud Kiho" "02075397272" "info@kermanco.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/03/18" NA "English" "https://solicitors.lawsociety.org.uk/person/350723/karin-gertrud-kiho"
+"438206" "Samuel Kihuga Njogu" "02071948140" "thomas.miles@3cslondon.com" "" NA NA "Solicitor                                    Admitted as a solicitor: 03/02/14" "Administrative and public law, European Community law, Immigration - general" "English" "https://solicitors.lawsociety.org.uk/person/178703/samuel-kihuga-njogu"
+"438206" "Samuel Kihuga Njogu" "
+                        thomas.miles@3cslondon.com 
+                    " "thomas.miles@3cslondon.com" "" NA NA "Solicitor                                    Admitted as a solicitor: 03/02/14" "Administrative and public law, European Community law, Immigration - general" "English" "https://solicitors.lawsociety.org.uk/person/178703/samuel-kihuga-njogu"
+"323162" "Douglas Kihiko Wamburu" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 05/01/09" "Administrative and public law, Employment, Family - general, Immigration - nationality and citizenship, Litigation - general, Mental health" "English, Kiswahili" "https://solicitors.lawsociety.org.uk/person/193602/douglas-kihiko-wamburu"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

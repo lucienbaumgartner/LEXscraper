@@ -1,0 +1,3 @@
+"453601" "Philippe Richard Andrew Marimootoo" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/03/11" "Banking, Company and commercial, Corporate finance, Cross-border, Information Technology" "English, French, Italian, Spanish" "https://solicitors.lawsociety.org.uk/person/168569/philippe-richard-andrew-marimootoo"
+"500173" "Marimba Odundo-Mendez" "+44 (0)20 7102 3781" "carla.dalloway@nomura.com" "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 03/09/12" "Corporate finance" "English" "https://solicitors.lawsociety.org.uk/person/140900/marimba-odundo-mendez"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

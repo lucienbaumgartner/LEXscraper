@@ -1,0 +1,4 @@
+"399893" "Emanuel Eduardo Texeira De Jesus" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/05/17" NA "English" "https://solicitors.lawsociety.org.uk/person/329554/emanuel-eduardo-texeira-de-jesus"
+"41224" "Lindsay Anne Texel" "01132460622" "enquiries@clarionsolicitors.com" "SRA-approved manager - Director Employee" NA NA "Solicitor                                    Admitted as a solicitor: 02/11/98" "Commercial property" "English" "https://solicitors.lawsociety.org.uk/person/251941/lindsay-anne-texel"
+"670524" "Caroline Texier" "08700111111" NA "Member - DLA PIPER INTERNATIONAL LLP Member - DLA PIPER UK LLP, Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/399412/caroline-texier"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

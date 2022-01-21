@@ -1,0 +1,3 @@
+"653861" "SOPE ISAAC KUYINU" "03700868300" "peter.duff@shoosmiths.co.uk" "" NA NA "Solicitor                                    Admitted as a solicitor: 16/12/20" NA "English" "https://solicitors.lawsociety.org.uk/person/408548/sope-isaac-kuyinu"
+"810560" "Christopher Lorne Stevenson-Kuylaars" "01616873160" "rebecca.smith@bnymellon.com" "" NA NA "Solicitor                                    Admitted as a solicitor: 01/02/21" NA "English" "https://solicitors.lawsociety.org.uk/person/418469/christopher-lorne-stevenson-kuylaars"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

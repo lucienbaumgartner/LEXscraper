@@ -1,0 +1,5 @@
+"313490" "Mohammed Toesef Afzal" NA NA "" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/286738/mohammed-toesef-afzal"
+"205843" "Toe Su Aung" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 17/06/96" "Intellectual property" "English" "https://solicitors.lawsociety.org.uk/person/19730/toe-su-aung"
+"453246" "Adam Toes" "02074562000" "rbrooker@linklaters.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/10/10" "Banking, Corporate finance" "English" "https://solicitors.lawsociety.org.uk/person/173262/adam-toes"
+"563115" "Jennifer Barbara Toettcher" "02071481066" "clive@lawbite.co.uk" "Consultant" "LAWBRIEFS LIMITED, 39 Long Acre, London, WC2E 9LG, England" "https://maps.google.co.uk/maps?q=WC2E 9LG" "Solicitor                                    Admitted as a solicitor: 29/10/20" "Banking" "English" "https://solicitors.lawsociety.org.uk/person/34700/jennifer-barbara-toettcher"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

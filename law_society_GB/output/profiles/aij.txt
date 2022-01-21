@@ -1,0 +1,4 @@
+"452365" "Amena Aijaz" "01162536236" "raza.sakhi@sakhisolicitors.com" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 03/02/14" "Crime - general, Criminal Litigation Accredited, Higher courts rights - criminal Accredited" "English" "https://solicitors.lawsociety.org.uk/person/202621/amena-aijaz"
+"150629" "Allan Aiji Hoyano" "0117 945 1234" NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/08/91" "Intellectual property" "English" "https://solicitors.lawsociety.org.uk/person/126124/allan-aiji-hoyano"
+"518115" "Semiya Aijaz Khan" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/08/11" "Banking, Financial services, Litigation - general" "English, Hindi, Urdu" "https://solicitors.lawsociety.org.uk/person/252269/semiya-aijaz-khan"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

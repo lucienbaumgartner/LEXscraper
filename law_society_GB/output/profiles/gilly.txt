@@ -1,0 +1,3 @@
+"30018" "Gilly Bloom" "01451870111" "gilly@bloommedialaw.com" "SRA-approved manager - Director Compliance Officer for Legal Practice Compliance Officer for Finance and Administration" NA NA "Solicitor                                    Admitted as a solicitor: 02/04/98" "Media, entertainment and sport" "English, French" "https://solicitors.lawsociety.org.uk/person/13195/gilly-bloom"
+"506650" "Cassie Gillyon" "01482615055" "BST@hullcc.gov.uk" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 16/01/14" "Children, Family - general" "English" "https://solicitors.lawsociety.org.uk/person/64073/cassie-gillyon"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

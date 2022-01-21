@@ -1,0 +1,4 @@
+"462540" "Yii Yng Hui" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/07/09" "Financial services" "English" "https://solicitors.lawsociety.org.uk/person/30782/yii-yng-hui"
+"379304" "Sion Ynyr Williams" "01264326594" "enquiries@fclaw.co.uk" "SRA-approved manager - Partner Compliance Officer for Finance and Administration" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/06" "Advocacy, Children, Family - general, Litigation - general" "English, Welsh" "https://solicitors.lawsociety.org.uk/person/128575/sion-ynyr-williams"
+"659126" "Nicholas Anthony Ynda" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 03/06/19" NA "English" "https://solicitors.lawsociety.org.uk/person/378581/nicholas-anthony-ynda"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

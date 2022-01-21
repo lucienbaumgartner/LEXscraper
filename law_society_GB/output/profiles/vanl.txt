@@ -1,0 +1,3 @@
+"587726" "Heidi Joo Young Vanlangenaeker" "01473232121" "mail@prettys.co.uk" "Employee Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 01/08/17" "Conveyancing - residential" "Chinese, Dutch, English, French, German" "https://solicitors.lawsociety.org.uk/person/318451/heidi-joo-young-vanlangenaeker"
+"634440" "Murat Vanlioglu" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/11/16" "Company and commercial, Energy and natural resources, Mergers and acquisitions" "English, Turkish" "https://solicitors.lawsociety.org.uk/person/324466/murat-vanlioglu"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

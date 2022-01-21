@@ -1,0 +1,6 @@
+NA "Piret Akkerman" "02089697473" "info@nklc.co.uk" "Role not specified" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/329169/piret-akkerman"
+"640399" "Liliia Akkuchukova" NA "navdeep@sterlinglawyers.co.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 15/11/17" NA "English" "https://solicitors.lawsociety.org.uk/person/346864/liliia-akkuchukova"
+"646973" "Merve Akkus" "02074562000" "rbrooker@linklaters.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 03/04/18" NA "English" "https://solicitors.lawsociety.org.uk/person/353674/merve-akkus"
+"42508" "Akkelin De Boer Harris" "01913887041" "enquiries@dma-law.co.uk" "" NA NA "Solicitor                                    Admitted as a solicitor: 02/11/98" "Company and commercial, Corporate finance, Cross-border, Employment" "English, Turkish" "https://solicitors.lawsociety.org.uk/person/108131/akkelin-de-boer-harris"
+"603469" "Akkalja Sahadevan" "02078218211" "info@pwwsolicitors.co.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 15/06/20" NA "English" "https://solicitors.lawsociety.org.uk/person/368264/akkalja-sahadevan"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,5 @@
+"575211" "Joe Wayne Bao" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/09/15" NA "English" "https://solicitors.lawsociety.org.uk/person/295689/joe-wayne-bao"
+"669844" "AMY BAO NGHI NGUYEN" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 14/12/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000007350/amy-bao-nghi-nguyen"
+"467709" "Tram Quynh Bao Nguyen Weller" "020 7877 4102" NA "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/08" "Company and commercial, Corporate finance, Financial services" "English, French, Vietnamese" "https://solicitors.lawsociety.org.uk/person/201834/tram-quynh-bao-nguyen-weller"
+"277566" "Bao Ha Pham" "02075458000" "jo.warway@db.com" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 02/09/02" "Banking, Corporate finance, Mergers and acquisitions" "English, Russian, Vietnamese" "https://solicitors.lawsociety.org.uk/person/20734/bao-ha-pham"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

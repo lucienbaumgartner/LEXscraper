@@ -1,0 +1,5 @@
+"627739" "MICHELLE AKOSUA DUODUWA ANSAH" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 19/11/21" NA "English" "https://solicitors.lawsociety.org.uk/person/352611/michelle-akosua-duoduwa-ansah"
+"659963" "Korieh Duodu" "02070974928" "dromain@egality-law.com" "SRA-approved manager - Member" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/379338/korieh-duodu"
+"393295" "Nana Duodu" "020 8222 1521" "peter.wiley@disney.com" "Inhouse Solicitor - HIT ENTERTAINMENT LIMITED, Employee" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/11" "Company and commercial, Intellectual property, Media, entertainment and sport" "English" "https://solicitors.lawsociety.org.uk/person/91412/nana-duodu"
+"458652" "Jenny Duong Efstathiou" "02074810010" "info@incegd.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 16/09/13" NA "English" "https://solicitors.lawsociety.org.uk/person/240158/jenny-duong-efstathiou"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

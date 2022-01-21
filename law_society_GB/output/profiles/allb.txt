@@ -1,0 +1,5 @@
+"574575" "Harriet Allberry" "03330060000" "generalenquiries@TLTsolicitors.com" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/16" NA "English" "https://solicitors.lawsociety.org.uk/person/308016/harriet-allberry"
+"137922" "Richard Allbeson" "03300080320" "enquiry@fs.co.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 16/11/87" "Clinical negligence, Personal injury" "English" "https://solicitors.lawsociety.org.uk/person/228545/richard-allbeson"
+"263821" "Edward Allbless" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/08/97" "Banking, Construction, Energy and natural resources, Financial services, Maritime and shipping" "English" "https://solicitors.lawsociety.org.uk/person/276737/edward-allbless"
+"651441" "ROBERT GEORGE ALLBROOKE COOPER" "08454979797" NA "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 03/09/20" NA "English" "https://solicitors.lawsociety.org.uk/person/406743/robert-george-allbrooke-cooper"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

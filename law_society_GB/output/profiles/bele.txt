@@ -1,0 +1,5 @@
+"530060" "Sibel Mahruze Beled" "02074187000" "sandra.ward@pinsentmasons.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 16/09/13" NA "English" "https://solicitors.lawsociety.org.uk/person/282863/sibel-mahruze-beled"
+"629737" "Belen Caballero" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/06/16" "Company and commercial" "English, Spanish" "https://solicitors.lawsociety.org.uk/person/320122/belen-caballero"
+"448107" "Belen Caldas Farinas" "02077728643" "matthew.foss@moodys.com" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 17/09/07" "Banking" "English, French, Italian, Spanish" "https://solicitors.lawsociety.org.uk/person/233906/belen-caldas-farinas"
+"394398" "Belerta Rexhepaj" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/06/10" "Charities, Immigration - nationality and citizenship" "Albanian, English" "https://solicitors.lawsociety.org.uk/person/121887/belerta-rexhepaj"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

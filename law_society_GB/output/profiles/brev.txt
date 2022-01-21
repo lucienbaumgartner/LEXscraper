@@ -1,0 +1,3 @@
+"86127" "James Bertie Brevitt" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 02/10/61" "Conveyancing - residential, Family - general, Private client - Probate, Private client - trusts, Private client - Wills" "English" "https://solicitors.lawsociety.org.uk/person/277201/james-bertie-brevitt"
+"817760" "Daniel von Brevern" "49211864670" NA "Member - Eversheds Sutherland (International) Llp, Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/1000010847/daniel-von-brevern"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

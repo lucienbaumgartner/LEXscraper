@@ -1,0 +1,6 @@
+"608433" "Emmanuel Akwasi Apraku Wiafe" "02074238000" "enquiries@trowers.com" "" NA NA "Solicitor                                    Admitted as a solicitor: 16/09/19" NA "English" "https://solicitors.lawsociety.org.uk/person/339215/emmanuel-akwasi-apraku-wiafe"
+"591331" "Caroline Doyle-Wiaczek" "01749341310" "admin.legal@mendip.gov.uk" "Locum" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 16/02/15" "Administrative and public law" "English" "https://solicitors.lawsociety.org.uk/person/291007/caroline-doyle-wiaczek"
+"610750" "Selina Wiafe" "02079262440" "FSalim@lambeth.gov.uk" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/07/19" NA "English" "https://solicitors.lawsociety.org.uk/person/348989/selina-wiafe"
+"624500" "KONRAD LUKASZ WIATER" NA NA "" NA NA "Registered foreign lawyer" "Advocacy, Crime - general, Family - general, Litigation - general" "English, Polish" "https://solicitors.lawsociety.org.uk/person/313556/konrad-lukasz-wiater"
+NA "Magdalena Wiazowska" "02037351999" "info@abbotstonelaw.com" "Role not specified" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/365594/magdalena-wiazowska"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,5 @@
+"658652" "Mattias Lindberg" "02074156000" NA "SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/376137/mattias-lindberg"
+"532403" "Per Tore Torson Lindberg" "(415)268-7000" "lmccall@mofo.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/10/13" "Banking" "English, Swedish" "https://solicitors.lawsociety.org.uk/person/254303/per-tore-torson-lindberg"
+"645940" "Rachel Lindberg" "02072962000" "nancy.dobson@hoganlovells.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 17/02/20" NA "English" "https://solicitors.lawsociety.org.uk/person/392809/rachel-lindberg"
+"518058" "Fredrik Lindblom" "02073490296" "Andrew.Darwin@dlapiper.com" "Member - DLA PIPER INTERNATIONAL LLP, SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/172484/fredrik-lindblom"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

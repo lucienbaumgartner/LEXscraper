@@ -1,0 +1,3 @@
+"660879" "KATEN PATEL" "01722412000" NA "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 02/09/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000022654/katen-patel"
+"147821" "Katen Popat" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/11/90" "Aviation, Banking, Financial services, Tax" "English, Gujarati" "https://solicitors.lawsociety.org.uk/person/208453/katen-popat"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

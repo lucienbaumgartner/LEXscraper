@@ -1,0 +1,6 @@
+"592663" "Rhoda Mopelola Alli" "03454020001" "enquiries@jmw.co.uk" "" NA NA "Solicitor                                    Admitted as a solicitor: 15/02/17" NA "English" "https://solicitors.lawsociety.org.uk/person/326548/rhoda-mopelola-alli"
+"622865" "Alice Mopelola Ebunoluwa Esuola" "02074008000" "jerry.merton@bristows.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/17" NA "English" "https://solicitors.lawsociety.org.uk/person/336041/alice-mopelola-ebunoluwa-esuola"
+"566847" "Mopelola Lawal" "02087710077" "Admin@broadstreetsolicitors.com" "" NA NA "Solicitor                                    Admitted as a solicitor: 01/04/19" NA "English" "https://solicitors.lawsociety.org.uk/person/295643/mopelola-lawal"
+"362072" "Annette Moppett" "01756700600" NA "Employee Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 03/10/05" "Administrative and public law, Planning" "English" "https://solicitors.lawsociety.org.uk/person/165598/annette-moppett"
+"655815" "PATRICIA JULIA MOPPETT" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/10/20" NA "English" "https://solicitors.lawsociety.org.uk/person/410686/patricia-julia-moppett"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

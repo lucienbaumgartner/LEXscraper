@@ -1,0 +1,6 @@
+"455054" "Katelin Amy Haworth" "01912761000" "solicitors@winnsolicitors.com" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 01/12/10" "Litigation - general, Personal injury" "English" "https://solicitors.lawsociety.org.uk/person/179374/katelin-amy-haworth"
+"647953" "Katelin B. O'Rourke Gorman" "02078765000" NA "Member - CLYDE & CO US LLP, SRA-approved manager - Member" NA NA "Registered foreign lawyer" "Insurance" "English" "https://solicitors.lawsociety.org.uk/person/352782/katelin-b-orourke-gorman"
+"813173" "Katelyn Elizabeth Richardson" "01615132305" "Info@johnsonlawgroup.co.uk" "SRA-approved manager - Director" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/423654/katelyn-elizabeth-richardson"
+"478033" "Katelyn Silver" "01483 252525" NA "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 03/09/12" "Family - general, Litigation - general" "English" "https://solicitors.lawsociety.org.uk/person/153220/katelyn-silver"
+"622851" "Katelyn Sarah Williams" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/05/17" NA "English" "https://solicitors.lawsociety.org.uk/person/329549/katelyn-sarah-williams"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,3 @@
+"577818" "Grazyna Lucyna Draczkowska" "02077331594" "karen@saunders-solicitors.co.uk" "Assistant - SAUNDERS SOLICITORS LTD, Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 15/01/19" "Crime - general, Criminal Litigation Accredited" "English" "https://solicitors.lawsociety.org.uk/person/325376/grazyna-lucyna-draczkowska"
+"634805" "Lucyna Anna Szymik" "02035404444" "info@taylor-rose.co.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 01/11/18" "Children, Family - general" "English, Polish" "https://solicitors.lawsociety.org.uk/person/366962/lucyna-anna-szymik"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

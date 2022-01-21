@@ -1,0 +1,3 @@
+"641787" "Mehmet Duzgun" "01473213311" "info@kerseys.co.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 01/03/19" "Commercial property, Company and commercial, Immigration - general" "English, Kurdish, Turkish" "https://solicitors.lawsociety.org.uk/person/373268/mehmet-duzgun"
+"432837" "Suna Duzgun" "02036015051" "james.lemkes@nationallegalservice.co.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 15/08/11" "Advocacy, Children, Family - general, Family Accredited" "English, Turkish" "https://solicitors.lawsociety.org.uk/person/171360/suna-duzgun"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

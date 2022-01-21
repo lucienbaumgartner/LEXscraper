@@ -1,0 +1,4 @@
+"669380" "Oscar Alegre" NA "enquiries@dwf.law" "SRA-approved manager - Member" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/396553/oscar-alegre"
+"159302" "Juan Alegre Climent" "0034 91 781 6670" NA "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 02/08/93" "Commercial litigation, Maritime and shipping" "English, Portuguese, Spanish" "https://solicitors.lawsociety.org.uk/person/87419/juan-alegre-climent"
+"114285" "Lynda Margaret Martin Alegi" "02079191000" NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/77" "Company and commercial, European Community law" "English, French, Italian" "https://solicitors.lawsociety.org.uk/person/19666/lynda-margaret-martin-alegi"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

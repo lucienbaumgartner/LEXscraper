@@ -1,0 +1,4 @@
+"658091" "Thomas Nikolaus Broichhausen" "00 49 89 418 080" NA "SRA-approved manager - Member" NA NA "Registered foreign lawyer" "Mergers and acquisitions" "English, German" "https://solicitors.lawsociety.org.uk/person/374975/thomas-nikolaus-broichhausen"
+"641135" "Ronnie Broit" "01202552777" "d.lewis@renshawderrick.co.uk" "SRA-approved manager - Partner Owner" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/335689/ronnie-broit"
+"411926" "Simon James Dietz De Broise" "02072427363" "patrick.wheeler@collyerbristow.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/08" "Commercial litigation, Litigation - general" "English" "https://solicitors.lawsociety.org.uk/person/242172/simon-james-dietz-de-broise"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

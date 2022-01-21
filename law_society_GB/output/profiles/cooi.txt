@@ -1,0 +1,3 @@
+"576997" "Daniel Nathan Cooil" "03701500100" "customersupport@irwinmitchell.com" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 17/06/19" "Private client - Probate, Private client - trusts, Private client - Wills" "English" "https://solicitors.lawsociety.org.uk/person/333286/daniel-nathan-cooil"
+"645177" "Hannah Louise Cooil" "01274350800" "Law@schofieldsweeney.co.uk" "Associate - FREETHS LLP, Employee" NA NA "Solicitor                                    Admitted as a solicitor: 02/09/19" "Commercial litigation, Insolvency and restructuring - business, Litigation - general" "English" "https://solicitors.lawsociety.org.uk/person/382817/hannah-louise-cooil"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

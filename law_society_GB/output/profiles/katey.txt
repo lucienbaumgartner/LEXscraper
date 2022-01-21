@@ -1,0 +1,4 @@
+"159348" "Katey Michael-Mina" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 02/08/93" "Banking, Commercial litigation, Commercial property, Insolvency and restructuring - business, Litigation - general" "English" "https://solicitors.lawsociety.org.uk/person/71804/katey-michael-mina"
+"373868" "Katey Diane Perkins" NA "katey.perkins@cepsa.com" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/03/07" "Corporate finance" "English, Spanish" "https://solicitors.lawsociety.org.uk/person/179819/katey-diane-perkins"
+"821313" "Katey Ellen Stephenson" "01206217300" "enquiry@birkettlong.co.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 27/08/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000021225/katey-ellen-stephenson"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

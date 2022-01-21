@@ -1,0 +1,4 @@
+"656211" "EFEOGHENE OPEYEMI FRENCH-GERE" "01189373470" "michael.graham@reading.gov.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/20" NA "English" "https://solicitors.lawsociety.org.uk/person/402385/efeoghene-opeyemi-french-gere"
+"352158" "Marlow Eliot Gereluk" "1 403 267 8222" "crae.garrett@nortonrosefulbright.com" "Partner" NA NA "Solicitor                                    Admitted as a solicitor: 15/01/02" "Banking, Corporate finance, Cross-border, Financial services, Mergers and acquisitions" "English" "https://solicitors.lawsociety.org.uk/person/150218/marlow-eliot-gereluk"
+"609090" "Brook Geremew" "020 7655 5000" NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/16" NA "English" "https://solicitors.lawsociety.org.uk/person/309740/brook-geremew"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

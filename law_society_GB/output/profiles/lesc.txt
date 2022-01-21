@@ -1,0 +1,3 @@
+"107842" "Rupert Lescher" "02039269900" "wwooldridge@mccarthydenning.com" "SRA-approved manager - Director Consultant" NA NA "Solicitor                                    Admitted as a solicitor: 15/01/76" "Banking, Corporate finance, Immigration - nationality and citizenship, Mergers and acquisitions" "English, French, Spanish" "https://solicitors.lawsociety.org.uk/person/15631/rupert-lescher"
+"27077" "Alison Mary Lescure" "02074810010" "info@incegd.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/10/97" "Maritime and shipping" "English" "https://solicitors.lawsociety.org.uk/person/98126/alison-mary-lescure"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

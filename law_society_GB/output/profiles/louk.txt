@@ -1,0 +1,7 @@
+"588947" "Loukia Bimpi" "01132240580" "chiefexecutive@stowefamilylaw.co.uk" "Role not specified" NA NA "Solicitor                                    Admitted as a solicitor: 01/04/20" NA "English" "https://solicitors.lawsociety.org.uk/person/353439/loukia-bimpi"
+"555932" "Phillip Loukis Georgiou" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/17" NA "English" "https://solicitors.lawsociety.org.uk/person/338406/phillip-loukis-georgiou"
+"337916" "Maria Toteva Loukanova" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/04" "Banking, Corporate finance, Financial services" "English, Russian" "https://solicitors.lawsociety.org.uk/person/55809/maria-toteva-loukanova"
+"314408" "Elizabeth Jane Loukes" NA NA "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 03/11/03" "Energy and natural resources" "English" "https://solicitors.lawsociety.org.uk/person/35228/elizabeth-jane-loukes"
+"554420" "Lev Mark Loukhton" "0070957979797" "rbrooker@linklaters.com" "Partner" NA NA "Registered foreign lawyer" "Mergers and acquisitions" "English, Russian" "https://solicitors.lawsociety.org.uk/person/290178/lev-mark-loukhton"
+"671120" "Loukas Mistelis" NA NA "" NA NA "Registered foreign lawyer" NA "English, German, Greek" "https://solicitors.lawsociety.org.uk/person/400724/loukas-mistelis"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,6 @@
+"669889" "EMMA ELIZABETH HANVERE" "0161 747 7321" "urmston@chlsolicitors.co.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 08/11/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000002180/emma-elizabeth-hanvere"
+NA "George Hanvere" "01159644123" "enquiries@paragonlaw.co.uk" "Role not specified" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/398024/george-hanvere"
+"474333" "Brendan Paul Hanvey" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/10/15" "Construction" "English, Spanish" "https://solicitors.lawsociety.org.uk/person/315887/brendan-paul-hanvey"
+"431911" "Lisa-marie Hanvey" "0161 234 8234" NA "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/09" "Commercial litigation, Construction" "English" "https://solicitors.lawsociety.org.uk/person/108920/lisa-marie-hanvey"
+"606961" "Sholto Mayne Hanvey" "00 974 4459 8960" NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/10/15" "Construction" "English" "https://solicitors.lawsociety.org.uk/person/299136/sholto-mayne-hanvey"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

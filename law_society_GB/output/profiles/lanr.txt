@@ -1,0 +1,3 @@
+"695944" "Lanre Haastrup" NA "info@nathanaaronsolicitors.com" "Consultant" "NATHAN AARON SOLICITORS LTD, 111B Rushey Green, London, SE6 4AF, England" "https://maps.google.co.uk/maps?q=SE6 4AF" "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/412250/lanre-haastrup"
+"6634" "Lanre Florence Johnson" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/02/00" "Commercial litigation, Commercial property, Company and commercial, Employment, Information Technology, Intellectual property" "English" "https://solicitors.lawsociety.org.uk/person/36829/lanre-florence-johnson"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

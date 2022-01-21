@@ -1,0 +1,4 @@
+"614599" "Anne-Laure-Hélène Lefort Des Ylouses" "02078614000" "info@fieldfisher.com" "SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/300252/anne-laure-helene-lefort-des-ylouses"
+"27579" "Ylan Steiner" NA NA "Member - ORRICK HERRINGTON & SUTCLIFFE (EUROPE) LLP, SRA-approved manager - Member SRA-approved manager - Owner" NA NA "Solicitor                                    Admitted as a solicitor: 01/10/97" "Corporate finance, Mergers and acquisitions" "English" "https://solicitors.lawsociety.org.uk/person/277976/ylan-steiner"
+"532625" "Yllka Olly Sufi" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/11/19" NA "English" "https://solicitors.lawsociety.org.uk/person/335402/yllka-olly-sufi"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

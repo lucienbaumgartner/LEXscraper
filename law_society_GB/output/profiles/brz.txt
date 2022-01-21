@@ -1,0 +1,5 @@
+"197974" "Eva Jadwiga Mary Brzechwa Ajdukiewicz" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 02/06/03" "Commercial litigation, Company and commercial, Insurance, Professional negligence" "English" "https://solicitors.lawsociety.org.uk/person/186384/eva-jadwiga-mary-brzechwa-ajdukiewicz"
+"573059" "Benjamin Peter Brzezicki" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 03/11/14" NA "English" "https://solicitors.lawsociety.org.uk/person/297827/benjamin-peter-brzezicki"
+"161571" "Danusia Barbara Camille Brzezina" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/11/93" "Children, Family - general" "English" "https://solicitors.lawsociety.org.uk/person/182218/danusia-barbara-camille-brzezina"
+"665979" "Matthias Löwenbourg-Brzezinski" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 16/12/19" NA "English" "https://solicitors.lawsociety.org.uk/person/391095/matthias-lowenbourg-brzezinski"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

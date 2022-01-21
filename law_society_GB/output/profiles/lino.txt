@@ -1,0 +1,5 @@
+"649067" "LINOAH VICENCIO BACHOCO" "01865311133" "summertown@bowerandbailey.co.uk" "" NA NA "Solicitor                                    Admitted as a solicitor: 17/09/20" NA "English" "https://solicitors.lawsociety.org.uk/person/405548/linoah-vicencio-bachoco"
+"168890" "Linos Dimitrios Choo" "08700111111" "andrew.darwin@dlapiper.com" "Member - DLA PIPER UK LLP, SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 02/01/01" "Commercial litigation" "English" "https://solicitors.lawsociety.org.uk/person/120390/linos-dimitrios-choo"
+"823492" "Maria De Lurdes Da Silva Lino" "02072103000" NA "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 20/07/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000025679/maria-de-lurdes-da-silva-lino"
+"591826" "Janice Linore Mitchell" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/12/16" NA "English" "https://solicitors.lawsociety.org.uk/person/324819/janice-linore-mitchell"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

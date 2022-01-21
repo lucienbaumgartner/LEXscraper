@@ -1,0 +1,5 @@
+"348298" "Richard Kevin Stumbles" NA NA "Role not specified" NA NA "Solicitor                                    Admitted as a solicitor: 01/11/01" "Banking" "English" "https://solicitors.lawsociety.org.uk/person/126918/richard-kevin-stumbles"
+"586977" "Hannah Stumpe" "02072468000" "owen.rafferty@rkllp.com" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/16" NA "English, German" "https://solicitors.lawsociety.org.uk/person/308850/hannah-stumpe"
+"658867" "Remi Stumpenhusen" "01327350266" "rs@arnoldthomson.com" "SRA-approved manager - Director Compliance Officer for Finance and Administration Employee" NA NA NA NA "Arabic, English, German, Yoruba" "https://solicitors.lawsociety.org.uk/person/291789/remi-stumpenhusen"
+"258817" "Mark Stumpf" "02077866100" "sandra.felmingham@arnoldporter.com" "SRA-approved manager - Partner Consultant" NA NA "Registered foreign lawyer" "Company and commercial, Corporate finance, Cross-border" "English" "https://solicitors.lawsociety.org.uk/person/170431/mark-stumpf"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

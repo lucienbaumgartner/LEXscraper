@@ -1,0 +1,3 @@
+"646343" "Aiesha Barnes" "01616155554" "info@psg-law.co.uk" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 03/02/20" "Clinical negligence" "English" "https://solicitors.lawsociety.org.uk/person/392525/aiesha-barnes"
+"294022" "Unika Aiesha Antonia Delpino-Mark" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/08/05" "Administrative and public law, Crime - general, Cross-border, Employment, Human rights, Litigation - general" "English" "https://solicitors.lawsociety.org.uk/person/167191/unika-aiesha-antonia-delpino-mark"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

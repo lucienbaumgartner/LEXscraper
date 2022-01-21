@@ -1,0 +1,5 @@
+"437623" "Ria Vavakis" NA "laura.shorter@schroders.com" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 03/04/06" "Company and commercial" "English, Greek" "https://solicitors.lawsociety.org.uk/person/97307/ria-vavakis"
+"596224" "Philip Zacharias Vavalidis" "020 7532 1000" "gmclean@whitecase.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 16/02/15" NA "English" "https://solicitors.lawsociety.org.uk/person/296112/philip-zacharias-vavalidis"
+"587748" "Konstantinos Vavelidis" "02030235100" NA "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 16/03/15" NA "English" "https://solicitors.lawsociety.org.uk/person/297478/konstantinos-vavelidis"
+"833328" "Panagiotis Vavougyios" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 31/12/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000052715/panagiotis-vavougyios"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

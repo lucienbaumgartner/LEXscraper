@@ -1,0 +1,3 @@
+"481757" "Charlotte Lorna De Rosnay" "01926886007" "Pete@JohnOnions.com" "Consultant Employee" "JOHN ONIONS, First Floor, Agriculture House, 1 Newbold Terrace, Leamington Spa, Warwickshire, CV3 4EA, England" "https://maps.google.co.uk/maps?q=CV3  4EA" "Solicitor                                    Admitted as a solicitor: 15/07/11" "Crime - general, Criminal Litigation Accredited, Family - general" "English" "https://solicitors.lawsociety.org.uk/person/36062/charlotte-lorna-de-rosnay"
+"585696" "Edward Rosner" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/10/15" NA "English" "https://solicitors.lawsociety.org.uk/person/297439/edward-rosner"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

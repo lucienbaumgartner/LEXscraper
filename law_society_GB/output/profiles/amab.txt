@@ -1,0 +1,3 @@
+"169781" "Amabel Anne Evans" "02036676989" "josephine.hopkins@justeattakeaway.com" "Employee Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 15/03/02" "Commercial property, Intellectual property, Landlord and tenant - residential, Media, entertainment and sport" "English" "https://solicitors.lawsociety.org.uk/person/113101/amabel-anne-evans"
+"657745" "AMABEL TORRANCE" "02076675000" "anthea.rollock@harbottle.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/02/21" NA "English" "https://solicitors.lawsociety.org.uk/person/422590/amabel-torrance"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

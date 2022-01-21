@@ -1,0 +1,3 @@
+"152012" "Jeffrey Andrew Gillbanks" "01516003000" "law@brabners.com" "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 01/11/91" "Commercial property, Company and commercial, Environment" "English" "https://solicitors.lawsociety.org.uk/person/217416/jeffrey-andrew-gillbanks"
+"452977" "Susanna Kaarina Gillberg" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/04/11" "Banking" "English, Finnish, French, German" "https://solicitors.lawsociety.org.uk/person/273016/susanna-kaarina-gillberg"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

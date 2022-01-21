@@ -1,0 +1,4 @@
+"635803" "Masayuki Atsumi" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 16/01/17" NA "English" "https://solicitors.lawsociety.org.uk/person/325891/masayuki-atsumi"
+"647809" "Julia Atsumi Moreira Kono" "02070061000" "LegalEnquiries@CliffordChance.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 16/03/20" NA "English" "https://solicitors.lawsociety.org.uk/person/395170/julia-atsumi-moreira-kono"
+"666623" "ATSHAAM SAEED" "02035404444" "info@taylor-rose.co.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 01/07/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000001621/atshaam-saeed"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

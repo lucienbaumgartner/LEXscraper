@@ -1,0 +1,3 @@
+"628764" "Yi-Bin Woh" "02074562000" "maximillian.prien@mufgsecurities.com" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 15/03/18" NA "English" "https://solicitors.lawsociety.org.uk/person/352604/yi-bin-woh"
+"619585" "Clark Wohlferd" "2128198200" "gmclean@whitecase.com" "Partner" NA NA "Registered foreign lawyer" "Energy and natural resources" "English" "https://solicitors.lawsociety.org.uk/person/306155/clark-wohlferd"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

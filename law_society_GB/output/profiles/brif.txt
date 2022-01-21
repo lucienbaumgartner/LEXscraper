@@ -1,0 +1,4 @@
+"137628" "Margaret Mary Briffa" "02072886003" "margaret@briffa.com" "SRA-approved manager - Director" NA NA "Solicitor                                    Admitted as a solicitor: 02/11/87" "Commercial litigation, Company and commercial, Information Technology, Intellectual property, Media, entertainment and sport" "English, Maltese" "https://solicitors.lawsociety.org.uk/person/19133/margaret-mary-briffa"
+"575988" "Sophia Alice Briffa" "02077109800" "mhandley@curtis.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/04/16" NA "English" "https://solicitors.lawsociety.org.uk/person/299156/sophia-alice-briffa"
+"608614" "Harry Briffitt" "02074692000" "melanie.johnson@kirkland.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/02/17" NA "English" "https://solicitors.lawsociety.org.uk/person/310315/harry-briffitt"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

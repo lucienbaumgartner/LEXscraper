@@ -1,0 +1,3 @@
+"298932" "Asif Mahmood Timol" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/04" "Advocacy, Commercial litigation, Consumer, Debt and bankruptcy - personal, Debt recovery, Litigation - general" "English, Gujarati" "https://solicitors.lawsociety.org.uk/person/69860/asif-mahmood-timol"
+"492556" "Andrea Lee Timoll" "02034056000" "ada.harte@natixis.com" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 15/07/11" "Banking, Company and commercial, Corporate finance, Financial services, Private client - trusts" "English" "https://solicitors.lawsociety.org.uk/person/94441/andrea-lee-timoll"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

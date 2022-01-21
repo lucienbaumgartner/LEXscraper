@@ -1,0 +1,5 @@
+"660616" "EMILY ANGER" "02077594600" "henry.buswell@leftbankpictures.co.uk" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 24/01/21" NA "English" "https://solicitors.lawsociety.org.uk/person/416029/emily-anger"
+"384114" "Lutz Klaus Angerer" "+49(0)89290120" NA "SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/48790/lutz-klaus-angerer"
+"660318" "JOHN PATRICK ANGERS" "02075197000" "leanne.mendham@skadden.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 13/08/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000001011/john-patrick-angers"
+"566477" "Oscar Cornelis Van Angeren" "02074225050" NA "" NA NA "Registered foreign lawyer" "Administrative and public law, Advocacy, Company and commercial, Debt and bankruptcy - personal, Debt recovery, Financial services, Pensions" "Dutch, English" "https://solicitors.lawsociety.org.uk/person/290917/oscar-cornelis-van-angeren"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

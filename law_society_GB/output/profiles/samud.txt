@@ -1,0 +1,3 @@
+"169662" "Fiona Samuda" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 02/06/03" "Administrative and public law, Commercial litigation, Consumer, Employment, Litigation - general" "English" "https://solicitors.lawsociety.org.uk/person/79733/fiona-samuda"
+"545243" "Nicola Samuda" "02074865131" "admin@mwh-law.co.uk" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 03/07/17" NA "English" "https://solicitors.lawsociety.org.uk/person/214041/nicola-samuda"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

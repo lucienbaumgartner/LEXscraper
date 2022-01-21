@@ -1,0 +1,6 @@
+"467307" "Katherine Lillian Samways" "01227866000" "robert.davis1@cps.gov.uk" "Crown Prosecuting Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 16/03/15" "Crime - general" "English" "https://solicitors.lawsociety.org.uk/person/254072/katherine-lillian-samways"
+"467307" "Katherine Lillian Samways" "
+                        robert.davis1@cps.gov.uk 
+                    " "robert.davis1@cps.gov.uk" "Crown Prosecuting Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 16/03/15" "Crime - general" "English" "https://solicitors.lawsociety.org.uk/person/254072/katherine-lillian-samways"
+"817580" "Eleanor Mary Victoria Samwell - Chow" "01223 326600" "mail@birketts.co.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 29/07/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000010282/eleanor-mary-victoria-samwell-chow"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

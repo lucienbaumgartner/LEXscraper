@@ -1,0 +1,5 @@
+"375327" "Richard Halward" "01264381953" "lisa.wallbank343@mod.uk" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 02/10/06" "Military" "English" "https://solicitors.lawsociety.org.uk/person/20564/richard-halward"
+"375327" "Richard Halward" "
+                        lisa.wallbank343@mod.uk 
+                    " "lisa.wallbank343@mod.uk" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 02/10/06" "Military" "English" "https://solicitors.lawsociety.org.uk/person/20564/richard-halward"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,4 @@
+"129547" "Richie Alder" "02074238000" "enquiries@trowers.com" "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/11/84" "Commercial litigation, Employment" "English" "https://solicitors.lawsociety.org.uk/person/215419/richie-alder"
+"602187" "Richie Lamb" "02074156000" "hello@walkermorris.co.uk" "Employee Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/16" "Mergers and acquisitions" "English" "https://solicitors.lawsociety.org.uk/person/306812/richie-lamb"
+"484158" "Anthony James Richings" "01202451178" "sian.ballingall@bcpcouncil.gov.uk" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/02/12" "Administrative and public law, Commercial litigation, Employment" "English, Spanish" "https://solicitors.lawsociety.org.uk/person/199583/anthony-james-richings"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

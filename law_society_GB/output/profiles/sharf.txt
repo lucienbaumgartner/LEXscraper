@@ -1,0 +1,3 @@
+"258332" "Claire Emily Sharf" "01865383062" NA "Employee Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/02/01" "Company and commercial, Insolvency and restructuring - business" "English" "https://solicitors.lawsociety.org.uk/person/3328/claire-emily-sharf"
+"27420" "Nasim Sharf" "01482398398" "Beverley.Reception@wilkinchapman.co.uk" "Member - WILKIN CHAPMAN MEMBERS LTD, SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/97" "Banking, Company and commercial, Corporate finance, Mergers and acquisitions, Tax" "English" "https://solicitors.lawsociety.org.uk/person/248471/nasim-sharf"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

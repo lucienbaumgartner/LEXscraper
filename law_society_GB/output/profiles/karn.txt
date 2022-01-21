@@ -1,0 +1,5 @@
+"576692" "Karn Chopra" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/11/17" NA "English" "https://solicitors.lawsociety.org.uk/person/318632/karn-chopra"
+"583668" "Karnvir Singh Nanra" "02071164732" "jon.tumminio@barclays.com" "Role not specified" NA NA "Solicitor                                    Admitted as a solicitor: 15/04/20" NA "English, Punjabi" "https://solicitors.lawsociety.org.uk/person/396869/karnvir-singh-nanra"
+"637682" "Manishkumar Karnikkant Patel" "01217264999" "enquiry@pickfordsolicitors.com" "Owner" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/334784/manishkumar-karnikkant-patel"
+"492784" "Karnan Thirupathy" "065 6671 7424" NA "Member - KENNEDYS LAW LLP, Non-member Partner" NA NA "Solicitor                                    Admitted as a solicitor: 03/11/08" "Advocacy, Commercial litigation, Energy and natural resources, Insolvency and restructuring - business, Insurance, Maritime and shipping" "English, Malay" "https://solicitors.lawsociety.org.uk/person/15575/karnan-thirupathy"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

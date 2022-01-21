@@ -1,0 +1,4 @@
+"337899" "Lousiandry Loizou" "02031785668" "ann.thomas@iflg.uk.com" "SRA-approved manager - Member Compliance Officer for Legal Practice" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/04" "Children, Family - general" "English, Greek" "https://solicitors.lawsociety.org.uk/person/13496/lousiandry-loizou"
+"690513" "Nuno Ferreira Lousa" "02074562000" "rbrooker@linklaters.com" "Non-member Partner" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/1000016167/nuno-ferreira-lousa"
+"429272" "Lousha Sarah Reynolds" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/09" "Advocacy, Employment" "English" "https://solicitors.lawsociety.org.uk/person/141726/lousha-sarah-reynolds"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

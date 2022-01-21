@@ -1,0 +1,5 @@
+"657982" "KATINKA KATE SCARLET BEAMISH" "02074892183" "enquiry@bankskelly.co.uk" "" NA NA "Solicitor                                    Admitted as a solicitor: 30/09/20" NA "English" "https://solicitors.lawsociety.org.uk/person/406042/katinka-kate-scarlet-beamish"
+"195257" "Katina Demosthenous" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 04/01/00" "Banking, Commercial litigation" "English, Greek" "https://solicitors.lawsociety.org.uk/person/12320/katina-demosthenous"
+"479391" "Thea Katinka Gausel" "02070061000" "LegalEnquiries@CliffordChance.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/08/11" NA "English" "https://solicitors.lawsociety.org.uk/person/124122/thea-katinka-gausel"
+"612950" "Katinka Middelkoop" "00 31 20 674 1000" NA "Partner - ALLEN & OVERY SOCIÉTÉ EN COMMANDITE SIMPLE (SCS) Member - ALLEN & OVERY (BELGIUM) LLP, SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/295053/katinka-middelkoop"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

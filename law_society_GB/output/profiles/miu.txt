@@ -1,0 +1,4 @@
+"7162" "Miu Yin Alice Chan" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/03/99" NA "Cantonese, English" "https://solicitors.lawsociety.org.uk/person/259190/miu-yin-alice-chan"
+"410842" "Miu Kay Ma" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 02/01/13" "Company and commercial, Information Technology" "Cantonese, English" "https://solicitors.lawsociety.org.uk/person/160628/miu-kay-ma"
+"664701" "Mie Miura" "006563205300" "rshrhelpdesk@reedsmith.com" "Associate - Bryan Cave Leighton Paisner Llp, Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/11/19" NA "English" "https://solicitors.lawsociety.org.uk/person/389207/mie-miura"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

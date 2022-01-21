@@ -1,0 +1,3 @@
+"801557" "Evis Beqiraj" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 02/03/21" NA "English" "https://solicitors.lawsociety.org.uk/person/403176/evis-beqiraj"
+"165412" "Severine Pascale Bequin" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/11/94" "Company and commercial" "English, French, Spanish" "https://solicitors.lawsociety.org.uk/person/56653/severine-pascale-bequin"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

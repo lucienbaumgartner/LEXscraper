@@ -1,0 +1,4 @@
+"812577" "Laurence BARY" "+33 (0) 1 5757 8080" NA "SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/422128/laurence-bary"
+"592811" "Avneet Baryan" "02072468000" "owen.rafferty@rkllp.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 03/09/18" NA "English" "https://solicitors.lawsociety.org.uk/person/321865/avneet-baryan"
+"135860" "Kanwarjit Baryar" "0115 876 4332" "malcolm.townroe@nottinghamcity.gov.uk" "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 16/03/87" "Administrative and public law, Advocacy, Crime - general, Environment, Licensing gaming and betting, Planning" "English" "https://solicitors.lawsociety.org.uk/person/197769/kanwarjit-baryar"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

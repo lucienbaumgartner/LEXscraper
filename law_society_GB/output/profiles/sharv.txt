@@ -1,0 +1,4 @@
+NA "Sharvine Humrash" "01865770111" "office@turpinmiller.co.uk" "Role not specified" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/1000020604/sharvine-humrash"
+"413535" "Michael Peter Sharvin" "02074810010" "info@gordondadds.com" "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/09/09" "Commercial property" "English" "https://solicitors.lawsociety.org.uk/person/168804/michael-peter-sharvin"
+"606762" "Sharvari Vikram" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 02/01/15" "Financial services" "English, Hindi" "https://solicitors.lawsociety.org.uk/person/306182/sharvari-vikram"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

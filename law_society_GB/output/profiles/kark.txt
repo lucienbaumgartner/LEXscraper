@@ -1,0 +1,12 @@
+"369854" "Rita Karki Collins" "02073111000" "Amanda.Brown2@KPMG.co.uk" "Employee - TREASURY SOLICITOR'S DEPARTMENT, Employee" NA NA "Solicitor                                    Admitted as a solicitor: 16/03/09" "Administrative and public law, European Community law" "English, Nepali" "https://solicitors.lawsociety.org.uk/person/259862/rita-karki-collins"
+"369854" "Rita Karki Collins" "
+                        Amanda.Brown2@KPMG.co.uk 
+                    " "Amanda.Brown2@KPMG.co.uk" "Employee - TREASURY SOLICITOR'S DEPARTMENT, Employee" NA NA "Solicitor                                    Admitted as a solicitor: 16/03/09" "Administrative and public law, European Community law" "English, Nepali" "https://solicitors.lawsociety.org.uk/person/259862/rita-karki-collins"
+"632725" "William George Arthur Kark" "01264381953" "lisa.wallbank343@mod.uk" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 17/09/18" "Construction, Energy and natural resources, Insurance, Litigation - general, Maritime and shipping" "English" "https://solicitors.lawsociety.org.uk/person/362941/william-george-arthur-kark"
+"632725" "William George Arthur Kark" "
+                        lisa.wallbank343@mod.uk 
+                    " "lisa.wallbank343@mod.uk" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 17/09/18" "Construction, Energy and natural resources, Insurance, Litigation - general, Maritime and shipping" "English" "https://solicitors.lawsociety.org.uk/person/362941/william-george-arthur-kark"
+"647228" "Margarita Christina Karkantzou" "02074562000" "rbrooker@linklaters.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 16/03/20" NA "English, French, Greek, Spanish" "https://solicitors.lawsociety.org.uk/person/395039/margarita-christina-karkantzou"
+"132688" "Poornima Karkera" NA "karen.mcilwaine@manchester.gov.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 16/12/85" "Administrative and public law" "English" "https://solicitors.lawsociety.org.uk/person/211355/poornima-karkera"
+"619192" "Sylwia Karkusiewicz" "01619414000" "carl.newton@myerson.co.uk" "" NA NA "Solicitor                                    Admitted as a solicitor: 03/09/18" NA "English" "https://solicitors.lawsociety.org.uk/person/309787/sylwia-karkusiewicz"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

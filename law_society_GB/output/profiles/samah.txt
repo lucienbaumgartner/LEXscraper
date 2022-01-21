@@ -1,0 +1,4 @@
+"654142" "Samah Abdulla" "01245455800" "info@britonsolicitors.co.uk" "Crown Prosecuting Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/06/20" NA "English" "https://solicitors.lawsociety.org.uk/person/398890/samah-abdulla"
+"394247" "Umber Samah Khanum O'Doherty" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/09/08" "Commercial litigation, Insurance, Litigation - general" "English" "https://solicitors.lawsociety.org.uk/person/251271/umber-samah-khanum-odoherty"
+"24143" "Helena Samaha" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 16/09/96" "Company and commercial, Intellectual property, Media, entertainment and sport" "Arabic, English, French, German" "https://solicitors.lawsociety.org.uk/person/72785/helena-samaha"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

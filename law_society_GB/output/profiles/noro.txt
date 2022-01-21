@@ -1,0 +1,3 @@
+"431242" "Jessica De Noronha" "03452229222" "Enquiries@bdbpitmans.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 03/09/12" "Commercial property, Conveyancing - residential" "English" "https://solicitors.lawsociety.org.uk/person/189003/jessica-de-noronha"
+"309785" "Teresa Empis Noronha Falcao" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/12/99" "Financial services" "English, French, Portuguese, Spanish" "https://solicitors.lawsociety.org.uk/person/68466/teresa-empis-noronha-falcao"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

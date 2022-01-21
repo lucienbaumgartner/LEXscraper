@@ -1,0 +1,3 @@
+"395633" "Alexander Robert Liszka" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/04/08" "Company and commercial, Construction, Energy and natural resources, Mergers and acquisitions" "Dutch, English, French, German, Polish" "https://solicitors.lawsociety.org.uk/person/160906/alexander-robert-liszka"
+"337872" "Katie Trudi Liszka" "01322296200" NA "Employee Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/04" "Construction" "English" "https://solicitors.lawsociety.org.uk/person/3630/katie-trudi-liszka"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

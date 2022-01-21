@@ -1,0 +1,3 @@
+"545954" "Luke Andruszewski" "03454150000" "law@bonddickinson.com" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 15/11/12" "Company and commercial, Corporate finance" "English" "https://solicitors.lawsociety.org.uk/person/84660/luke-andruszewski"
+"569238" "Rebekah Andrula Wilkinson" "01924473065" "martinoliver@brearleyssolicitors.com" "" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/17" "Private client - Probate" "English" "https://solicitors.lawsociety.org.uk/person/300370/rebekah-andrula-wilkinson"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

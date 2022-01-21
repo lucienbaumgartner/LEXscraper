@@ -1,0 +1,4 @@
+"358935" "Rijbander Blackburn" "01529302800" "info@sillslegal.co.uk" "Non-member Partner Employee" NA NA "Solicitor                                    Admitted as a solicitor: 02/04/07" "Commercial property, Company and commercial, Conveyancing - residential, Planning" "English, Punjabi" "https://solicitors.lawsociety.org.uk/person/28946/rijbander-blackburn"
+"637679" "Johannes van Rijsbergen" "+31 207 22 25 00" NA "" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/327211/johannes-van-rijsbergen"
+"510549" "Geert Jan Van Rijthoven" "+31 (0) 20 462 9300" NA "SRA-approved manager - Member" NA NA "Registered foreign lawyer" "Banking, Commercial property, Corporate finance, Mergers and acquisitions" "Dutch, English, French, German" "https://solicitors.lawsociety.org.uk/person/32156/geert-jan-van-rijthoven"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

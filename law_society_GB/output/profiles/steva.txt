@@ -1,0 +1,5 @@
+"414321" "Peter Stevan Metcalfe" "02078141200" "info@kingsleynapley.co.uk" "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 01/04/09" "Construction" "English" "https://solicitors.lawsociety.org.uk/person/166785/peter-stevan-metcalfe"
+"625202" "Katie Elizabeth Steval" NA "annette.fritze-shanks@allenovery.com" "" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/17" NA "English" "https://solicitors.lawsociety.org.uk/person/339516/katie-elizabeth-steval"
+"432353" "Stevan Harry Stratton" "01206764477" "front.office@ellisonssolicitors.com" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 03/08/09" "Personal injury" "English" "https://solicitors.lawsociety.org.uk/person/142393/stevan-harry-stratton"
+"432353" "Stevan Harry Stratton" "01206764477" "front.office@ellisonssolicitors.com" "Employee" NA NA "Claimant Solicitor helping injured clients recover" "Personal injury" "English" "https://solicitors.lawsociety.org.uk/person/142393/stevan-harry-stratton"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

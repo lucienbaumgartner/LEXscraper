@@ -1,0 +1,3 @@
+"545877" "Cora Heagney" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/09/10" NA "English" "https://solicitors.lawsociety.org.uk/person/175106/cora-heagney"
+"568338" "Stephen Heagney" "02076001200" "charmian.may@slaughterandmay.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 17/03/14" "European Community law" "English" "https://solicitors.lawsociety.org.uk/person/293980/stephen-heagney"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

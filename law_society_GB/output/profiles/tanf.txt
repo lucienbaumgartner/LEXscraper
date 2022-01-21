@@ -1,0 +1,3 @@
+"106498" "Martin Tanfield Smith" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 16/06/75" "Commercial property, Conveyancing - residential, Private client - Probate, Private client - Wills" "English, French" "https://solicitors.lawsociety.org.uk/person/143292/martin-tanfield-smith"
+"610560" "Nicole Tanfield" "03450739900" "james.holman@weightmans.com" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 01/11/18" "Commercial property" "English" "https://solicitors.lawsociety.org.uk/person/329284/nicole-tanfield"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

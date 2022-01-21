@@ -1,0 +1,4 @@
+"330372" "Fui Wearne Vivien Teu" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/12/00" "Financial services, Private client - trusts" "Chinese, English" "https://solicitors.lawsociety.org.uk/person/239899/fui-wearne-vivien-teu"
+"537749" "Tobias Wendelin Teufel" "+49 69 27 30 80" "legalenquires@freshfields.com" "" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/255448/tobias-wendelin-teufel"
+"135537" "Mark Christopher Teuten" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/01/87" NA "English" "https://solicitors.lawsociety.org.uk/person/181049/mark-christopher-teuten"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

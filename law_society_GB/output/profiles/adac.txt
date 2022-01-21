@@ -1,0 +1,8 @@
+"661597" "JACK KENTA ADACHI" "02075321000" "gmclean@whitecase.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 30/08/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000001195/jack-kenta-adachi"
+"412030" "Maiko Adachi" "02072837500" "caroline.brown1@aviva.com" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 15/03/10" "Corporate finance, Mergers and acquisitions" "English, French, Japanese, Spanish" "https://solicitors.lawsociety.org.uk/person/197773/maiko-adachi"
+"412030" "Maiko Adachi" "
+                        caroline.brown1@aviva.com 
+                    " "caroline.brown1@aviva.com" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 15/03/10" "Corporate finance, Mergers and acquisitions" "English, French, Japanese, Spanish" "https://solicitors.lawsociety.org.uk/person/197773/maiko-adachi"
+"574148" "Naoko Adachi" "+81354125412" NA "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/03/17" NA "English, Japanese" "https://solicitors.lawsociety.org.uk/person/310825/naoko-adachi"
+"391205" "Tomohiko Adachi" NA "tomohiko.adachi@mhm-global.com" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 17/09/07" "Banking, Company and commercial, Energy and natural resources" "English, Japanese" "https://solicitors.lawsociety.org.uk/person/231353/tomohiko-adachi"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

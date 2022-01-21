@@ -1,0 +1,3 @@
+"653437" "Wioleta Dworak" "01213550011" "suzanne.holder@belllax.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 02/03/20" NA "English, Polish" "https://solicitors.lawsociety.org.uk/person/394155/wioleta-dworak"
+"511821" "Wioletta Wagner-Barnas" NA NA "Role not specified" NA NA "Solicitor                                    Admitted as a solicitor: 15/11/11" "Commercial property, Landlord and tenant - residential, Litigation - general, Media, entertainment and sport, Personal injury" "English, Polish" "https://solicitors.lawsociety.org.uk/person/204359/wioletta-wagner-barnas"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

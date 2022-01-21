@@ -1,0 +1,14 @@
+"642471" "Sarvenaz Ahmadzadeh-Banisi" "01179173000" "ray.berg@osborneclarke.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 16/09/19" NA "English, Farsi (Persian)" "https://solicitors.lawsociety.org.uk/person/385364/sarvenaz-ahmadzadeh-banisi"
+"475412" "Roshini Sarva Coombs" "02073068508" "rmiller@channel4.co.uk" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 15/11/17" NA "English" "https://solicitors.lawsociety.org.uk/person/222350/roshini-sarva-coombs"
+"475412" "Roshini Sarva Coombs" "
+                        rmiller@channel4.co.uk 
+                    " "rmiller@channel4.co.uk" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 15/11/17" NA "English" "https://solicitors.lawsociety.org.uk/person/222350/roshini-sarva-coombs"
+"659199" "Sarvatrajit Singh Jajmann" "02073748000" "pamela.fletcher@hsf.com" "" NA NA "Solicitor                                    Admitted as a solicitor: 01/07/19" "Mergers and acquisitions" "English" "https://solicitors.lawsociety.org.uk/person/379997/sarvatrajit-singh-jajmann"
+"822318" "Sarvani Morgan" NA NA "" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/1000023631/sarvani-morgan"
+"390946" "Sarvesh Saini" "01217738911" "saini_sarvesh2k@yahoo.com" "SRA-approved manager - Sole Practitioner Compliance Officer for Legal Practice Compliance Officer for Finance and Administration" NA NA "Solicitor                                    Admitted as a solicitor: 01/02/07" "Immigration - asylum, Immigration - general, Immigration - nationality and citizenship" "English, Hindi, Mirpuri, Punjabi, Urdu" "https://solicitors.lawsociety.org.uk/person/177778/sarvesh-saini"
+"390946" "Sarvesh Saini" "
+                        saini_sarvesh2k@yahoo.com 
+                    " "saini_sarvesh2k@yahoo.com" "SRA-approved manager - Sole Practitioner Compliance Officer for Legal Practice Compliance Officer for Finance and Administration" NA NA "Solicitor                                    Admitted as a solicitor: 01/02/07" "Immigration - asylum, Immigration - general, Immigration - nationality and citizenship" "English, Hindi, Mirpuri, Punjabi, Urdu" "https://solicitors.lawsociety.org.uk/person/177778/sarvesh-saini"
+"278146" "Nabiha Ruquya Sarvat Saleheen" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/04/03" "Commercial property, Conveyancing - residential" "English" "https://solicitors.lawsociety.org.uk/person/276538/nabiha-ruquya-sarvat-saleheen"
+"658282" "CHIINTHU SARVANANTHAN" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 23/04/21" NA "English" "https://solicitors.lawsociety.org.uk/person/423516/chiinthu-sarvananthan"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

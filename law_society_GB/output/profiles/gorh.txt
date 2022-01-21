@@ -1,0 +1,4 @@
+"315947" "Julia Magdalena Gorham" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/03" "Employment, Litigation - general" "English" "https://solicitors.lawsociety.org.uk/person/65562/julia-magdalena-gorham"
+"524103" "Richard John Gorham" "03330060000" "generalenquiries@TLTsolicitors.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/03/16" "Commercial property" "English" "https://solicitors.lawsociety.org.uk/person/153233/richard-john-gorham"
+"404783" "Simon Geoffrey Gorham" "02076297411" "bh@boodlehatfield.com" "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 17/09/07" "Employment" "English" "https://solicitors.lawsociety.org.uk/person/141291/simon-geoffrey-gorham"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

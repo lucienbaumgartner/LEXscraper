@@ -1,0 +1,3 @@
+"595149" "Elizaveta Laube" "+4969719901" "LegalEnquiries@CliffordChance.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/15" NA "English, German, Russian" "https://solicitors.lawsociety.org.uk/person/297394/elizaveta-laube"
+"107284" "Brian Peter Laubach Musgrave" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/12/75" "Commercial litigation, Conveyancing - residential, Family - general, Landlord and tenant - residential, Litigation - general, Neighbour disputes" "English" "https://solicitors.lawsociety.org.uk/person/177559/brian-peter-laubach-musgrave"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

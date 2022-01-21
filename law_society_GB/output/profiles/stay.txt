@@ -1,0 +1,4 @@
+"660913" "NATASHA STAY" "01212373900" "contactus@brownejacobson.com" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 01/03/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000000476/natasha-stay"
+"464850" "Sevdalena Zdravkova Staykova" "02070880000" "tschillaci@omm.com" "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 02/03/09" "Company and commercial, Mergers and acquisitions" "Bulgarian, English" "https://solicitors.lawsociety.org.uk/person/249017/sevdalena-zdravkova-staykova"
+"586827" "Matthew Alexander Guy Stayt" "02078703887" "charles.pilcher@fletcherday.co.uk" "Employee Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/12/16" "Commercial property" "English" "https://solicitors.lawsociety.org.uk/person/312253/matthew-alexander-guy-stayt"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

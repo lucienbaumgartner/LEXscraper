@@ -1,0 +1,4 @@
+"827565" "Ilia Smirnov" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 19/11/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000032375/ilia-smirnov"
+"480600" "Anna Smirnova" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 03/10/11" "Banking, Energy and natural resources" "English, French, Russian" "https://solicitors.lawsociety.org.uk/person/184603/anna-smirnova"
+"655801" "JULIA NIKOLAIEVNA SMIRNOVA" "01534888666" "rose.colley@viberts.com" "" NA NA "Solicitor                                    Admitted as a solicitor: 15/07/20" NA "English" "https://solicitors.lawsociety.org.uk/person/403014/julia-nikolaievna-smirnova"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

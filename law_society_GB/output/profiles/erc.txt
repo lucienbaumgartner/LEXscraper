@@ -1,0 +1,4 @@
+"558218" "PETER ERCOLE DE BIASIO" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 13/01/21" NA "English" "https://solicitors.lawsociety.org.uk/person/227816/peter-ercole-de-biasio"
+"530256" "Ercan Sami" "02030515060" "info@oraclesolicitors.co.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 01/07/15" "Personal injury" "English" "https://solicitors.lawsociety.org.uk/person/186468/ercan-sami"
+"345568" "Edmund Olaf Ercc Smyth" "02078141200" "info@kingsleynapley.co.uk" "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 15/04/02" "Crime - fraud, Criminal Litigation Accredited, Crime - general, Criminal Litigation Accredited" "English" "https://solicitors.lawsociety.org.uk/person/279993/edmund-olaf-ercc-smyth"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

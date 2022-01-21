@@ -1,0 +1,3 @@
+"435237" "Elicia Bravo Garcia" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/03/10" "Corporate finance" "English, French, Spanish" "https://solicitors.lawsociety.org.uk/person/252203/elicia-bravo-garcia"
+"523619" "Elica O'Shea" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/12/10" "Clinical negligence, Commercial litigation, Insurance, Litigation - general" "English, Farsi (Persian)" "https://solicitors.lawsociety.org.uk/person/31994/elica-oshea"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,4 @@
+"652522" "Mariia Khramova" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 17/09/18" NA "English, Russian, Ukrainian" "https://solicitors.lawsociety.org.uk/person/363862/mariia-khramova"
+"654302" "Mariia Lys" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/06/20" NA "English" "https://solicitors.lawsociety.org.uk/person/399580/mariia-lys"
+"808911" "Mariia Puchyna" "02079364000" "legalenquiries@freshfields.com" "" NA NA "Solicitor                                    Admitted as a solicitor: 27/11/20" NA "English" "https://solicitors.lawsociety.org.uk/person/414509/mariia-puchyna"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

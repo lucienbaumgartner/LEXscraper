@@ -1,0 +1,3 @@
+"640002" "Emilly Dorinda Elizabeth Gabriella Chalk" "02077868710" "alison.ritchie@mtgllp.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 02/09/19" NA "English" "https://solicitors.lawsociety.org.uk/person/382780/emilly-dorinda-elizabeth-gabriella-chalk"
+"509307" "Cerys Emillia Poolis" "02076068855" "shannon.wilks@addleshawgoddard.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/14" "Banking" "English, Welsh" "https://solicitors.lawsociety.org.uk/person/248454/cerys-emillia-poolis"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

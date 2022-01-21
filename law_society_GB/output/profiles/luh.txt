@@ -1,0 +1,5 @@
+"644931" "Carla Katharina Luh" "+49 (0) 40 419 93 0" NA "SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/346788/carla-katharina-luh"
+"642831" "Riina Luha" "02076532000" "isabelandrews@quinnemanuel.com" "Role not specified" NA NA "Solicitor                                    Admitted as a solicitor: 02/09/19" NA "English" "https://solicitors.lawsociety.org.uk/person/382929/riina-luha"
+"419754" "Rita Luhar" "01926410410" "Markrandell@warwickshire.gov.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 03/05/05" "Administrative and public law, Commercial property, Conveyancing - residential" "English, Gujarati, Hindi" "https://solicitors.lawsociety.org.uk/person/177859/rita-luhar"
+"476153" "Rohida Luhar" "0161 904 4660" "robert.mares@purelegallimited.co.uk" "" NA NA "Solicitor                                    Admitted as a solicitor: 01/12/17" "Litigation - general, Personal injury" "English, Urdu" "https://solicitors.lawsociety.org.uk/person/144242/rohida-luhar"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

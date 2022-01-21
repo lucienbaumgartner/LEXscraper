@@ -1,0 +1,4 @@
+"480157" "Theresa Astrid Matts" "02073387342" NA "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/03/12" NA "English" "https://solicitors.lawsociety.org.uk/person/44298/theresa-astrid-matts"
+"117912" "Victor Geoffrey Flavell Matts" "01789293259" "lawyers@lodders.co.uk" "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 01/10/79" "Commercial property, Company and commercial, Employment, Intellectual property, Tax" "English" "https://solicitors.lawsociety.org.uk/person/5539/victor-geoffrey-flavell-matts"
+"34403" "Geraldina Mattsson" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 03/01/06" "Commercial litigation, Intellectual property" "Cantonese, Chinese, English, Mandarin" "https://solicitors.lawsociety.org.uk/person/227125/geraldina-mattsson"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,4 @@
+"620535" "Celina Esther Cua" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/04/16" "Aviation, Company and commercial, Construction" "English" "https://solicitors.lawsociety.org.uk/person/318681/celina-esther-cua"
+"653308" "Cuan Neill Mills" "02077101063" "becks.norman@lw.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/11/18" NA "English" "https://solicitors.lawsociety.org.uk/person/366729/cuan-neill-mills"
+"635770" "Philip Joseph Cuadra Whitehead" "02030880000" "annette.fritze-shanks@allenovery.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/03/19" "Corporate finance, Mergers and acquisitions" "English" "https://solicitors.lawsociety.org.uk/person/373223/philip-joseph-cuadra-whitehead"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

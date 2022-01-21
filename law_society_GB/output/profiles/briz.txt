@@ -1,0 +1,3 @@
+"357251" "Andrew Robert Brizell" NA NA "Director" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/05" "Company and commercial, Corporate finance, Financial services, Private client - trusts, Tax" "English" "https://solicitors.lawsociety.org.uk/person/42588/andrew-robert-brizell"
+"477903" "Katy Mary Brizell" "01865393200" NA "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/11" "Company and commercial, Information Technology, Intellectual property, Mergers and acquisitions" "English" "https://solicitors.lawsociety.org.uk/person/45654/katy-mary-brizell"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

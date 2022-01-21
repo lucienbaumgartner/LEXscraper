@@ -1,0 +1,3 @@
+"3574" "Olujinmi Akinyele Kufeji" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/02/13" "Advocacy, Crime - general, Litigation - general, Mental health" "English, French, Yoruba" "https://solicitors.lawsociety.org.uk/person/218358/olujinmi-akinyele-kufeji"
+"528396" "Naana Abena Nyarkoh Kufuor" "07572168785" "legal@softcat.com" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 17/12/18" "Information Technology" "English, Twi" "https://solicitors.lawsociety.org.uk/person/277499/naana-abena-nyarkoh-kufuor"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

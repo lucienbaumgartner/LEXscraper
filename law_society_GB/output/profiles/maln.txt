@@ -1,0 +1,3 @@
+"582464" "Gareth Malna" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/15" "Financial services" "English" "https://solicitors.lawsociety.org.uk/person/299950/gareth-malna"
+"572465" "Sumayyah Farakh Ali Malna" NA NA "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/14" NA "English" "https://solicitors.lawsociety.org.uk/person/298860/sumayyah-farakh-ali-malna"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

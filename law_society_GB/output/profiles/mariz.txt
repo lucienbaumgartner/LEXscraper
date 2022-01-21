@@ -1,0 +1,4 @@
+NA "Shaheeda Marizan Nor" "01612225860" "info@primussolicitors.com" "Role not specified" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/377265/shaheeda-marizan-nor"
+"670469" "Mariza Gabriela Oliveira Sousa Cardoso" NA NA "" NA NA "Registered foreign lawyer" NA "English, Portuguese" "https://solicitors.lawsociety.org.uk/person/399241/mariza-gabriela-oliveira-sousa-cardoso"
+"578370" "Sonia Patricia Mariz Ferreira Vilar" "01923215040" NA "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/10/15" "Commercial litigation" "English, Portuguese" "https://solicitors.lawsociety.org.uk/person/297056/sonia-patricia-mariz-ferreira-vilar"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

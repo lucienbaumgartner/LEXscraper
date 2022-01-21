@@ -1,0 +1,3 @@
+"227140" "Laurence William Gorley" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 16/10/00" "Banking, Commercial property, Company and commercial, Corporate finance" "English" "https://solicitors.lawsociety.org.uk/person/111215/laurence-william-gorley"
+"571632" "Jessica Haymon Gorlov" "02077433000" "susan.olton@blackrock.com" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/09/14" NA "English" "https://solicitors.lawsociety.org.uk/person/299964/jessica-haymon-gorlov"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

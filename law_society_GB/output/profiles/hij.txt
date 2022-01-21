@@ -1,0 +1,5 @@
+"650867" "Sharaf Emad Jaza Al-Hijazin" "971 2 644 6633" "mero@clydeco.ae" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/05/20" NA "Arabic, English" "https://solicitors.lawsociety.org.uk/person/396061/sharaf-emad-jaza-al-hijazin"
+"636271" "Amr Hijazi" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 18/04/17" "Litigation - general, Mergers and acquisitions" "Arabic, English" "https://solicitors.lawsociety.org.uk/person/328419/amr-hijazi"
+"655596" "RISAKO HIJIKATA" NA "tracey.morgan@simmons-simmons.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 19/10/20" NA "English" "https://solicitors.lawsociety.org.uk/person/403045/risako-hijikata"
+"645331" "Hashem Wael Hashem Hijjawi" "02073535005" NA "Role not specified" NA NA "Solicitor                                    Admitted as a solicitor: 15/10/19" NA "Arabic, English" "https://solicitors.lawsociety.org.uk/person/386911/hashem-wael-hashem-hijjawi"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

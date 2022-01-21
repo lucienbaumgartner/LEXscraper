@@ -1,0 +1,3 @@
+"324423" "Lynford Cohen" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/01/01" "Commercial property, Conveyancing - residential, Private client - Probate, Private client - Wills" "English" "https://solicitors.lawsociety.org.uk/person/74547/lynford-cohen"
+"125088" "Lynford Roy Fuller" "01159411469" "info@sillslegal.co.uk" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 15/06/84" "Crime - general, Criminal Litigation Accredited" "English" "https://solicitors.lawsociety.org.uk/person/93078/lynford-roy-fuller"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

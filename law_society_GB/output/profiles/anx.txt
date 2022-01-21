@@ -1,0 +1,4 @@
+"657670" "ANXIN HUA" "02076381111" "myhrservices@ashurst.com" "" NA NA "Solicitor                                    Admitted as a solicitor: 15/03/21" NA "English" "https://solicitors.lawsociety.org.uk/person/423194/anxin-hua"
+NA "Anxhela Leskaj" "02035518500" "jessie.sangha@mwsolicitors.co.uk" "" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/369416/anxhela-leskaj"
+"631040" "Anxhela Gjalpi Leskaj" "02035404444" "info@taylor-rose.co.uk" "Assistant Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 02/01/18" NA "Albanian, English" "https://solicitors.lawsociety.org.uk/person/347915/anxhela-gjalpi-leskaj"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

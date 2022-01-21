@@ -1,0 +1,5 @@
+"574103" "Alaa Abdoun" "0207263788702075617170" "sarahburke@burkeniazi.com" "" NA NA "Solicitor                                    Admitted as a solicitor: 02/09/19" NA "English" "https://solicitors.lawsociety.org.uk/person/352092/alaa-abdoun"
+NA "Alaa Ahmed" "02088087535" "m.davies@wilsonllp.co.uk" "Role not specified" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/1000020296/alaa-ahmed"
+"412412" "Omar Alaa El-din El-Sayed" "02074562000" "rbrooker@linklaters.com" "Non-member Partner" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/08" "Banking, Corporate finance, Mergers and acquisitions" "Arabic, English" "https://solicitors.lawsociety.org.uk/person/52739/omar-alaa-el-din-el-sayed"
+"596221" "Alaa Eltom" NA "henrik.wikstrom@deliveroo.co.uk" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 02/03/15" NA "English" "https://solicitors.lawsociety.org.uk/person/296046/alaa-eltom"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,4 @@
+"339735" "Thomas William Scoffham" "01174281999" NA "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 01/08/05" "Private client - Probate, Private client - trusts, Private client - Wills" "English" "https://solicitors.lawsociety.org.uk/person/110829/thomas-william-scoffham"
+"339735" "Thomas William Scoffham" "01174281999" NA "SRA-approved manager - Member" NA NA "Wills, Probate and Mental Capacity Specialist Solicitor" "Private client - Probate, Private client - trusts, Private client - Wills" "English" "https://solicitors.lawsociety.org.uk/person/110829/thomas-william-scoffham"
+"109145" "Anthony Delmege Scofield" NA NA "" NA NA NA "Advocacy, Higher courts rights - criminal Accredited" "English" "https://solicitors.lawsociety.org.uk/person/64216/anthony-delmege-scofield"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

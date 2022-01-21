@@ -1,0 +1,6 @@
+"636485" "Mevish Ahmed" "01494560000" "sally.unwin@inhealthgroup.com" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 01/03/19" NA "English" "https://solicitors.lawsociety.org.uk/person/372278/mevish-ahmed"
+"661127" "EDITA MEVLA ALIC" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/11/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000000190/edita-mevla-alic"
+"804893" "Aneesa Mevish Hussain" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 06/09/21" NA "English" "https://solicitors.lawsociety.org.uk/person/408919/aneesa-mevish-hussain"
+"529008" "Mevsim Kilinc" "02087342800" "william.cecil@haynesboone.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/03/19" "Banking" "English, Turkish" "https://solicitors.lawsociety.org.uk/person/373128/mevsim-kilinc"
+"195085" "Katy Meves" "03301247818" "ben@springhouselaw.com" "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 02/05/00" "Employment, Pensions" "English" "https://solicitors.lawsociety.org.uk/person/285750/katy-meves"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

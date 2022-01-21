@@ -1,0 +1,6 @@
+"806567" "Mattan Lass" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 03/12/20" NA "English" "https://solicitors.lawsociety.org.uk/person/411419/mattan-lass"
+"634530" "Carrianne Matta" "01392210700" "enquiries@stephens-scown.co.uk" "Assistant" NA NA "Solicitor                                    Admitted as a solicitor: 03/12/18" NA "English" "https://solicitors.lawsociety.org.uk/person/368014/carrianne-matta"
+"653765" "Jorge Mattamouros Rezende" NA "gmclean@whitecase.com" "Partner" NA NA "Registered foreign lawyer" "Commercial litigation" "English" "https://solicitors.lawsociety.org.uk/person/362316/jorge-mattamouros-rezende"
+"371396" "David Mattan" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 03/02/03" "Crime - general, Higher courts rights - criminal Accredited" "English, Hebrew" "https://solicitors.lawsociety.org.uk/person/6864/david-mattan"
+"582668" "Laura Mattar" "02075976000" "lucy.brooker@withersworldwide.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/10/19" NA "English" "https://solicitors.lawsociety.org.uk/person/354289/laura-mattar"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

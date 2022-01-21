@@ -1,0 +1,5 @@
+"602550" "Rachel Mary Alidieres" "0182765765" "Tamworth@wadsworthslaw.co.uk" "" NA NA "Solicitor                                    Admitted as a solicitor: 16/11/15" "Family - general, Private client - Probate, Private client - Wills" "English" "https://solicitors.lawsociety.org.uk/person/296587/rachel-mary-alidieres"
+"319285" "Shenifa Alidina" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/03/04" "Administrative and public law, Advocacy, Children, Family - general, Family - mediation" "English, Gujarati" "https://solicitors.lawsociety.org.uk/person/66637/shenifa-alidina"
+"815364" "ALIDA DELMAESTRO BRYCE" "01463221727" "LEGAL@MUNRONOBLE.COM" "" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/1000004330/alida-delmaestro-bryce"
+"18533" "Alida Louise Coates" "01212121828" NA "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 01/05/96" "Personal injury" "English" "https://solicitors.lawsociety.org.uk/person/236634/alida-louise-coates"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

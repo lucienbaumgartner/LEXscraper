@@ -1,0 +1,3 @@
+"549315" "Imran M Gorji" "02084376504" NA "Employee" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 02/09/13" "Advocacy, Crime - general, Environment, Licensing gaming and betting, Litigation - general" "Arabic, English, Hindi" "https://solicitors.lawsociety.org.uk/person/291372/imran-m-gorji"
+"657028" "RAAD RIYAD GORJI" "02070061000" "LegalEnquiries@CliffordChance.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 21/02/21" NA "English" "https://solicitors.lawsociety.org.uk/person/422631/raad-riyad-gorji"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

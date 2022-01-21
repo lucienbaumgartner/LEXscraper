@@ -1,0 +1,3 @@
+"276386" "Amber Colleen Chaze" "02074106502" NA "" NA NA "Solicitor                                    Admitted as a solicitor: 02/12/02" "Banking, Company and commercial, Financial services, Information Technology, Intellectual property" "English, French" "https://solicitors.lawsociety.org.uk/person/73409/amber-colleen-chaze"
+"202438" "Paul Chaz Maynard" "01323435900" "info@gabyhardwicke.co.uk" "Director - OBITER LIMITED, SRA-approved manager - Partner" NA NA "Solicitor                                    Admitted as a solicitor: 15/12/98" "Commercial litigation, Company and commercial, Litigation - general" "English" "https://solicitors.lawsociety.org.uk/person/200191/paul-chaz-maynard"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

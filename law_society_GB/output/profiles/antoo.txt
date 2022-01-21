@@ -1,0 +1,4 @@
+"30508" "Antoon Willem Rutger Andree-Wiltens" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 16/03/98" "Media, entertainment and sport, Mergers and acquisitions" "Dutch, English, French, German" "https://solicitors.lawsociety.org.uk/person/61856/antoon-willem-rutger-andree-wiltens"
+"647133" "Wilson Antoon" NA "greg.stonefield@eu.kwm.com" "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 16/04/18" NA "English" "https://solicitors.lawsociety.org.uk/person/354432/wilson-antoon"
+"264104" "Geert Antoon Herve Goeteyn" NA "rshrhelpdesk@reedsmith.com" "" NA NA "Solicitor                                    Admitted as a solicitor: 01/08/97" "Aviation" "English, Flemish" "https://solicitors.lawsociety.org.uk/person/104037/geert-antoon-herve-goeteyn"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

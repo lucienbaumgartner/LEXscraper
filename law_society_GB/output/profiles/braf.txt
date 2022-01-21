@@ -1,0 +1,5 @@
+"466321" "Ben Leonas Brafman" "02073111000" "Amanda.Brown2@KPMG.co.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 01/04/09" "Corporate finance, Mergers and acquisitions" "English, French" "https://solicitors.lawsociety.org.uk/person/111448/ben-leonas-brafman"
+"466321" "Ben Leonas Brafman" "
+                        Amanda.Brown2@KPMG.co.uk 
+                    " "Amanda.Brown2@KPMG.co.uk" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 01/04/09" "Corporate finance, Mergers and acquisitions" "English, French" "https://solicitors.lawsociety.org.uk/person/111448/ben-leonas-brafman"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

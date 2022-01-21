@@ -1,0 +1,3 @@
+"652520" "Natascha Geraedts" NA NA "SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/361327/natascha-geraedts"
+"375883" "Mark Geraerts" "01189513690" "ThamesChiltern.ABC@cps.gov.uk" "Crown Prosecuting Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 17/07/06" "Advocacy, Criminal Litigation Accredited, Crime - fraud, Criminal Litigation Accredited, Crime - general, Criminal Litigation Accredited, Litigation - general" "English" "https://solicitors.lawsociety.org.uk/person/140941/mark-geraerts"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

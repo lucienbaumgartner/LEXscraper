@@ -1,0 +1,3 @@
+"508850" "Blanka Odochi Amauwah" "02088194242" "info@clpsolicitors.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 01/11/12" NA "English" "https://solicitors.lawsociety.org.uk/person/132398/blanka-odochi-amauwah"
+"615751" "Amaury de FEYDEAU" "+442078624600" "info@orrick.com" "" NA NA "Registered foreign lawyer" "Banking" "English, French" "https://solicitors.lawsociety.org.uk/person/300859/amaury-de-feydeau"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

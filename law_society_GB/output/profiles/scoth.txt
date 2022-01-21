@@ -1,0 +1,3 @@
+"312789" "Paula Marie Theresa Birrane-Scothern" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/11/02" "Commercial litigation, Employment, Litigation - general, Personal injury" "English" "https://solicitors.lawsociety.org.uk/person/176610/paula-marie-theresa-birrane-scothern"
+"422895" "Kieran Ashley Scothern" "02071164732" "jon.tumminio@barclays.com" "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/09" "Banking, Commercial litigation, Financial services, Insolvency and restructuring - business, Litigation - general" "English" "https://solicitors.lawsociety.org.uk/person/52219/kieran-ashley-scothern"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

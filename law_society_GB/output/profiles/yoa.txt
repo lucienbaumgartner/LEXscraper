@@ -1,0 +1,5 @@
+"653126" "YOANA GEORGIEVA" "02074692000" "melanie.johnson@kirkland.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 14/09/20" NA "English" "https://solicitors.lawsociety.org.uk/person/409738/yoana-georgieva"
+"602267" "Yoann Elie Lewkowitz" "02078888888" NA "Inhouse Solicitor" NA NA "Solicitor                                    Admitted as a solicitor: 15/03/17" NA "English, French, Hebrew, Italian" "https://solicitors.lawsociety.org.uk/person/310797/yoann-elie-lewkowitz"
+"434931" "Yoana Vasileva Yoshovska" "02078888888" NA "Director" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/09" "Company and commercial, Corporate finance, Financial services, Mergers and acquisitions" "English, German, Spanish" "https://solicitors.lawsociety.org.uk/person/226186/yoana-vasileva-yoshovska"
+"564721" "Yoana Zhechkova" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/04/14" NA "Bulgarian, English" "https://solicitors.lawsociety.org.uk/person/294355/yoana-zhechkova"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

@@ -1,0 +1,4 @@
+"344816" "Laurent Garzaniti" "+32 2 504 7000" "legalenquires@freshfields.com" "SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/220745/laurent-garzaniti"
+"623439" "Alessandra Garzya" "3902806181" "andrew.darwin@dlapiper.com" "Member - DLA PIPER INTERNATIONAL LLP, Partner" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/313369/alessandra-garzya"
+"484165" "Maricela Robles Garza" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/11" "Environment, Litigation - general" "English, Spanish" "https://solicitors.lawsociety.org.uk/person/33358/maricela-robles-garza"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

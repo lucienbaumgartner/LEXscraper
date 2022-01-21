@@ -1,0 +1,3 @@
+"640006" "Tayla Nicole Dyer" "02072962000" "nancy.dobson@hoganlovells.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 02/09/19" "Commercial litigation" "English" "https://solicitors.lawsociety.org.uk/person/383408/tayla-nicole-dyer"
+"340287" "Kevin Babashola Taylaur" "+97124130000" "ktaylaur@mubadala.ae" "Employee" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/04" "Banking, Commercial property, Construction, Corporate finance, Cross-border, Financial services" "English" "https://solicitors.lawsociety.org.uk/person/216117/kevin-babashola-taylaur"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

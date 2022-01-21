@@ -1,0 +1,3 @@
+"656555" "DANIEL EREZ HANNUNA" "02075321000" "gmclean@whitecase.com" "Associate - White & Case Llp (Us), Associate" NA NA "Solicitor                                    Admitted as a solicitor: 04/03/21" NA "English" "https://solicitors.lawsociety.org.uk/person/1000004989/daniel-erez-hannuna"
+"305921" "Hannu Mikkola" NA NA "" NA NA "Solicitor                                    Admitted as a solicitor: 15/09/05" "Banking, Company and commercial, Corporate finance, Financial services, Mergers and acquisitions" "English, Finnish" "https://solicitors.lawsociety.org.uk/person/206068/hannu-mikkola"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

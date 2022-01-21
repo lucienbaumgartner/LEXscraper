@@ -1,0 +1,4 @@
+"613014" "Keith Lea Geurts" "014163664555" NA "Member - CLYDE & CO LLP, Partner Member Member" NA NA "Registered foreign lawyer" "Commercial litigation" "English" "https://solicitors.lawsociety.org.uk/person/294294/keith-lea-geurts"
+"350550" "Marjolein Juricza Geus" NA NA "Member - BIRD & BIRD LLP, Member" NA NA "Registered foreign lawyer" "Administrative and public law, Commercial litigation, European Community law, Information Technology, Media, entertainment and sport" "Dutch, English, French" "https://solicitors.lawsociety.org.uk/person/83926/marjolein-juricza-geus"
+"427357" "Thomas Geuther" "02070661000" "susan.shakespeare@fsa.gov.uk" "Role not specified" NA NA "Solicitor                                    Admitted as a solicitor: 03/07/06" "Commercial litigation, Litigation - general" "English" "https://solicitors.lawsociety.org.uk/person/248430/thomas-geuther"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

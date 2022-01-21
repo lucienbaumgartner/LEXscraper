@@ -1,0 +1,5 @@
+"594841" "Nadezhda Lula" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 01/09/16" NA "English, Russian" "https://solicitors.lawsociety.org.uk/person/306587/nadezhda-lula"
+"494576" "Christopher Robert Lulic" "02070093333" NA "" NA NA "Solicitor                                    Admitted as a solicitor: 01/07/10" "Information Technology" "English" "https://solicitors.lawsociety.org.uk/person/184331/christopher-robert-lulic"
+"669922" "Nikita Lulla" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/05/20" NA "English" "https://solicitors.lawsociety.org.uk/person/399070/nikita-lulla"
+"815117" "Ines Isabel Lulof" "02076655000" "nboyle@hausfeld.com" "Associate" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/1000003822/ines-isabel-lulof"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

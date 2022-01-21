@@ -1,0 +1,4 @@
+"14417" "Iain Norman Scoon" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 16/10/95" "Tax" "English" "https://solicitors.lawsociety.org.uk/person/272754/iain-norman-scoon"
+"444691" "Jaspal Scoot" "01245455800" NA "Role not specified" NA NA "Solicitor                                    Admitted as a solicitor: 02/09/13" "Crime - general, Criminal Litigation Accredited, Family - general" "English, Punjabi" "https://solicitors.lawsociety.org.uk/person/264384/jaspal-scoot"
+"275780" "Katharine Elizabeth Scoot" "01462458711" "company@foremanlaws.co.uk" "SRA-approved manager - Member" NA NA "Solicitor                                    Admitted as a solicitor: 02/04/02" "Children, Family - general" "English" "https://solicitors.lawsociety.org.uk/person/127158/katharine-elizabeth-scoot"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

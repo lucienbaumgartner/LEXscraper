@@ -1,0 +1,6 @@
+"620341" "Yekaterina Ascher" NA NA "" NA NA "Solicitor - non-practising                                    Admitted as a solicitor: 15/11/16" "Information Technology, Intellectual property" "English" "https://solicitors.lawsociety.org.uk/person/324451/yekaterina-ascher"
+"617631" "Nicolaus Ascherfeld" "00 49 4082 221 20" NA "Member - ALLEN & OVERY (BELGIUM) LLP, SRA-approved manager - Member" NA NA "Registered foreign lawyer" NA "English" "https://solicitors.lawsociety.org.uk/person/301203/nicolaus-ascherfeld"
+"648100" "Guido Ascheri" "02088341076" "lucia.zeleznik@adamnelson.london" "Director - ASCHERI & PARTNERS LTD, SRA-approved manager - Member Owner" NA NA NA NA "English" "https://solicitors.lawsociety.org.uk/person/354858/guido-ascheri"
+"608451" "Leah Aschettino" "02034001000" "dominique.dewar@bclplaw.com" "Employee Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/03/17" "Employment" "English" "https://solicitors.lawsociety.org.uk/person/310583/leah-aschettino"
+"272775" "Richard Lee Ascroft" "02073490296" "Andrew.Darwin@dlapiper.com" "Associate" NA NA "Solicitor                                    Admitted as a solicitor: 15/05/02" "Commercial property" "English" "https://solicitors.lawsociety.org.uk/person/204375/richard-lee-ascroft"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

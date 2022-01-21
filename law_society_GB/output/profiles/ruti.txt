@@ -1,0 +1,3 @@
+"405760" "Ruti Daniella Cohen" "01962847378" "rachel.taylor@hants.gov.uk" "" NA NA "Solicitor                                    Admitted as a solicitor: 15/11/04" "Administrative and public law" "English, Hebrew" "https://solicitors.lawsociety.org.uk/person/166035/ruti-daniella-cohen"
+"532831" "Michael Rutili" "02075976000" "lucy.brooker@withersworldwide.com" "" NA NA "Solicitor                                    Admitted as a solicitor: 01/10/13" NA "English" "https://solicitors.lawsociety.org.uk/person/202646/michael-rutili"
+NA NA NA NA "" NA NA NA NA NA "https://solicitors.lawsociety.org.uk"

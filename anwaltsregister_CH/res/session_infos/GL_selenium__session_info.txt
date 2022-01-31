@@ -1,0 +1,80 @@
+$acceptInsecureCerts
+[1] FALSE
+
+$browserName
+[1] "firefox"
+
+$browserVersion
+[1] "96.0.3"
+
+$`moz:accessibilityChecks`
+[1] FALSE
+
+$`moz:buildID`
+[1] "20220126154723"
+
+$`moz:geckodriverVersion`
+[1] "0.30.0"
+
+$`moz:headless`
+[1] FALSE
+
+$`moz:processID`
+[1] 163
+
+$`moz:profile`
+[1] "/tmp/rust_mozprofileSMbc3D"
+
+$`moz:shutdownTimeout`
+[1] 60000
+
+$`moz:useNonSpecCompliantPointerOrigin`
+[1] FALSE
+
+$`moz:webdriverClick`
+[1] TRUE
+
+$pageLoadStrategy
+[1] "normal"
+
+$platformName
+[1] "linux"
+
+$platformVersion
+[1] "5.10.76-linuxkit"
+
+$proxy
+named list()
+
+$`se:cdp`
+[1] "ws://172.17.0.2:4444/session/da9ea514-dd34-4a51-ab72-e8f17b44caac/se/cdp"
+
+$`se:vnc`
+[1] "ws://172.17.0.2:4444/session/da9ea514-dd34-4a51-ab72-e8f17b44caac/se/vnc"
+
+$`se:vncEnabled`
+[1] TRUE
+
+$`se:vncLocalAddress`
+[1] "ws://172.17.0.2:7900"
+
+$setWindowRect
+[1] TRUE
+
+$strictFileInteractability
+[1] FALSE
+
+$timeouts
+$timeouts$implicit
+[1] 0
+
+$timeouts$pageLoad
+[1] 300000
+
+$timeouts$script
+[1] 30000
+
+
+$unhandledPromptBehavior
+[1] "dismiss and notify"
+
